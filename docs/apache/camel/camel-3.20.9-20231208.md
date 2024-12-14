@@ -1,0 +1,10 @@
+# camel-3.20.9
+
+## release on 20231208
+
+## description
+
+## changes
+
+[maven-release-plugin] copy for tag <a class="issue-link js-issue-link notranslate" rel="noopener noreferrer nofollow" href="https://issues.apache.org/jira/browse/CAMEL-3">camel-3</a>.20.9
+

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+    <include resource="org/springframework/boot/logging/logback/base.xml" />
+    <include resource="org/springframework/boot/logging/logback/defaults.xml" />
+
+    <springProperty scope="context" name="appName" source="spring.application.name" />
+    <springProperty scope="context" name="serverPort" source="server.port" />
+
+    <property name="LOG_PATH" value="logs" />
+    <shutdownHook class="ch.qos.logback.core.hook.DelayingShutdownHook" />
+
+    <appender name="FILE-AUDIT" class="ch.qos.logback.core.rolling.RollingFileAppender">
+        <file>${LOG_PATH}/releases-dashboard.log</file>
+        <encoder>
+            <pattern>%d{HH:mm:ss.SSS} [%thread] %-5level %logger{36} - %msg%n</pattern>
+        </encoder>
+        <rollingPolicy class="ch.qos.logback.core.rolling.TimeBasedRollingPolicy">
+            <fileNamePattern>${LOG_PATH}/releases-dashboard.%d{yyyy-MM-dd}.%i.log</fileNamePattern>
+            <timeBasedFileNamingAndTriggeringPolicy
+                class="ch.qos.logback.core.rolling.SizeAndTimeBasedFNATP">
+                <maxFileSize>10MB</maxFileSize>
+            </timeBasedFileNamingAndTriggeringPolicy>
+        </rollingPolicy>
+    </appender>
+    <logger name="com.springframework" level="ERROR" additivity="false">
+        <appender-ref ref="FILE-AUDIT" />
+    </logger>
+    <logger name="org.springframework.amqp" level="ERROR" additivity="false">
+        <appender-ref ref="FILE-AUDIT" />
+    </logger>
+    <logger name="org.springframework.beans" level="ERROR" additivity="false">
+        <appender-ref ref="FILE-AUDIT" />
+    </logger>
+    <logger name="org.springframework.test" level="ERROR" additivity="false">
+        <appender-ref ref="FILE-AUDIT" />
+    </logger>
+
+    <logger name="ch.qos.logback" level="WARN" additivity="false">
+        <appender-ref ref="FILE-AUDIT" />
+    </logger>
+
+    <logger name="org.atmosphere" level="WARN" additivity="false">
+        <appender-ref ref="FILE-AUDIT" />
+    </logger>
+    <logger name="jdk.event.security" level="WARN" additivity="false">
+        <appender-ref ref="FILE-AUDIT" />
+    </logger>
+    <logger name="com.netflix" level="ERROR" additivity="false">
+        <appender-ref ref="FILE-AUDIT" />
+    </logger>
+    <logger name="com.rabbitmq" level="ERROR" additivity="false">
+        <appender-ref ref="FILE-AUDIT" />
+    </logger>
+    <logger name="com.internal.developer.platform.releases" level="ERROR" additivity="false">
+        <appender-ref ref="FILE-AUDIT" />
+    </logger>
+    <logger name="net.sf.ehcache" level="ERROR" additivity="false">
+        <appender-ref ref="FILE-AUDIT" />
+    </logger>
+    <logger name="com.netflix.eureka" level="ERROR" additivity="false">
+        <appender-ref ref="FILE-AUDIT" />
+    </logger>
+    <logger name="com.netflix.discovery" level="ERROR" additivity="false">
+        <appender-ref ref="FILE-AUDIT" />
+    </logger>
+    <logger name="org.apache.skywalking" level="ERROR" additivity="false">
+        <appender-ref ref="FILE-AUDIT" />
+    </logger>
+    <logger name="io.grpc" level="ERROR" additivity="false">
+        <appender-ref ref="FILE-AUDIT" />
+    </logger>
+    <logger name="io.netty" level="ERROR" additivity="false">
+        <appender-ref ref="FILE-AUDIT" />
+    </logger>
+    <logger name="io.grpc.netty.shaded.io.grpc.netty.NettyClientHandler" level="INFO" />
+    <logger name="io.grpc.netty.shaded.io.grpc.netty.NettyServerHandler" level="INFO" />
+    <logger name="com.dashboard" level="DEBUG" additivity="false">
+        <appender-ref ref="FILE-AUDIT" />
+    </logger>
+    <root level="DEBUG">
+        <appender-ref ref="FILE-AUDIT" />
+    </root>
+</configuration>

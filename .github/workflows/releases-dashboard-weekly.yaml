@@ -1,0 +1,25 @@
+name: releases-dashboard-weekly
+on:
+  # https://docs.github.com/en/actions/writing-workflows/choosing-when-your-workflow-runs/events-that-trigger-workflows
+  schedule:
+    - cron: "0 0 * * 1"
+env:
+  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+  GITEE_USERNAME: ${{ secrets.GITEE_USERNAME }}
+  GITEE_TOKEN: ${{ secrets.GITEE_TOKEN }}
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: ./harmonyos_codelabs.sh
+      - run: npm install -g markdownlint-cli
+      - run: markdownlint 'docs/**/*.md' --ignore node_modules  --fix
+      - run: git config --global user.email "rock.c.c.hu@gmail.com"
+      - run: git config --global user.name "Rock Hu"
+      - run: git remote set-url origin https://git:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git
+      - run: git status
+      - run: git add .
+      - run: git commit -m "releases-dashboard-weekly - ${{ github.run_number }}"
+      - run: git push
+      - run: ls -l
