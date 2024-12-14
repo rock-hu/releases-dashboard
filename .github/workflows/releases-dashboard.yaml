@@ -17,7 +17,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - run: ./harmonyos_codelabs.sh
+      - run: mvn clean spring-boot:run
       - run: git config --global user.email "rock.c.c.hu@gmail.com"
       - run: git config --global user.name "Rock Hu"
       - run: git remote set-url origin https://git:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git
