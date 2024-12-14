@@ -1,7 +1,7 @@
 # releases-dashboard
 
-| on push                                                                                                | on schedule                                                                                                   |
-| ------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------- |
+|                                                on push                                                 |                                                  on schedule                                                  |
+|--------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|
 | ![](https://github.com/rock-hu/releases-dashboard/actions/workflows/releases-dashboard.yaml/badge.svg) | ![](https://github.com/rock-hu/releases-dashboard/actions/workflows/releases-dashboard-weekly.yaml/badge.svg) |
 
 ## maven

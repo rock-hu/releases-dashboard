@@ -1,7 +1,6 @@
 
 package com.internal.developer.platform.releases.service;
 
-import java.io.FileNotFoundException;
 import java.io.IOException;
 import org.codehaus.plexus.util.xml.pull.XmlPullParserException;
 

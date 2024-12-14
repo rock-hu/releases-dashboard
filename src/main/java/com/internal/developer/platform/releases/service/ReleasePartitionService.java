@@ -1,7 +1,6 @@
 package com.internal.developer.platform.releases.service;
 
 import com.rometools.rome.io.FeedException;
-import java.io.File;
 import java.io.IOException;
 import java.util.List;
 import java.util.concurrent.ExecutionException;

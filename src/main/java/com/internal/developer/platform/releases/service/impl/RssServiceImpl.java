@@ -3,16 +3,13 @@ package com.internal.developer.platform.releases.service.impl;
 import com.internal.developer.platform.releases.domain.Content;
 import com.internal.developer.platform.releases.domain.Release;
 import com.internal.developer.platform.releases.domain.Releases;
-import com.internal.developer.platform.releases.service.MarkdownService;
 import com.internal.developer.platform.releases.service.RssService;
 import com.rometools.rome.feed.synd.SyndContent;
 import com.rometools.rome.feed.synd.SyndEntry;
 import com.rometools.rome.feed.synd.SyndFeed;
 import com.rometools.rome.io.FeedException;
 import com.rometools.rome.io.SyndFeedInput;
-import com.rometools.rome.io.SyndFeedOutput;
 import com.rometools.rome.io.XmlReader;
-import java.io.File;
 import java.io.IOException;
 import java.net.MalformedURLException;
 import java.net.URL;
@@ -23,9 +20,6 @@ import java.util.List;
 import java.util.Map;
 import lombok.extern.slf4j.Slf4j;
 import org.apache.commons.collections4.CollectionUtils;
-import org.apache.commons.io.FileUtils;
-import org.apache.commons.lang3.StringUtils;
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 @Slf4j

@@ -10,7 +10,6 @@ import com.vladsch.flexmark.util.data.DataHolder;
 import com.vladsch.flexmark.util.data.MutableDataSet;
 import com.vladsch.flexmark.util.format.TableFormatOptions;
 import com.vladsch.flexmark.util.misc.Ref;
-import java.util.Collections;
 import java.util.HashMap;
 import java.util.Map;
 import org.springframework.context.annotation.Bean;

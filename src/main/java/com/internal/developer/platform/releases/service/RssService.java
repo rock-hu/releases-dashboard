@@ -4,7 +4,6 @@ import com.internal.developer.platform.releases.domain.Releases;
 import com.rometools.rome.io.FeedException;
 import java.io.IOException;
 import java.net.MalformedURLException;
-import java.util.List;
 
 public interface RssService {
 
