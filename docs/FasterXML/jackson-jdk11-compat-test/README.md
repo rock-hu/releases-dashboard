@@ -1,5 +1,5 @@
-# jackson-jdk11-compat-test
+# jackson-jdk11-compat-test	
 
-| version | release date | changes |
-|---------|--------------|---------|
 
+|version|release date|changes|
+|---|---|---|
