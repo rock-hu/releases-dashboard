@@ -1,5 +1,5 @@
-# spring-cloud-stream-jenkins-jobs	
+# spring-cloud-stream-jenkins-jobs
 
+| version | release date | changes |
+|---------|--------------|---------|
 
-|version|release date|changes|
-|---|---|---|

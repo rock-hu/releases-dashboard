@@ -1,8 +1,11 @@
 # Swagger-parser 2.1.23 released!
 
 ## release on 20241023
+
 ## description
+
 ## changes
+
 * update dependencies (<a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="2608043686" data-permission-text="Title is private" data-url="https://github.com/swagger-api/swagger-parser/issues/2128" data-hovercard-type="pull_request" data-hovercard-url="/swagger-api/swagger-parser/pull/2128/hovercard" href="https://github.com/swagger-api/swagger-parser/pull/2128">#2128</a>)
 * Enhancement/parser resolve responses flag (<a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="2591069080" data-permission-text="Title is private" data-url="https://github.com/swagger-api/swagger-parser/issues/2127" data-hovercard-type="pull_request" data-hovercard-url="/swagger-api/swagger-parser/pull/2127/hovercard" href="https://github.com/swagger-api/swagger-parser/pull/2127">#2127</a>)
 * fix <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="2265294949" data-permission-text="Title is private" data-url="https://github.com/swagger-api/swagger-parser/issues/2081" data-hovercard-type="issue" data-hovercard-url="/swagger-api/swagger-parser/issues/2081/hovercard" href="https://github.com/swagger-api/swagger-parser/issues/2081">#2081</a> - support nested composed schemas in resolveFully (<a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="2287313963" data-permission-text="Title is private" data-url="https://github.com/swagger-api/swagger-parser/issues/2097" data-hovercard-type="pull_request" data-hovercard-url="/swagger-api/swagger-parser/pull/2097/hovercard" href="https://github.com/swagger-api/swagger-parser/pull/2097">#2097</a>)

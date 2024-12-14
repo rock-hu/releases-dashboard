@@ -1,8 +1,11 @@
 # Panoramic Lapwing
 
 ## release on 20241213
+
 ## description
+
 ## changes
+
 We are excited to announce yet another new release of the Postgres Operator. Thanks to everyone who contributed with PRs, feedback, raising issues or providing ideas.
 
 New features
@@ -38,25 +41,25 @@ Breaking changes
 * dropped support for Postgres 11 (<a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="2437637613" data-permission-text="Title is private" data-url="https://github.com/zalando/postgres-operator/issues/2706" data-hovercard-type="pull_request" data-hovercard-url="/zalando/postgres-operator/pull/2706/hovercard" href="https://github.com/zalando/postgres-operator/pull/2706">#2706</a>)
 * dropped helm packages for 1.8.2 releases (<a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="2465673473" data-permission-text="Title is private" data-url="https://github.com/zalando/postgres-operator/issues/2729" data-hovercard-type="pull_request" data-hovercard-url="/zalando/postgres-operator/pull/2729/hovercard" href="https://github.com/zalando/postgres-operator/pull/2729">#2729</a>)
 
-amd images:  
+amd images:
 
-<strong>Docker image</strong>: registry.opensource.zalan.do/acid/postgres-operator:v1.13.0  
+<strong>Docker image</strong>: registry.opensource.zalan.do/acid/postgres-operator:v1.13.0
 
-<strong>UI Docker image</strong>: registry.opensource.zalan.do/acid/postgres-operator-ui:v1.13.0  
+<strong>UI Docker image</strong>: registry.opensource.zalan.do/acid/postgres-operator-ui:v1.13.0
 
 <strong>Logical Backup Docker image</strong>: registry.opensource.zalan.do/acid/logical-backup:v1.13.0
 
-Multi-arch image (arm):  
+Multi-arch image (arm):
 
-Postgres Operator: ghcr.io/zalando/postgres-operator:v1.13.0  
+Postgres Operator: ghcr.io/zalando/postgres-operator:v1.13.0
 
-UI: ghcr.io/zalando/postgres-operator-ui:v1.13.0  
+UI: ghcr.io/zalando/postgres-operator-ui:v1.13.0
 
 Logical Backup: ghcr.io/zalando/postgres-operator/logical-backup:v1.13.0
 
 <strong>Default Spilo image</strong>: ghcr.io/zalando/spilo-16:3.3-p1
 
-Thanks to our contributors: <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/idanovinda/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/idanovinda">@idanovinda</a>, <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/FxKu/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/FxKu">@FxKu</a>, <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/hughcapet/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/hughcapet">@hughcapet</a>, <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/macedigital/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/macedigital">@macedigital</a>, <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/sdudoladov/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/sdudoladov">@sdudoladov</a>  
+Thanks to our contributors: <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/idanovinda/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/idanovinda">@idanovinda</a>, <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/FxKu/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/FxKu">@FxKu</a>, <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/hughcapet/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/hughcapet">@hughcapet</a>, <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/macedigital/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/macedigital">@macedigital</a>, <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/sdudoladov/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/sdudoladov">@sdudoladov</a>
 
 <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/fahedouch/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/fahedouch">@fahedouch</a>, <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/mbegenau/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/mbegenau">@mbegenau</a>, <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/nickmansrob/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/nickmansrob">@nickmansrob</a>, <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/desaintmartin/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/desaintmartin">@desaintmartin</a>
 

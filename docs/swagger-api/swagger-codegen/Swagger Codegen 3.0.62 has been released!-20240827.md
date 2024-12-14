@@ -1,8 +1,11 @@
 # Swagger Codegen 3.0.62 has been released!
 
 ## release on 20240827
+
 ## description
+
 ## changes
+
 What's Changed
 
 * add schemaType to CodegenProperty - Update dependencies by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/frantuma/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/frantuma">@frantuma</a> in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="2487616002" data-permission-text="Title is private" data-url="https://github.com/swagger-api/swagger-codegen/issues/12454" data-hovercard-type="pull_request" data-hovercard-url="/swagger-api/swagger-codegen/pull/12454/hovercard" href="https://github.com/swagger-api/swagger-codegen/pull/12454">#12454</a>

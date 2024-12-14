@@ -1,8 +1,11 @@
 # Spring Pulsar 1.2.0-M2
 
 ## release on 20240917
+
 ## description
+
 ## changes
+
 ⭐ New Features
 
 * Add startup failure policy to listeners <a href="https://github.com/spring-projects/spring-pulsar/pull/823" data-hovercard-type="pull_request" data-hovercard-url="/spring-projects/spring-pulsar/pull/823/hovercard">#823</a>

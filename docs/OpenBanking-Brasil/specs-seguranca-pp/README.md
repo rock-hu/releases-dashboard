@@ -1,5 +1,5 @@
-# specs-seguranca-pp	
+# specs-seguranca-pp
 
+| version | release date | changes |
+|---------|--------------|---------|
 
-|version|release date|changes|
-|---|---|---|

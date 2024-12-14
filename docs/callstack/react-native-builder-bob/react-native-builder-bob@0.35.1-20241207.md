@@ -1,8 +1,11 @@
 # react-native-builder-bob@0.35.1
 
 ## release on 20241207
+
 ## description
+
 ## changes
+
 <a href="https://github.com/callstack/react-native-builder-bob/compare/react-native-builder-bob@0.35.0...react-native-builder-bob@0.35.1">0.35.1</a> (2024-12-06)
 
 Reverts

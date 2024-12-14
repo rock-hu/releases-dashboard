@@ -1,11 +1,14 @@
 # Provide option to timeout functions earlier than configured
 
 ## release on 20240711
+
 ## description
+
 ## changes
+
 Changelog for 0.10.2:
 
-Commits  
+Commits
 
 <a class="commit-link" data-hovercard-type="commit" data-hovercard-url="https://github.com/openfaas/of-watchdog/commit/ba8716ee4d78ffb30858f6d4527f3fca441bacc0/hovercard" href="https://github.com/openfaas/of-watchdog/commit/ba8716ee4d78ffb30858f6d4527f3fca441bacc0"><tt>ba8716e</tt></a> Provide option to timeout functions earlier than configured by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/alexellis/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/alexellis">@alexellis</a>
 

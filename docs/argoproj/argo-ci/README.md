@@ -1,5 +1,5 @@
-# argo-ci	
+# argo-ci
 
+| version | release date | changes |
+|---------|--------------|---------|
 
-|version|release date|changes|
-|---|---|---|

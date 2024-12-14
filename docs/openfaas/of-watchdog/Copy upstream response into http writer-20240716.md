@@ -1,11 +1,14 @@
 # Copy upstream response into http writer
 
 ## release on 20240716
+
 ## description
+
 ## changes
+
 Changelog for 0.10.4:
 
-Commits  
+Commits
 
 <a class="commit-link" data-hovercard-type="commit" data-hovercard-url="https://github.com/openfaas/of-watchdog/commit/ef933c878c385f5809ae4b8cdcef601c88525464/hovercard" href="https://github.com/openfaas/of-watchdog/commit/ef933c878c385f5809ae4b8cdcef601c88525464"><tt>ef933c8</tt></a> Copy upstream response into http writer by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/alexellis/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/alexellis">@alexellis</a>
 

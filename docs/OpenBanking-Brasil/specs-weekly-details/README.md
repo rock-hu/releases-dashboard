@@ -1,5 +1,5 @@
-# specs-weekly-details	
+# specs-weekly-details
 
+| version | release date | changes |
+|---------|--------------|---------|
 
-|version|release date|changes|
-|---|---|---|

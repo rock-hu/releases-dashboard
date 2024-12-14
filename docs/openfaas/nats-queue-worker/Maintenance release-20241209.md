@@ -1,19 +1,22 @@
 # Maintenance release
 
 ## release on 20241209
+
 ## description
+
 ## changes
+
 Changelog for 0.14.2:
 
 * PR <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="2047633129" data-permission-text="Title is private" data-url="https://github.com/openfaas/nats-queue-worker/issues/124" data-hovercard-type="pull_request" data-hovercard-url="/openfaas/nats-queue-worker/pull/124/hovercard" href="https://github.com/openfaas/nats-queue-worker/pull/124">#124</a> Bump golang.org/x/crypto from 0.13.0 to 0.17.0 by <a class="user-mention notranslate" data-hovercard-type="organization" data-hovercard-url="/orgs/dependabot/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/dependabot">@dependabot</a>[bot]
 
-Commits  
+Commits
 
-<a class="commit-link" data-hovercard-type="commit" data-hovercard-url="https://github.com/openfaas/nats-queue-worker/commit/619158b8e41fd0d26ccbc7c5f5469c0698d3bad1/hovercard" href="https://github.com/openfaas/nats-queue-worker/commit/619158b8e41fd0d26ccbc7c5f5469c0698d3bad1"><tt>619158b</tt></a> Update faas-provider by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/alexellis/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/alexellis">@alexellis</a>  
+<a class="commit-link" data-hovercard-type="commit" data-hovercard-url="https://github.com/openfaas/nats-queue-worker/commit/619158b8e41fd0d26ccbc7c5f5469c0698d3bad1/hovercard" href="https://github.com/openfaas/nats-queue-worker/commit/619158b8e41fd0d26ccbc7c5f5469c0698d3bad1"><tt>619158b</tt></a> Update faas-provider by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/alexellis/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/alexellis">@alexellis</a>
 
-<a class="commit-link" data-hovercard-type="commit" data-hovercard-url="https://github.com/openfaas/nats-queue-worker/commit/53448ff636bda11740dce122b087e6873b89aa1b/hovercard" href="https://github.com/openfaas/nats-queue-worker/commit/53448ff636bda11740dce122b087e6873b89aa1b"><tt>53448ff</tt></a> Update CI to Go 1.23 by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/alexellis/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/alexellis">@alexellis</a>  
+<a class="commit-link" data-hovercard-type="commit" data-hovercard-url="https://github.com/openfaas/nats-queue-worker/commit/53448ff636bda11740dce122b087e6873b89aa1b/hovercard" href="https://github.com/openfaas/nats-queue-worker/commit/53448ff636bda11740dce122b087e6873b89aa1b"><tt>53448ff</tt></a> Update CI to Go 1.23 by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/alexellis/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/alexellis">@alexellis</a>
 
-<a class="commit-link" data-hovercard-type="commit" data-hovercard-url="https://github.com/openfaas/nats-queue-worker/commit/d9418febcd7db5297819f88a3caeaa5898355b46/hovercard" href="https://github.com/openfaas/nats-queue-worker/commit/d9418febcd7db5297819f88a3caeaa5898355b46"><tt>d9418fe</tt></a> Remove newlines from log messages by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/alexellis/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/alexellis">@alexellis</a>  
+<a class="commit-link" data-hovercard-type="commit" data-hovercard-url="https://github.com/openfaas/nats-queue-worker/commit/d9418febcd7db5297819f88a3caeaa5898355b46/hovercard" href="https://github.com/openfaas/nats-queue-worker/commit/d9418febcd7db5297819f88a3caeaa5898355b46"><tt>d9418fe</tt></a> Remove newlines from log messages by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/alexellis/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/alexellis">@alexellis</a>
 
 <a class="commit-link" data-hovercard-type="commit" data-hovercard-url="https://github.com/openfaas/nats-queue-worker/commit/b94918cb8a24d44a6c6f2d28c9813506a58d6c11/hovercard" href="https://github.com/openfaas/nats-queue-worker/commit/b94918cb8a24d44a6c6f2d28c9813506a58d6c11"><tt>b94918c</tt></a> Bump golang.org/x/crypto from 0.13.0 to 0.17.0 by <a class="user-mention notranslate" data-hovercard-type="organization" data-hovercard-url="/orgs/dependabot/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/dependabot">@dependabot</a>[bot]
 

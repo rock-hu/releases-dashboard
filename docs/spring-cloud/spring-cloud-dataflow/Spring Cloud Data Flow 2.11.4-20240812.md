@@ -1,16 +1,19 @@
 # Spring Cloud Data Flow 2.11.4
 
 ## release on 20240812
+
 ## description
+
 ## changes
+
 Dependent Projects and Compatibility
 
-| Component | Version |
+|        Component         | Version |
 |--------------------------|---------|
-| Spring Cloud Dataflow | 2.11.4 |
-| Spring Cloud Skipper | 2.11.4 |
-| Spring Cloud Deployer | 2.9.4 |
-| Spring Cloud Dataflow UI | 3.4.5 |
+| Spring Cloud Dataflow    | 2.11.4  |
+| Spring Cloud Skipper     | 2.11.4  |
+| Spring Cloud Deployer    | 2.9.4   |
+| Spring Cloud Dataflow UI | 3.4.5   |
 
 Issues
 

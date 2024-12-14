@@ -1,8 +1,11 @@
 # Spring Pulsar 1.0.11
 
 ## release on 20241022
+
 ## description
+
 ## changes
+
 🪜 Improvements
 
 * Specify locale in toLowerCase|toUpperCase <a href="https://github.com/spring-projects/spring-pulsar/pull/895" data-hovercard-type="pull_request" data-hovercard-url="/spring-projects/spring-pulsar/pull/895/hovercard">#895</a>

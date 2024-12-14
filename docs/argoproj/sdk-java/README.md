@@ -1,5 +1,5 @@
-# sdk-java	
+# sdk-java
 
+| version | release date | changes |
+|---------|--------------|---------|
 
-|version|release date|changes|
-|---|---|---|

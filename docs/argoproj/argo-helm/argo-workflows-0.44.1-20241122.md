@@ -1,8 +1,11 @@
 # argo-workflows-0.44.1
 
 ## release on 20241122
+
 ## description
+
 ## changes
+
 A Helm chart for Argo Workflows
 
 What's Changed

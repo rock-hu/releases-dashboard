@@ -1,15 +1,18 @@
 # Add X-OpenFaaS-Internal to internal HTTP errors
 
 ## release on 20240713
+
 ## description
+
 ## changes
+
 Changelog for 0.10.3:
 
-Commits  
+Commits
 
-<a class="commit-link" data-hovercard-type="commit" data-hovercard-url="https://github.com/openfaas/of-watchdog/commit/a6a3f4cb23f33b7c359d5b0309b7ae1da2df95ba/hovercard" href="https://github.com/openfaas/of-watchdog/commit/a6a3f4cb23f33b7c359d5b0309b7ae1da2df95ba"><tt>a6a3f4c</tt></a> Add X-OpenFaaS-Internal to internal HTTP errors by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/alexellis/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/alexellis">@alexellis</a>  
+<a class="commit-link" data-hovercard-type="commit" data-hovercard-url="https://github.com/openfaas/of-watchdog/commit/a6a3f4cb23f33b7c359d5b0309b7ae1da2df95ba/hovercard" href="https://github.com/openfaas/of-watchdog/commit/a6a3f4cb23f33b7c359d5b0309b7ae1da2df95ba"><tt>a6a3f4c</tt></a> Add X-OpenFaaS-Internal to internal HTTP errors by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/alexellis/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/alexellis">@alexellis</a>
 
-<a class="commit-link" data-hovercard-type="commit" data-hovercard-url="https://github.com/openfaas/of-watchdog/commit/243c5012789234780ba1b7f7ececd6bbd57b2595/hovercard" href="https://github.com/openfaas/of-watchdog/commit/243c5012789234780ba1b7f7ececd6bbd57b2595"><tt>243c501</tt></a> Update go.mod by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/alexellis/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/alexellis">@alexellis</a>  
+<a class="commit-link" data-hovercard-type="commit" data-hovercard-url="https://github.com/openfaas/of-watchdog/commit/243c5012789234780ba1b7f7ececd6bbd57b2595/hovercard" href="https://github.com/openfaas/of-watchdog/commit/243c5012789234780ba1b7f7ececd6bbd57b2595"><tt>243c501</tt></a> Update go.mod by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/alexellis/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/alexellis">@alexellis</a>
 
 <a class="commit-link" data-hovercard-type="commit" data-hovercard-url="https://github.com/openfaas/of-watchdog/commit/a28fefcc2348ccc95b83f8144f4e4b424085e4d4/hovercard" href="https://github.com/openfaas/of-watchdog/commit/a28fefcc2348ccc95b83f8144f4e4b424085e4d4"><tt>a28fefc</tt></a> Bump dependencies by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/alexellis/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/alexellis">@alexellis</a>
 

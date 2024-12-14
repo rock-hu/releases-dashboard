@@ -1,8 +1,11 @@
 # Version 1.42.1
 
 ## release on 20240910
+
 ## description
+
 ## changes
+
 This is a patch release on the previous 1.42.0 release, fixing the issue(s) below.
 
 API

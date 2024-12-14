@@ -1,11 +1,14 @@
 # Remove armv7 from build and examples
 
 ## release on 20240925
+
 ## description
+
 ## changes
+
 Changelog for 0.16.36:
 
-Commits  
+Commits
 
 <a class="commit-link" data-hovercard-type="commit" data-hovercard-url="https://github.com/openfaas/faas-cli/commit/cb0c41e00a626e3b73fe7ef866e6fbcea39bc4af/hovercard" href="https://github.com/openfaas/faas-cli/commit/cb0c41e00a626e3b73fe7ef866e6fbcea39bc4af"><tt>cb0c41e</tt></a> Remove armv7 from build and examples by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/alexellis/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/alexellis">@alexellis</a>
 

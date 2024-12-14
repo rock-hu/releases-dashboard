@@ -1,8 +1,11 @@
 # Version 1.41.0
 
 ## release on 20240809
+
 ## description
+
 ## changes
+
 API
 
 * Move experimental suppress instrumentation context key to api internal package (<a href="https://github.com/open-telemetry/opentelemetry-java/pull/6546" data-hovercard-type="pull_request" data-hovercard-url="/open-telemetry/opentelemetry-java/pull/6546/hovercard">#6546</a>)
@@ -37,43 +40,43 @@ Extensions
 
 This release was possible thanks to the following contributors who shared their brilliant ideas and awesome pull requests:
 
-<a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/Abhishekkr3003/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/Abhishekkr3003">@Abhishekkr3003</a>  
+<a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/Abhishekkr3003/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/Abhishekkr3003">@Abhishekkr3003</a>
 
-<a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/abvaidya/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/abvaidya">@abvaidya</a>  
+<a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/abvaidya/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/abvaidya">@abvaidya</a>
 
-<a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/breedx-splk/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/breedx-splk">@breedx-splk</a>  
+<a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/breedx-splk/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/breedx-splk">@breedx-splk</a>
 
-<a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/driverpt/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/driverpt">@driverpt</a>  
+<a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/driverpt/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/driverpt">@driverpt</a>
 
-<a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/galahad098/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/galahad098">@galahad098</a>  
+<a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/galahad098/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/galahad098">@galahad098</a>
 
-<a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/hongshuai1994/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/hongshuai1994">@hongshuai1994</a>  
+<a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/hongshuai1994/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/hongshuai1994">@hongshuai1994</a>
 
-<a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/jack-berg/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/jack-berg">@jack-berg</a>  
+<a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/jack-berg/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/jack-berg">@jack-berg</a>
 
-<a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/jarrodrobins/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/jarrodrobins">@jarrodrobins</a>  
+<a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/jarrodrobins/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/jarrodrobins">@jarrodrobins</a>
 
-<a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/jaydeluca/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/jaydeluca">@jaydeluca</a>  
+<a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/jaydeluca/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/jaydeluca">@jaydeluca</a>
 
-<a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/jhalliday/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/jhalliday">@jhalliday</a>  
+<a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/jhalliday/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/jhalliday">@jhalliday</a>
 
-<a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/jkwatson/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/jkwatson">@jkwatson</a>  
+<a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/jkwatson/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/jkwatson">@jkwatson</a>
 
-<a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/junwense/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/junwense">@junwense</a>  
+<a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/junwense/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/junwense">@junwense</a>
 
-<a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/LikeTheSalad/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/LikeTheSalad">@LikeTheSalad</a>  
+<a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/LikeTheSalad/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/LikeTheSalad">@LikeTheSalad</a>
 
-<a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/Oberon00/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/Oberon00">@Oberon00</a>  
+<a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/Oberon00/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/Oberon00">@Oberon00</a>
 
-<a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/shalk/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/shalk">@shalk</a>  
+<a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/shalk/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/shalk">@shalk</a>
 
-<a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/swar8080/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/swar8080">@swar8080</a>  
+<a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/swar8080/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/swar8080">@swar8080</a>
 
-<a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/SylvainJuge/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/SylvainJuge">@SylvainJuge</a>  
+<a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/SylvainJuge/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/SylvainJuge">@SylvainJuge</a>
 
-<a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/trask/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/trask">@trask</a>  
+<a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/trask/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/trask">@trask</a>
 
-<a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/tylerbenson/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/tylerbenson">@tylerbenson</a>  
+<a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/tylerbenson/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/tylerbenson">@tylerbenson</a>
 
 <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/wgy035/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/wgy035">@wgy035</a>
 

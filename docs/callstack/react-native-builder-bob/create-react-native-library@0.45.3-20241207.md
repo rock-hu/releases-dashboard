@@ -1,8 +1,11 @@
 # create-react-native-library@0.45.3
 
 ## release on 20241207
+
 ## description
+
 ## changes
+
 <a href="https://github.com/callstack/react-native-builder-bob/compare/create-react-native-library@0.45.2...create-react-native-library@0.45.3">0.45.3</a> (2024-12-06)
 
 Bug Fixes

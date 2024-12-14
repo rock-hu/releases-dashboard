@@ -1,24 +1,24 @@
-# opentelemetry-java-instrumentation	
+# opentelemetry-java-instrumentation
 
+|    version     | release date |                    changes                     |
+|----------------|--------------|------------------------------------------------|
+| Version 1.33.5 | 20240726     | [Version 1.33.5](./Version 1.33.5-20240726.md) |
+| Version 2.4.0  | 20240518     | [Version 2.4.0](./Version 2.4.0-20240518.md)   |
+| Version 1.33.4 | 20240619     | [Version 1.33.4](./Version 1.33.4-20240619.md) |
+| Version 2.0.0  | 20240201     | [Version 2.0.0](./Version 2.0.0-20240201.md)   |
+| Version 1.32.1 | 20240203     | [Version 1.32.1](./Version 1.32.1-20240203.md) |
+| Version 2.8.0  | 20240914     | [Version 2.8.0](./Version 2.8.0-20240914.md)   |
+| Version 1.33.0 | 20240229     | [Version 1.33.0](./Version 1.33.0-20240229.md) |
+| Version 2.9.0  | 20241018     | [Version 2.9.0](./Version 2.9.0-20241018.md)   |
+| Version 2.3.0  | 20240412     | [Version 2.3.0](./Version 2.3.0-20240412.md)   |
+| Version 2.7.0  | 20240822     | [Version 2.7.0](./Version 2.7.0-20240822.md)   |
+| Version 2.10.0 | 20241113     | [Version 2.10.0](./Version 2.10.0-20241113.md) |
+| Version 1.33.2 | 20240420     | [Version 1.33.2](./Version 1.33.2-20240420.md) |
+| Version 2.2.0  | 20240315     | [Version 2.2.0](./Version 2.2.0-20240315.md)   |
+| Version 2.6.0  | 20240717     | [Version 2.6.0](./Version 2.6.0-20240717.md)   |
+| Version 1.33.1 | 20240320     | [Version 1.33.1](./Version 1.33.1-20240320.md) |
+| Version 2.5.0  | 20240618     | [Version 2.5.0](./Version 2.5.0-20240618.md)   |
+| Version 1.33.6 | 20240826     | [Version 1.33.6](./Version 1.33.6-20240826.md) |
+| Version 1.33.3 | 20240521     | [Version 1.33.3](./Version 1.33.3-20240521.md) |
+| Version 2.1.0  | 20240217     | [Version 2.1.0](./Version 2.1.0-20240217.md)   |
 
-|version|release date|changes|
-|---|---|---|
-|Version 1.33.5|20240726|[Version 1.33.5](./Version 1.33.5-20240726.md)|
-|Version 2.4.0|20240518|[Version 2.4.0](./Version 2.4.0-20240518.md)|
-|Version 1.33.4|20240619|[Version 1.33.4](./Version 1.33.4-20240619.md)|
-|Version 2.0.0|20240201|[Version 2.0.0](./Version 2.0.0-20240201.md)|
-|Version 1.32.1|20240203|[Version 1.32.1](./Version 1.32.1-20240203.md)|
-|Version 2.8.0|20240914|[Version 2.8.0](./Version 2.8.0-20240914.md)|
-|Version 1.33.0|20240229|[Version 1.33.0](./Version 1.33.0-20240229.md)|
-|Version 2.9.0|20241018|[Version 2.9.0](./Version 2.9.0-20241018.md)|
-|Version 2.3.0|20240412|[Version 2.3.0](./Version 2.3.0-20240412.md)|
-|Version 2.7.0|20240822|[Version 2.7.0](./Version 2.7.0-20240822.md)|
-|Version 2.10.0|20241113|[Version 2.10.0](./Version 2.10.0-20241113.md)|
-|Version 1.33.2|20240420|[Version 1.33.2](./Version 1.33.2-20240420.md)|
-|Version 2.2.0|20240315|[Version 2.2.0](./Version 2.2.0-20240315.md)|
-|Version 2.6.0|20240717|[Version 2.6.0](./Version 2.6.0-20240717.md)|
-|Version 1.33.1|20240320|[Version 1.33.1](./Version 1.33.1-20240320.md)|
-|Version 2.5.0|20240618|[Version 2.5.0](./Version 2.5.0-20240618.md)|
-|Version 1.33.6|20240826|[Version 1.33.6](./Version 1.33.6-20240826.md)|
-|Version 1.33.3|20240521|[Version 1.33.3](./Version 1.33.3-20240521.md)|
-|Version 2.1.0|20240217|[Version 2.1.0](./Version 2.1.0-20240217.md)|

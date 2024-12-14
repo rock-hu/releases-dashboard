@@ -1,13 +1,16 @@
 # Support massive log lines from function handler
 
 ## release on 20240827
+
 ## description
+
 ## changes
+
 Changelog for 0.10.5:
 
 * PR <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="2487247602" data-permission-text="Title is private" data-url="https://github.com/openfaas/of-watchdog/issues/159" data-hovercard-type="pull_request" data-hovercard-url="/openfaas/of-watchdog/pull/159/hovercard" href="https://github.com/openfaas/of-watchdog/pull/159">#159</a> Offer unlimited log buffer size when scanning handler logs by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/alexellis/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/alexellis">@alexellis</a>
 
-Commits  
+Commits
 
 <a class="commit-link" data-hovercard-type="commit" data-hovercard-url="https://github.com/openfaas/of-watchdog/commit/f9aec5c183dcfd5a1f9b610700ea0c84360aff21/hovercard" href="https://github.com/openfaas/of-watchdog/commit/f9aec5c183dcfd5a1f9b610700ea0c84360aff21"><tt>f9aec5c</tt></a> Offer unlimited log buffer size when scanning handler logs by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/alexellis/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/alexellis">@alexellis</a>
 

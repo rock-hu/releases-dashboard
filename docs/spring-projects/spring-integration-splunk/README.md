@@ -1,5 +1,5 @@
-# spring-integration-splunk	
+# spring-integration-splunk
 
+| version | release date | changes |
+|---------|--------------|---------|
 
-|version|release date|changes|
-|---|---|---|

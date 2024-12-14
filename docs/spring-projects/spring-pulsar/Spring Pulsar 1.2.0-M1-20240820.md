@@ -1,8 +1,11 @@
 # Spring Pulsar 1.2.0-M1
 
 ## release on 20240820
+
 ## description
+
 ## changes
+
 ⭐ New Features
 
 * Ability to configure a default topic and namespace <a href="https://github.com/spring-projects/spring-pulsar/issues/756" data-hovercard-type="issue" data-hovercard-url="/spring-projects/spring-pulsar/issues/756/hovercard">#756</a>

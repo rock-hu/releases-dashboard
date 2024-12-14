@@ -1,8 +1,11 @@
 # argo-events-2.4.9
 
 ## release on 20241128
+
 ## description
+
 ## changes
+
 A Helm chart for Argo Events, the event-driven workflow automation framework
 
 What's Changed

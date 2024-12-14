@@ -1,8 +1,11 @@
 # argo-cd-7.7.8
 
 ## release on 20241209
+
 ## description
+
 ## changes
+
 A Helm chart for Argo CD, a declarative, GitOps continuous delivery tool for Kubernetes.
 
 What's Changed

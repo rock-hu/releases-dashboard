@@ -1,5 +1,5 @@
-# pcm-openapi	
+# pcm-openapi
 
+| version | release date | changes |
+|---------|--------------|---------|
 
-|version|release date|changes|
-|---|---|---|

@@ -1,5 +1,5 @@
-# argoproj-deployments	
+# argoproj-deployments
 
+| version | release date | changes |
+|---------|--------------|---------|
 
-|version|release date|changes|
-|---|---|---|

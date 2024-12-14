@@ -1,5 +1,5 @@
-# spring-cloud-release-tools	
+# spring-cloud-release-tools
 
+| version | release date | changes |
+|---------|--------------|---------|
 
-|version|release date|changes|
-|---|---|---|

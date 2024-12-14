@@ -1,8 +1,11 @@
 # Swagger Codegen Generators v1.0.53
 
 ## release on 20241016
+
 ## description
+
 ## changes
+
 What's Changed
 
 * refs <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="2488290344" data-permission-text="Title is private" data-url="https://github.com/swagger-api/swagger-codegen-generators/issues/1308" data-hovercard-type="pull_request" data-hovercard-url="/swagger-api/swagger-codegen-generators/pull/1308/hovercard" href="https://github.com/swagger-api/swagger-codegen-generators/pull/1308">#1308</a> - fix jakarta spring generator by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/frantuma/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/frantuma">@frantuma</a> in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="2588367166" data-permission-text="Title is private" data-url="https://github.com/swagger-api/swagger-codegen-generators/issues/1315" data-hovercard-type="pull_request" data-hovercard-url="/swagger-api/swagger-codegen-generators/pull/1315/hovercard" href="https://github.com/swagger-api/swagger-codegen-generators/pull/1315">#1315</a>

@@ -1,11 +1,14 @@
-#  Only log about JWT Auth when it is enabled
+# Only log about JWT Auth when it is enabled
 
 ## release on 20240903
+
 ## description
+
 ## changes
+
 Changelog for 0.10.6:
 
-Commits  
+Commits
 
 <a class="commit-link" data-hovercard-type="commit" data-hovercard-url="https://github.com/openfaas/of-watchdog/commit/9407412905b73904d893ee85a4db9d172d8577eb/hovercard" href="https://github.com/openfaas/of-watchdog/commit/9407412905b73904d893ee85a4db9d172d8577eb"><tt>9407412</tt></a> Only log about JWT Auth when it is enabled by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/alexellis/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/alexellis">@alexellis</a>
 

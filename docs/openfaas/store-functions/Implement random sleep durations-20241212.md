@@ -1,11 +1,14 @@
 # Implement random sleep durations
 
 ## release on 20241212
+
 ## description
+
 ## changes
+
 Changelog for v0.1.5:
 
-Commits  
+Commits
 
 <a class="commit-link" data-hovercard-type="commit" data-hovercard-url="https://github.com/openfaas/store-functions/commit/dab6684e256ba1ef76ccacdaa401071a220f25d2/hovercard" href="https://github.com/openfaas/store-functions/commit/dab6684e256ba1ef76ccacdaa401071a220f25d2"><tt>dab6684</tt></a> Implement random sleep durations by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/alexellis/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/alexellis">@alexellis</a>
 

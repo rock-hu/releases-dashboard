@@ -1,8 +1,11 @@
 # Swagger Codegen 2.4.42 has been released!
 
 ## release on 20240729
+
 ## description
+
 ## changes
+
 What's Changed
 
 * Dockerfile fix by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/dreglad/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/dreglad">@dreglad</a> in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="2258490036" data-permission-text="Title is private" data-url="https://github.com/swagger-api/swagger-codegen/issues/12381" data-hovercard-type="pull_request" data-hovercard-url="/swagger-api/swagger-codegen/pull/12381/hovercard" href="https://github.com/swagger-api/swagger-codegen/pull/12381">#12381</a>

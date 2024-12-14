@@ -1,8 +1,11 @@
 # Spring Pulsar 1.0.12
 
 ## release on 20241119
+
 ## description
+
 ## changes
+
 🔨 Dependency Upgrades
 
 * Bump io.micrometer:micrometer-bom from 1.12.11 to 1.12.12 <a href="https://github.com/spring-projects/spring-pulsar/pull/926" data-hovercard-type="pull_request" data-hovercard-url="/spring-projects/spring-pulsar/pull/926/hovercard">#926</a>

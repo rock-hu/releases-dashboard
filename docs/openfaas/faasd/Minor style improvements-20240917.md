@@ -1,11 +1,14 @@
 # Minor style improvements
 
 ## release on 20240917
+
 ## description
+
 ## changes
+
 Changelog for 0.19.2:
 
-Commits  
+Commits
 
 <a class="commit-link" data-hovercard-type="commit" data-hovercard-url="https://github.com/openfaas/faasd/commit/2adc1350d4af241166dcc2d86c137fd2e4764921/hovercard" href="https://github.com/openfaas/faasd/commit/2adc1350d4af241166dcc2d86c137fd2e4764921"><tt>2adc135</tt></a> Fix import by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/alexellis/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/alexellis">@alexellis</a>
 
