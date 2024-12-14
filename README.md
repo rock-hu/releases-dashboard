@@ -1,5 +1,9 @@
 # releases-dashboard
 
+| on push                                                                                                | on schedule                                                                                                   |
+| ------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------- |
+| ![](https://github.com/rock-hu/releases-dashboard/actions/workflows/releases-dashboard.yaml/badge.svg) | ![](https://github.com/rock-hu/releases-dashboard/actions/workflows/releases-dashboard-weekly.yaml/badge.svg) |
+
 ## maven
 
 ```bash
@@ -27,7 +31,6 @@ pm.environment.set("organization","openrewrite");
 
 ```groovy
 const organizations = pm.response.json();
-
 for (let i = 0; i < organizations.length; i++) {
     const repository = organizations[i];
     console.log('    - '+repository.html_url + '/releases.atom');
