@@ -35,11 +35,8 @@ public class Application implements CommandLineRunner {
 		for (String atom : atomProperties.getRepositories()) {
 			log.info(atom);
 			System.out.println(atom);
-			// releaseService.releases(atom);
-			releasePartitionService.releases(atomProperties.getRepositories(), 10);
-			// mavenBomService.artifacts("docs/dependencies/spring-boot-dependencies-3.2.3.pom");
 		}
-
+		releasePartitionService.releases(atomProperties.getRepositories(), 10);
 	}
 
 }

@@ -4,6 +4,24 @@
 |--------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|
 | ![](https://github.com/rock-hu/releases-dashboard/actions/workflows/releases-dashboard.yaml/badge.svg) | ![](https://github.com/rock-hu/releases-dashboard/actions/workflows/releases-dashboard-weekly.yaml/badge.svg) |
 
+```mermaid
+sequenceDiagram
+　　　Application ->> ReleasePartitionService: releases(atomProperties.getRepositories(), 10)
+     ReleasePartitionService ->> ReleasePartitionServiceImpl : releases(atomProperties.getRepositories(), 10)
+　　　loop repositories
+　　　　　ReleasePartitionServiceImpl ->> ReleaseWorker : new ReleaseWorker(releaseService, repository)
+        ReleaseWorker -->> ReleasePartitionServiceImpl : ReleaseWorker
+        ReleaseWorker ->> ReleaseService : releases(atom)
+        ReleaseService ->> ReleaseServiceImpl : releases(atom)
+        ReleaseServiceImpl ->> RssService : releases(atom)
+        RssService ->> RssServiceImpl : releases(atom)
+        RssServiceImpl -->> RssService : releases
+        ReleasePartitionServiceImpl ->> ScheduledExecutorService : schedule(worker, delay, TimeUnit.SECONDS) 
+        ScheduledExecutorService -->> ReleasePartitionServiceImpl : ScheduledFuture<Integer>
+　　　end
+     ReleasePartitionServiceImpl -->> Application : releases
+```
+
 ## maven
 
 ```bash
