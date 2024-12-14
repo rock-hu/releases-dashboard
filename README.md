@@ -22,6 +22,10 @@ sequenceDiagram
      ReleasePartitionServiceImpl -->> Application : releases
 ```
 
+```bash
+releases-dashboard/docs$ find . -name 'README.md' > README.csv
+```
+
 ## maven
 
 ```bash

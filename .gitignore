@@ -36,3 +36,4 @@ pom.xml.bak
 application.pid
 application.port
 releases-dashboard.jfr
+/public
