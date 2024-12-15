@@ -9,9 +9,11 @@ on:
       - "src/main/resources/application.yml"
       - "src/main/java/com/internal/developer/platform/releases/*"
       - "pom.xml"
+      - ".github/workflows/releases-dashboard.yaml"
 env:
   GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-  MAVEN_OPTS: --no-transfer-progress
+  MAVEN_OPTS: "-Dhttps.protocols=TLSv1.2 -Dorg.slf4j.simpleLogger.log.org.apache.maven.cli.transfer.Slf4jMavenTransferListener=WARN -Dorg.slf4j.simpleLogger.showDateTime=true -Djava.awt.headless=true"
+  MAVEN_CLI_OPTS: "-C --batch-mode --errors --fail-at-end --show-version --no-transfer-progress"
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -22,7 +24,7 @@ jobs:
           distribution: "temurin"
           java-version: "17"
           cache: "maven"
-      - run: mvn clean spring-boot:run
+      - run: mvn $MAVEN_CLI_OPTS clean spring-boot:run
       - run: git config --global user.email "rock.c.c.hu@gmail.com"
       - run: git config --global user.name "Rock Hu"
       - run: git remote set-url origin https://git:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git
