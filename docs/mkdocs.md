@@ -36,7 +36,7 @@ mkdocs build
 ## mkdocs serve
 
 ```bash
-mkdocs serve
+mkdocs serve --dev-addr localhost:8090
 ```
 
 ## mkdocs gh-deploy

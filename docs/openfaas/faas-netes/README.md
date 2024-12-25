@@ -9,6 +9,7 @@
 | See the license agreement and usage of CE releases            | 20240222     | [See the license agreement and usage of CE releases](./See the license agreement and usage of CE releases-20240222.md)                       |
 | Updates of vendored packages to latest versions for security  | 20240222     | [Updates of vendored packages to latest versions for security](./Updates of vendored packages to latest versions for security-20240222.md)   |
 | Support setting the deployment strategy in Profiles           | 20240611     | [Support setting the deployment strategy in Profiles](./Support setting the deployment strategy in Profiles-20240611.md)                     |
+| Allow use of localhost registry for limited testing           | 20241217     | [Allow use of localhost registry for limited testing](./Allow use of localhost registry for limited testing-20241217.md)                     |
 | Fix for sending request body to text streaming functions      | 20240112     | [Fix for sending request body to text streaming functions ](./Fix for sending request body to text streaming functions -20240112.md)         |
 | Support setting resources in Profiles                         | 20240320     | [Support setting resources in Profiles](./Support setting resources in Profiles-20240320.md)                                                 |
 | Maintenance release - upgrade to Go 1.23                      | 20241209     | [Maintenance release - upgrade to Go 1.23](./Maintenance release - upgrade to Go 1.23-20241209.md)                                           |

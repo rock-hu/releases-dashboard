@@ -72,6 +72,9 @@
     <logger name="io.netty" level="ERROR" additivity="false">
         <appender-ref ref="FILE-AUDIT" />
     </logger>
+    <logger name="java.net" level="ERROR" additivity="false">
+        <appender-ref ref="FILE-AUDIT" />
+    </logger>
     <logger name="io.grpc.netty.shaded.io.grpc.netty.NettyClientHandler" level="INFO" />
     <logger name="io.grpc.netty.shaded.io.grpc.netty.NettyServerHandler" level="INFO" />
     <logger name="com.dashboard" level="DEBUG" additivity="false">

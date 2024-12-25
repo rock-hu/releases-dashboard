@@ -12,6 +12,7 @@
 | Version 2.9.0  | 20241018     | [Version 2.9.0](./Version 2.9.0-20241018.md)   |
 | Version 2.3.0  | 20240412     | [Version 2.3.0](./Version 2.3.0-20240412.md)   |
 | Version 2.7.0  | 20240822     | [Version 2.7.0](./Version 2.7.0-20240822.md)   |
+| Version 2.11.0 | 20241224     | [Version 2.11.0](./Version 2.11.0-20241224.md) |
 | Version 2.10.0 | 20241113     | [Version 2.10.0](./Version 2.10.0-20241113.md) |
 | Version 1.33.2 | 20240420     | [Version 1.33.2](./Version 1.33.2-20240420.md) |
 | Version 2.2.0  | 20240315     | [Version 2.2.0](./Version 2.2.0-20240315.md)   |

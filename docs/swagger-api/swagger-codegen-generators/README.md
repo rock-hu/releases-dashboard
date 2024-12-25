@@ -5,6 +5,7 @@
 | Swagger Codegen Generators v1.0.43 | 20231002     | [Swagger Codegen Generators v1.0.43](./Swagger Codegen Generators v1.0.43-20231002.md) |
 | Swagger Codegen Generators v1.0.52 | 20240827     | [Swagger Codegen Generators v1.0.52](./Swagger Codegen Generators v1.0.52-20240827.md) |
 | Swagger Codegen Generators v1.0.47 | 20240214     | [Swagger Codegen Generators v1.0.47](./Swagger Codegen Generators v1.0.47-20240214.md) |
+| Swagger Codegen Generators v1.0.55 | 20241218     | [Swagger Codegen Generators v1.0.55](./Swagger Codegen Generators v1.0.55-20241218.md) |
 | Swagger Codegen Generators v1.0.48 | 20240419     | [Swagger Codegen Generators v1.0.48](./Swagger Codegen Generators v1.0.48-20240419.md) |
 | Swagger Codegen Generators v1.0.42 | 20230602     | [Swagger Codegen Generators v1.0.42](./Swagger Codegen Generators v1.0.42-20230602.md) |
 | Swagger Codegen Generators v1.0.54 | 20241107     | [Swagger Codegen Generators v1.0.54](./Swagger Codegen Generators v1.0.54-20241107.md) |
