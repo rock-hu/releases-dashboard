@@ -32,4 +32,3 @@ jobs:
       - run: git add .
       - run: git commit -m "releases-dashboard - ${{ github.run_number }}"
       - run: git push
-      - run: ls -l
