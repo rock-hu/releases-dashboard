@@ -19,8 +19,6 @@ jobs:
           java-version: "17"
           cache: "maven"
       - run: mvn $MAVEN_CLI_OPTS clean spring-boot:run
-      - run: npm install -g markdownlint-cli
-      - run: markdownlint 'docs/**/*.md' --ignore node_modules  --fix
       - run: git config --global user.email "rock.c.c.hu@gmail.com"
       - run: git config --global user.name "Rock Hu"
       - run: git remote set-url origin https://git:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git
