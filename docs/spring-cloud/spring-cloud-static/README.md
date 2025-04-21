@@ -1,5 +1,5 @@
-# spring-cloud-static
+# spring-cloud-static	
 
-| version | release date | changes |
-|---------|--------------|---------|
 
+|version|release date|changes|
+|---|---|---|

@@ -1,0 +1,10 @@
+# Swagger-parser 2.1.24 released!
+
+## release on 20241118
+## description
+## changes
+* refs <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="2580924587" data-permission-text="Title is private" data-url="https://github.com/swagger-api/swagger-parser/issues/2126" data-hovercard-type="issue" data-hovercard-url="/swagger-api/swagger-parser/issues/2126/hovercard" href="https://github.com/swagger-api/swagger-parser/issues/2126">#2126</a> - update swagger parser v1 to 1.0.72 (<a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="2669999069" data-permission-text="Title is private" data-url="https://github.com/swagger-api/swagger-parser/issues/2140" data-hovercard-type="pull_request" data-hovercard-url="/swagger-api/swagger-parser/pull/2140/hovercard" href="https://github.com/swagger-api/swagger-parser/pull/2140">#2140</a>)
+* remove leftover (<a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="2618315709" data-permission-text="Title is private" data-url="https://github.com/swagger-api/swagger-parser/issues/2133" data-hovercard-type="pull_request" data-hovercard-url="/swagger-api/swagger-parser/pull/2133/hovercard" href="https://github.com/swagger-api/swagger-parser/pull/2133">#2133</a>)
+* fixes OAS 3.1 dereferencing (<a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="2618181516" data-permission-text="Title is private" data-url="https://github.com/swagger-api/swagger-parser/issues/2132" data-hovercard-type="pull_request" data-hovercard-url="/swagger-api/swagger-parser/pull/2132/hovercard" href="https://github.com/swagger-api/swagger-parser/pull/2132">#2132</a>)
+* Add logic to process responses with resolvFully parsing option (<a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="2617852038" data-permission-text="Title is private" data-url="https://github.com/swagger-api/swagger-parser/issues/2131" data-hovercard-type="pull_request" data-hovercard-url="/swagger-api/swagger-parser/pull/2131/hovercard" href="https://github.com/swagger-api/swagger-parser/pull/2131">#2131</a>)
+

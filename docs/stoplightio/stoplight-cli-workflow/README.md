@@ -1,5 +1,5 @@
-# stoplight-cli-workflow
+# stoplight-cli-workflow	
 
-| version | release date | changes |
-|---------|--------------|---------|
 
+|version|release date|changes|
+|---|---|---|
