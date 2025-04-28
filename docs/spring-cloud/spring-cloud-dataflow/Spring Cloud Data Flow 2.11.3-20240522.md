@@ -1,16 +1,19 @@
 # Spring Cloud Data Flow 2.11.3
 
 ## release on 20240522
+
 ## description
+
 ## changes
+
 Dependent Projects and Compatibility
 
-| Component | Version |
+|        Component         | Version |
 |--------------------------|---------|
-| Spring Cloud Deployer | 2.9.3 |
-| Spring Cloud Skipper | 2.11.3 |
-| Spring Cloud Dataflow UI | 3.4.3 |
-| Spring Cloud Dataflow | 2.11.3 |
+| Spring Cloud Deployer    | 2.9.3   |
+| Spring Cloud Skipper     | 2.11.3  |
+| Spring Cloud Dataflow UI | 3.4.3   |
+| Spring Cloud Dataflow    | 2.11.3  |
 
 Issues
 

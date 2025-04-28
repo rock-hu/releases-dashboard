@@ -1,8 +1,11 @@
 # Logback 1.5.18
 
 ## release on 20250318
+
 ## description
+
 ## changes
+
 <strong>2025-03-18 Release of logback version 1.5.18</strong>
 
 • Added<a href="https://logback.qos.ch/manual/appenders.html#fileCompression" rel="nofollow"> support for XZ compression</a> for archived log files. Note that XZ compression requires Tukaani project's <a href="https://tukaani.org/xz/java.html" rel="nofollow">XZ library</a> for Java. In case XZ compression is requested but the XZ library is missing, then logback will substitute GZ compression as a fallback. This feature was requested in issues/755.

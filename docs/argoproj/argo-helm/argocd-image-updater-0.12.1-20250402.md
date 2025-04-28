@@ -1,8 +1,11 @@
 # argocd-image-updater-0.12.1
 
 ## release on 20250402
+
 ## description
+
 ## changes
+
 A Helm chart for Argo CD Image Updater, a tool to automatically update the container images of Kubernetes workloads which are managed by Argo CD
 
 What's Changed

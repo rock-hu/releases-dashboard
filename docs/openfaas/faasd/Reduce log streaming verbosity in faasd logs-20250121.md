@@ -1,13 +1,16 @@
 # Reduce log streaming verbosity in faasd logs
 
 ## release on 20250121
+
 ## description
+
 ## changes
+
 Changelog for 0.19.4:
 
-Commits  
+Commits
 
-<a class="commit-link" data-hovercard-type="commit" data-hovercard-url="https://github.com/openfaas/faasd/commit/4ab5f60b9dec1f572d81f690ba568e5eb0e0c024/hovercard" href="https://github.com/openfaas/faasd/commit/4ab5f60b9dec1f572d81f690ba568e5eb0e0c024"><tt>4ab5f60</tt></a> Reduce logging from log streaming command by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/alexellis/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/alexellis">@alexellis</a>  
+<a class="commit-link" data-hovercard-type="commit" data-hovercard-url="https://github.com/openfaas/faasd/commit/4ab5f60b9dec1f572d81f690ba568e5eb0e0c024/hovercard" href="https://github.com/openfaas/faasd/commit/4ab5f60b9dec1f572d81f690ba568e5eb0e0c024"><tt>4ab5f60</tt></a> Reduce logging from log streaming command by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/alexellis/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/alexellis">@alexellis</a>
 
 <a class="commit-link" data-hovercard-type="commit" data-hovercard-url="https://github.com/openfaas/faasd/commit/a8b61f2086c426463ddd57ee1ce3db2b0005c4ae/hovercard" href="https://github.com/openfaas/faasd/commit/a8b61f2086c426463ddd57ee1ce3db2b0005c4ae"><tt>a8b61f2</tt></a> Upgrade various core components by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/alexellis/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/alexellis">@alexellis</a>
 

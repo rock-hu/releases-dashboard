@@ -1,8 +1,11 @@
 # Logback 1.5.17
 
 ## release on 20250225
+
 ## description
+
 ## changes
+
 <strong>2025-02-25 Release of logback version 1.5.17</strong>
 
 • Fixed Jansi 2.4.0 color-coded output not working on Windows CMD.exe console when the default terminal application is set to "Windows Console Host". This problem was reported in issues/753 by Michael Lyubkin.

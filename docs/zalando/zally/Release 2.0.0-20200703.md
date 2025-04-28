@@ -1,8 +1,11 @@
 # Release 2.0.0
 
 ## release on 20200703
+
 ## description
+
 ## changes
+
 This version contains a breaking change or renaming base package to <code>org.zalando</code>.
 
 Changes

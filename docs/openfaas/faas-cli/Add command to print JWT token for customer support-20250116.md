@@ -1,11 +1,14 @@
 # Add command to print JWT token for customer support
 
 ## release on 20250116
+
 ## description
+
 ## changes
+
 Changelog for 0.17.0:
 
-Commits  
+Commits
 
 <a class="commit-link" data-hovercard-type="commit" data-hovercard-url="https://github.com/openfaas/faas-cli/commit/b368a1ccedbbdfb89298e0db0222dc5246ae8bbb/hovercard" href="https://github.com/openfaas/faas-cli/commit/b368a1ccedbbdfb89298e0db0222dc5246ae8bbb"><tt>b368a1c</tt></a> Add command to print JWT token for customer support by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/alexellis/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/alexellis">@alexellis</a>
 

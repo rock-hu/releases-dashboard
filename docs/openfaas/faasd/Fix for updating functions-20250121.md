@@ -1,15 +1,18 @@
 # Fix for updating functions
 
 ## release on 20250121
+
 ## description
+
 ## changes
+
 Changelog for 0.19.5:
 
 Summary of release: fixes "task precondition failed" errors when updating functions via <code>faas-cli up</code> or <code>faas-cli deploy</code>, in addition the new <code>grace_period</code> environment variable can be used to extend or shorten the default 30s graceful shutdown time being used for functions in faasd.
 
-Commits  
+Commits
 
-<a class="commit-link" data-hovercard-type="commit" data-hovercard-url="https://github.com/openfaas/faasd/commit/ef689d7b62b58c2824c2d59e2a1f6aaf77dc1430/hovercard" href="https://github.com/openfaas/faasd/commit/ef689d7b62b58c2824c2d59e2a1f6aaf77dc1430"><tt>ef689d7</tt></a> Fix for update workflow by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/alexellis/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/alexellis">@alexellis</a>  
+<a class="commit-link" data-hovercard-type="commit" data-hovercard-url="https://github.com/openfaas/faasd/commit/ef689d7b62b58c2824c2d59e2a1f6aaf77dc1430/hovercard" href="https://github.com/openfaas/faasd/commit/ef689d7b62b58c2824c2d59e2a1f6aaf77dc1430"><tt>ef689d7</tt></a> Fix for update workflow by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/alexellis/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/alexellis">@alexellis</a>
 
 <a class="commit-link" data-hovercard-type="commit" data-hovercard-url="https://github.com/openfaas/faasd/commit/854ec5836d12ca9fbac980f128ba3f3da7b00ea2/hovercard" href="https://github.com/openfaas/faasd/commit/854ec5836d12ca9fbac980f128ba3f3da7b00ea2"><tt>854ec58</tt></a> Remove unused context by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/alexellis/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/alexellis">@alexellis</a>
 

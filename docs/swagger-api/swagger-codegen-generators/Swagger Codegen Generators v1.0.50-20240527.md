@@ -1,8 +1,11 @@
 # Swagger Codegen Generators v1.0.50
 
 ## release on 20240527
+
 ## description
+
 ## changes
+
 What's Changed
 
 * Add codeql.yml by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/Torgh/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/Torgh">@Torgh</a> in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="2294602769" data-permission-text="Title is private" data-url="https://github.com/swagger-api/swagger-codegen-generators/issues/1285" data-hovercard-type="pull_request" data-hovercard-url="/swagger-api/swagger-codegen-generators/pull/1285/hovercard" href="https://github.com/swagger-api/swagger-codegen-generators/pull/1285">#1285</a>

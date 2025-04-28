@@ -1,11 +1,14 @@
 # Add X-Auth-Seconds for jwt_auth
 
 ## release on 20250418
+
 ## description
+
 ## changes
+
 Changelog for 0.10.9:
 
-Commits  
+Commits
 
 <a class="commit-link" data-hovercard-type="commit" data-hovercard-url="https://github.com/openfaas/of-watchdog/commit/2a769ba4c9cf7099924b89302c6ba69bbc180192/hovercard" href="https://github.com/openfaas/of-watchdog/commit/2a769ba4c9cf7099924b89302c6ba69bbc180192"><tt>2a769ba</tt></a> Add X-Auth-Seconds for jwt_auth by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/alexellis/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/alexellis">@alexellis</a>
 

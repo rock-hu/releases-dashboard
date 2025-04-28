@@ -1,8 +1,11 @@
 # Spring Pulsar 1.2.1
 
 ## release on 20241217
+
 ## description
+
 ## changes
+
 📔 Documentation
 
 * Add Pulsar 4.0.x to compatibility matrix doc <a href="https://github.com/spring-projects/spring-pulsar/pull/972" data-hovercard-type="pull_request" data-hovercard-url="/spring-projects/spring-pulsar/pull/972/hovercard">#972</a>

@@ -1,19 +1,22 @@
 # Update alpine and watchdog versions
 
 ## release on 20250418
+
 ## description
+
 ## changes
+
 Changelog for v0.1.7:
 
-Commits  
+Commits
 
-<a class="commit-link" data-hovercard-type="commit" data-hovercard-url="https://github.com/openfaas/store-functions/commit/5cae68b550c300b77bad74ef847265c5c8745dc9/hovercard" href="https://github.com/openfaas/store-functions/commit/5cae68b550c300b77bad74ef847265c5c8745dc9"><tt>5cae68b</tt></a> Pull relevant templates by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/alexellis/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/alexellis">@alexellis</a>  
+<a class="commit-link" data-hovercard-type="commit" data-hovercard-url="https://github.com/openfaas/store-functions/commit/5cae68b550c300b77bad74ef847265c5c8745dc9/hovercard" href="https://github.com/openfaas/store-functions/commit/5cae68b550c300b77bad74ef847265c5c8745dc9"><tt>5cae68b</tt></a> Pull relevant templates by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/alexellis/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/alexellis">@alexellis</a>
 
-<a class="commit-link" data-hovercard-type="commit" data-hovercard-url="https://github.com/openfaas/store-functions/commit/79f3ab6a48befa5cf9c87af5864c5202fc7b4c31/hovercard" href="https://github.com/openfaas/store-functions/commit/79f3ab6a48befa5cf9c87af5864c5202fc7b4c31"><tt>79f3ab6</tt></a> Update alpine and watchdog versions by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/alexellis/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/alexellis">@alexellis</a>  
+<a class="commit-link" data-hovercard-type="commit" data-hovercard-url="https://github.com/openfaas/store-functions/commit/79f3ab6a48befa5cf9c87af5864c5202fc7b4c31/hovercard" href="https://github.com/openfaas/store-functions/commit/79f3ab6a48befa5cf9c87af5864c5202fc7b4c31"><tt>79f3ab6</tt></a> Update alpine and watchdog versions by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/alexellis/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/alexellis">@alexellis</a>
 
-<a class="commit-link" data-hovercard-type="commit" data-hovercard-url="https://github.com/openfaas/store-functions/commit/6b826acf623603d11664132f4b1a3b07f35deec8/hovercard" href="https://github.com/openfaas/store-functions/commit/6b826acf623603d11664132f4b1a3b07f35deec8"><tt>6b826ac</tt></a> Pull templates from templates repo by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/alexellis/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/alexellis">@alexellis</a>  
+<a class="commit-link" data-hovercard-type="commit" data-hovercard-url="https://github.com/openfaas/store-functions/commit/6b826acf623603d11664132f4b1a3b07f35deec8/hovercard" href="https://github.com/openfaas/store-functions/commit/6b826acf623603d11664132f4b1a3b07f35deec8"><tt>6b826ac</tt></a> Pull templates from templates repo by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/alexellis/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/alexellis">@alexellis</a>
 
-<a class="commit-link" data-hovercard-type="commit" data-hovercard-url="https://github.com/openfaas/store-functions/commit/79821d4d11fdb194dbcb168c795d2e7993b6405d/hovercard" href="https://github.com/openfaas/store-functions/commit/79821d4d11fdb194dbcb168c795d2e7993b6405d"><tt>79821d4</tt></a> Add legacy templates repo by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/alexellis/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/alexellis">@alexellis</a>  
+<a class="commit-link" data-hovercard-type="commit" data-hovercard-url="https://github.com/openfaas/store-functions/commit/79821d4d11fdb194dbcb168c795d2e7993b6405d/hovercard" href="https://github.com/openfaas/store-functions/commit/79821d4d11fdb194dbcb168c795d2e7993b6405d"><tt>79821d4</tt></a> Add legacy templates repo by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/alexellis/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/alexellis">@alexellis</a>
 
 <a class="commit-link" data-hovercard-type="commit" data-hovercard-url="https://github.com/openfaas/store-functions/commit/f158561e58cd293a0b20fe407643c717d4127ea7/hovercard" href="https://github.com/openfaas/store-functions/commit/f158561e58cd293a0b20fe407643c717d4127ea7"><tt>f158561</tt></a> Update publish job name by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/alexellis/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/alexellis">@alexellis</a>
 

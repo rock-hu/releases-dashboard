@@ -1,11 +1,14 @@
 # Support random port for local-run command
 
 ## release on 20241003
+
 ## description
+
 ## changes
+
 Changelog for 0.16.37:
 
-Commits  
+Commits
 
 <a class="commit-link" data-hovercard-type="commit" data-hovercard-url="https://github.com/openfaas/faas-cli/commit/41605396955e6b13488755852106bd9bf315219a/hovercard" href="https://github.com/openfaas/faas-cli/commit/41605396955e6b13488755852106bd9bf315219a"><tt>4160539</tt></a> Support a random port for the local-run by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/alexellis/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/alexellis">@alexellis</a>
 

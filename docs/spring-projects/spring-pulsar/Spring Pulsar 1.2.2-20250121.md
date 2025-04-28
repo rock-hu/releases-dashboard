@@ -1,8 +1,11 @@
 # Spring Pulsar 1.2.2
 
 ## release on 20250121
+
 ## description
+
 ## changes
+
 🐞 Bug Fixes
 
 * Listener consumes the same message after it is sent to the DLT topic <a href="https://github.com/spring-projects/spring-pulsar/issues/998" data-hovercard-type="issue" data-hovercard-url="/spring-projects/spring-pulsar/issues/998/hovercard">#998</a>

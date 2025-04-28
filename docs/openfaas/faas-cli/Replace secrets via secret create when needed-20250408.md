@@ -1,11 +1,14 @@
 # Replace secrets via secret create when needed
 
 ## release on 20250408
+
 ## description
+
 ## changes
+
 Changelog for 0.17.2:
 
-Commits  
+Commits
 
 <a class="commit-link" data-hovercard-type="commit" data-hovercard-url="https://github.com/openfaas/faas-cli/commit/e39b6c43c67aa13fca2646d9d34f86fe6be812c3/hovercard" href="https://github.com/openfaas/faas-cli/commit/e39b6c43c67aa13fca2646d9d34f86fe6be812c3"><tt>e39b6c4</tt></a> Replace secrets via secret create when needed by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/alexellis/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/alexellis">@alexellis</a>
 

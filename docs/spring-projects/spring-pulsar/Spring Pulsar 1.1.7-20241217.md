@@ -1,8 +1,11 @@
 # Spring Pulsar 1.1.7
 
 ## release on 20241217
+
 ## description
+
 ## changes
+
 🔨 Dependency Upgrades
 
 * Bump io.micrometer:micrometer-bom from 1.13.8 to 1.13.9 <a href="https://github.com/spring-projects/spring-pulsar/pull/960" data-hovercard-type="pull_request" data-hovercard-url="/spring-projects/spring-pulsar/pull/960/hovercard">#960</a>

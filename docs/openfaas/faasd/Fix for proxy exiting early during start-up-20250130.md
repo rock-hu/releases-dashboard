@@ -1,13 +1,16 @@
 # Fix for proxy exiting early during start-up
 
 ## release on 20250130
+
 ## description
+
 ## changes
+
 Changelog for 0.19.6:
 
 * PR <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="2820284610" data-permission-text="Title is private" data-url="https://github.com/openfaas/faasd/issues/373" data-hovercard-type="pull_request" data-hovercard-url="/openfaas/faasd/pull/373/hovercard" href="https://github.com/openfaas/faasd/pull/373">#373</a> Fix for proxy exiting early during start-up by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/alexellis/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/alexellis">@alexellis</a>
 
-Commits  
+Commits
 
 <a class="commit-link" data-hovercard-type="commit" data-hovercard-url="https://github.com/openfaas/faasd/commit/d7e0bebe25c5e92209fc79c762d0a72009de3e65/hovercard" href="https://github.com/openfaas/faasd/commit/d7e0bebe25c5e92209fc79c762d0a72009de3e65"><tt>d7e0beb</tt></a> Fix for proxy exiting early by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/alexellis/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/alexellis">@alexellis</a>
 

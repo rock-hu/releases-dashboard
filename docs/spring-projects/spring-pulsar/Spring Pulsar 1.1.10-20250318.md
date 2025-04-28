@@ -1,8 +1,11 @@
 # Spring Pulsar 1.1.10
 
 ## release on 20250318
+
 ## description
+
 ## changes
+
 🔨 Dependency Upgrades
 
 * Bump ch.qos.logback:logback-classic from 1.5.16 to 1.5.17 <a href="https://github.com/spring-projects/spring-pulsar/pull/1045" data-hovercard-type="pull_request" data-hovercard-url="/spring-projects/spring-pulsar/pull/1045/hovercard">#1045</a>

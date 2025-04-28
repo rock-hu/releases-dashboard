@@ -1,8 +1,11 @@
 # Spring Cloud Stream Applications 2024.0.1
 
 ## release on 20250202
+
 ## description
+
 ## changes
+
 What's Changed
 
 * fix analytics sink test by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/corneil/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/corneil">@corneil</a> in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="2386365778" data-permission-text="Title is private" data-url="https://github.com/spring-cloud/stream-applications/issues/552" data-hovercard-type="pull_request" data-hovercard-url="/spring-cloud/stream-applications/pull/552/hovercard" href="https://github.com/spring-cloud/stream-applications/pull/552">#552</a>

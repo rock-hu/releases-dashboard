@@ -1,8 +1,11 @@
 # Blissful Ant
 
 ## release on 20240531
+
 ## description
+
 ## changes
+
 We are excited to announce yet another new release of the Postgres Operator. Thanks to everyone who contributed with PRs, feedback, raising issues or providing ideas.
 
 New features
@@ -30,25 +33,25 @@ Breaking Changes
 
 * Dropped Helm charts for releases 1.8.0 and 1.8.1 (<a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="2315566482" data-permission-text="Title is private" data-url="https://github.com/zalando/postgres-operator/issues/2639" data-hovercard-type="pull_request" data-hovercard-url="/zalando/postgres-operator/pull/2639/hovercard" href="https://github.com/zalando/postgres-operator/pull/2639">#2639</a>)
 
-amd images:  
+amd images:
 
-<strong>Docker image</strong>: registry.opensource.zalan.do/acid/postgres-operator:v1.12.0-dirty  
+<strong>Docker image</strong>: registry.opensource.zalan.do/acid/postgres-operator:v1.12.0-dirty
 
-<strong>UI Docker image</strong>: registry.opensource.zalan.do/acid/postgres-operator-ui:v1.12.0  
+<strong>UI Docker image</strong>: registry.opensource.zalan.do/acid/postgres-operator-ui:v1.12.0
 
 <strong>Logical Backup Docker image</strong>: registry.opensource.zalan.do/acid/logical-backup:v1.12.0
 
-Multi-arch image (arm):  
+Multi-arch image (arm):
 
-Postgres Operator: ghcr.io/zalando/postgres-operator:v1.12.0  
+Postgres Operator: ghcr.io/zalando/postgres-operator:v1.12.0
 
-UI: ghcr.io/zalando/postgres-operator-ui:v1.12.0  
+UI: ghcr.io/zalando/postgres-operator-ui:v1.12.0
 
 Logical Backup: ghcr.io/zalando/postgres-operator/logical-backup:v1.12.0
 
 <strong>Default Spilo image</strong>: ghcr.io/zalando/spilo-16:3.2-p3
 
-Thanks to our contributors: <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/FxKu/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/FxKu">@FxKu</a>, <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/idanovinda/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/idanovinda">@idanovinda</a>, <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/hughcapet/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/hughcapet">@hughcapet</a>  
+Thanks to our contributors: <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/FxKu/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/FxKu">@FxKu</a>, <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/idanovinda/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/idanovinda">@idanovinda</a>, <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/hughcapet/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/hughcapet">@hughcapet</a>
 
 <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/dmotte/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/dmotte">@dmotte</a>, <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/LordGaav/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/LordGaav">@LordGaav</a>, <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/hemakshis/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/hemakshis">@hemakshis</a>, <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/duckhawk/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/duckhawk">@duckhawk</a>, <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/smutel/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/smutel">@smutel</a>, <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/ThoreKr/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/ThoreKr">@ThoreKr</a>, <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/pratheekrebala/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/pratheekrebala">@pratheekrebala</a>
 

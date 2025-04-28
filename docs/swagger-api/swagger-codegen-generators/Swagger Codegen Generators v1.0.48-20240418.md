@@ -1,8 +1,11 @@
 # Swagger Codegen Generators v1.0.48
 
 ## release on 20240418
+
 ## description
+
 ## changes
+
 What's Changed
 
 * java interface discriminator mapping by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/HugoMario/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/HugoMario">@HugoMario</a> in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="2136770109" data-permission-text="Title is private" data-url="https://github.com/swagger-api/swagger-codegen-generators/issues/1259" data-hovercard-type="pull_request" data-hovercard-url="/swagger-api/swagger-codegen-generators/pull/1259/hovercard" href="https://github.com/swagger-api/swagger-codegen-generators/pull/1259">#1259</a>

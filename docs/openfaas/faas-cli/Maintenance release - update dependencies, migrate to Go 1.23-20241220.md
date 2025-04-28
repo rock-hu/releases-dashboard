@@ -1,13 +1,16 @@
 # Maintenance release - update dependencies, migrate to Go 1.23
 
 ## release on 20241220
+
 ## description
+
 ## changes
+
 Changelog for 0.16.38:
 
-Commits  
+Commits
 
-<a class="commit-link" data-hovercard-type="commit" data-hovercard-url="https://github.com/openfaas/faas-cli/commit/6de492cca1a264ffcb125524b4e7d7d7e9ec6190/hovercard" href="https://github.com/openfaas/faas-cli/commit/6de492cca1a264ffcb125524b4e7d7d7e9ec6190"><tt>6de492c</tt></a> Build with Go 1.23 by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/alexellis/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/alexellis">@alexellis</a>  
+<a class="commit-link" data-hovercard-type="commit" data-hovercard-url="https://github.com/openfaas/faas-cli/commit/6de492cca1a264ffcb125524b4e7d7d7e9ec6190/hovercard" href="https://github.com/openfaas/faas-cli/commit/6de492cca1a264ffcb125524b4e7d7d7e9ec6190"><tt>6de492c</tt></a> Build with Go 1.23 by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/alexellis/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/alexellis">@alexellis</a>
 
 <a class="commit-link" data-hovercard-type="commit" data-hovercard-url="https://github.com/openfaas/faas-cli/commit/483d2ad0e64371fbac54b555788259e6698a9913/hovercard" href="https://github.com/openfaas/faas-cli/commit/483d2ad0e64371fbac54b555788259e6698a9913"><tt>483d2ad</tt></a> Update dependencies in go.mod by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/alexellis/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/alexellis">@alexellis</a>
 

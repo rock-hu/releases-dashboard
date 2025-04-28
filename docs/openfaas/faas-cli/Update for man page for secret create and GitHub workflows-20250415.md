@@ -1,13 +1,16 @@
 # Update for man page for secret create and GitHub workflows
 
 ## release on 20250415
+
 ## description
+
 ## changes
+
 Changelog for 0.17.4:
 
-Commits  
+Commits
 
-<a class="commit-link" data-hovercard-type="commit" data-hovercard-url="https://github.com/openfaas/faas-cli/commit/30655b0cc01d71956e8eb1a8d40920199e9b066d/hovercard" href="https://github.com/openfaas/faas-cli/commit/30655b0cc01d71956e8eb1a8d40920199e9b066d"><tt>30655b0</tt></a> Update actions for publish by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/alexellis/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/alexellis">@alexellis</a>  
+<a class="commit-link" data-hovercard-type="commit" data-hovercard-url="https://github.com/openfaas/faas-cli/commit/30655b0cc01d71956e8eb1a8d40920199e9b066d/hovercard" href="https://github.com/openfaas/faas-cli/commit/30655b0cc01d71956e8eb1a8d40920199e9b066d"><tt>30655b0</tt></a> Update actions for publish by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/alexellis/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/alexellis">@alexellis</a>
 
 <a class="commit-link" data-hovercard-type="commit" data-hovercard-url="https://github.com/openfaas/faas-cli/commit/f9ff7af7ea3dbb6ddaf3a62daaf0357aa269802c/hovercard" href="https://github.com/openfaas/faas-cli/commit/f9ff7af7ea3dbb6ddaf3a62daaf0357aa269802c"><tt>f9ff7af</tt></a> Fix man page for secret create for --replace by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/alexellis/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/alexellis">@alexellis</a>
 

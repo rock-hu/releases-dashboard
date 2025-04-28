@@ -1,13 +1,16 @@
 # Update Go version to 1.23
 
 ## release on 20250127
+
 ## description
+
 ## changes
+
 Changelog for 0.8.3:
 
 * PR <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="2813414146" data-permission-text="Title is private" data-url="https://github.com/openfaas/ingress-operator/issues/70" data-hovercard-type="pull_request" data-hovercard-url="/openfaas/ingress-operator/pull/70/hovercard" href="https://github.com/openfaas/ingress-operator/pull/70">#70</a> Update Go version to 1.23 by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/alexellis/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/alexellis">@alexellis</a>
 
-Commits  
+Commits
 
 <a class="commit-link" data-hovercard-type="commit" data-hovercard-url="https://github.com/openfaas/ingress-operator/commit/f3f9108fae99f21b9145f2c1f87612123bab23ff/hovercard" href="https://github.com/openfaas/ingress-operator/commit/f3f9108fae99f21b9145f2c1f87612123bab23ff"><tt>f3f9108</tt></a> Update Go version to 1.23 by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/alexellis/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/alexellis">@alexellis</a>
 

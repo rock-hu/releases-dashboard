@@ -1,8 +1,11 @@
 # Logback 1.5.16
 
 ## release on 20250206
+
 ## description
+
 ## changes
+
 <strong>2025-01-05 Release of logback version 1.5.16</strong>
 
 • In order to ease the migration of configuration files depending on JaninoEventEvaluator, logback-classic will emit a warning about the removal of JaninoEventEvaluator in version 1.5.13 and suggest an online migration tool.

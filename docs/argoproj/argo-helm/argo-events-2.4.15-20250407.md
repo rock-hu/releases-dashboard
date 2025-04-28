@@ -1,8 +1,11 @@
 # argo-events-2.4.15
 
 ## release on 20250407
+
 ## description
+
 ## changes
+
 A Helm chart for Argo Events, the event-driven workflow automation framework
 
 What's Changed

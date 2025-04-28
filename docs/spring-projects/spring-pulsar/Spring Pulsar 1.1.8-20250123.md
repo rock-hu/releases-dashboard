@@ -1,8 +1,11 @@
 # Spring Pulsar 1.1.8
 
 ## release on 20250123
+
 ## description
+
 ## changes
+
 🐞 Bug Fixes
 
 * Backport "Fix batch listener error handling" (1.1.x) <a href="https://github.com/spring-projects/spring-pulsar/pull/1006" data-hovercard-type="pull_request" data-hovercard-url="/spring-projects/spring-pulsar/pull/1006/hovercard">#1006</a>

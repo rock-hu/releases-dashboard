@@ -1,11 +1,14 @@
 # Update to MIT license for faas-cli (only)
 
 ## release on 20250408
+
 ## description
+
 ## changes
+
 Changelog for 0.17.3:
 
-Commits  
+Commits
 
 <a class="commit-link" data-hovercard-type="commit" data-hovercard-url="https://github.com/openfaas/faas-cli/commit/c024f164bc047e0f690099a7a76abae1958114c7/hovercard" href="https://github.com/openfaas/faas-cli/commit/c024f164bc047e0f690099a7a76abae1958114c7"><tt>c024f16</tt></a> Restore MIT license for faas-cli by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/alexellis/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/alexellis">@alexellis</a>
 

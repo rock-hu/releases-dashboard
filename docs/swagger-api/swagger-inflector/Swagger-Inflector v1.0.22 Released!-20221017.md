@@ -1,8 +1,11 @@
 # Swagger-Inflector v1.0.22 Released!
 
 ## release on 20221017
+
 ## description
+
 ## changes
+
 What's Changed
 
 * Update log back by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/gracekarina/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/gracekarina">@gracekarina</a> in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="1146093675" data-permission-text="Title is private" data-url="https://github.com/swagger-api/swagger-inflector/issues/419" data-hovercard-type="pull_request" data-hovercard-url="/swagger-api/swagger-inflector/pull/419/hovercard" href="https://github.com/swagger-api/swagger-inflector/pull/419">#419</a>

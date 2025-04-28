@@ -1,8 +1,11 @@
 # Swagger Codegen 3.0.67 has been released!
 
 ## release on 20250210
+
 ## description
+
 ## changes
+
 What's Changed
 
 * <a href="https://github.com/swagger-api/swagger-codegen/pull/12517/commits/cb2fd6b82841d983031c1e83d8932ba88f4d2335">update dependencies</a>

@@ -1,8 +1,11 @@
 # Disable update for secrets
 
 ## release on 20200107
+
 ## description
+
 ## changes
+
 Changelog for 0.8.4:
 
 * PR <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="545444812" data-permission-text="Title is private" data-url="https://github.com/openfaas/faas-swarm/issues/66" data-hovercard-type="pull_request" data-hovercard-url="/openfaas/faas-swarm/pull/66/hovercard" href="https://github.com/openfaas/faas-swarm/pull/66">#66</a> Update secret handler for PUT method by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/viveksyngh/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/viveksyngh">@viveksyngh</a>
