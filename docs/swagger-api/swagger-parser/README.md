@@ -4,6 +4,7 @@
 |version|release date|changes|
 |---|---|---|
 |Swagger-parser 2.1.25 released!|20250117|[Swagger-parser 2.1.25 released!](./Swagger-parser 2.1.25 released!-20250117.md)|
+|Swagger-parser 1.0.74 released!|20250502|[Swagger-parser 1.0.74 released!](./Swagger-parser 1.0.74 released!-20250502.md)|
 |Swagger-parser 1.0.73 released!|20250117|[Swagger-parser 1.0.73 released!](./Swagger-parser 1.0.73 released!-20250117.md)|
 |Swagger-parser 2.1.20 released!|20240118|[Swagger-parser 2.1.20 released!](./Swagger-parser 2.1.20 released!-20240118.md)|
 |Errored release (compiler release = 11) - use v2.1.18|20231017|[Errored release (compiler release = 11) - use v2.1.18](./Errored release (compiler release = 11) - use v2.1.18-20231017.md)|

@@ -1,8 +1,11 @@
 # react-native-builder-bob@0.40.3
 
 ## release on 20250407
+
 ## description
+
 ## changes
+
 <a href="https://github.com/callstack/react-native-builder-bob/compare/react-native-builder-bob@0.40.2...react-native-builder-bob@0.40.3">0.40.3</a> (2025-04-07)
 
 Bug Fixes

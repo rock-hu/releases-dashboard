@@ -35,4 +35,5 @@
 |Istio 1.22.1|20240605|[Istio 1.22.1](./Istio 1.22.1-20240605.md)|
 |Istio 1.24.0-alpha.0|20241017|[Istio 1.24.0-alpha.0](./Istio 1.24.0-alpha.0-20241017.md)|
 |Istio 1.22.0-beta.0|20240425|[Istio 1.22.0-beta.0](./Istio 1.22.0-beta.0-20240425.md)|
+|Istio 1.26.0-rc.0|20250430|[Istio 1.26.0-rc.0](./Istio 1.26.0-rc.0-20250430.md)|
 |Istio 1.24.0|20241108|[Istio 1.24.0](./Istio 1.24.0-20241108.md)|
