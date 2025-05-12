@@ -8,6 +8,7 @@
 |jackson-datatypes-collections-2.17.0-rc1|20240227|[jackson-datatypes-collections-2.17.0-rc1](./jackson-datatypes-collections-2.17.0-rc1-20240227.md)|
 |jackson-datatypes-collections-2.18.1|20241029|[jackson-datatypes-collections-2.18.1](./jackson-datatypes-collections-2.18.1-20241029.md)|
 |jackson-datatypes-collections-2.17.2|20240706|[jackson-datatypes-collections-2.17.2](./jackson-datatypes-collections-2.17.2-20240706.md)|
+|jackson-datatypes-collections-2.18.4|20250507|[jackson-datatypes-collections-2.18.4](./jackson-datatypes-collections-2.18.4-20250507.md)|
 |jackson-datatypes-collections-2.18.2|20241128|[jackson-datatypes-collections-2.18.2](./jackson-datatypes-collections-2.18.2-20241128.md)|
 |jackson-datatypes-collections-2.17.0-rc1: [maven-release-plugin] copy for tag jackson-datatypes-collections-2.1…|20240227|[jackson-datatypes-collections-2.17.0-rc1: [maven-release-plugin] copy for tag jackson-datatypes-collections-2.1…](./jackson-datatypes-collections-2.17.0-rc1: [maven-release-plugin] copy for tag jackson-datatypes-collections-2.1…-20240227.md)|
 |jackson-datatypes-collections-3.0.0-rc1|20250308|[jackson-datatypes-collections-3.0.0-rc1](./jackson-datatypes-collections-3.0.0-rc1-20250308.md)|
@@ -25,6 +26,7 @@
 |jackson-datatypes-collections-2.17.1|20240505|[jackson-datatypes-collections-2.17.1](./jackson-datatypes-collections-2.17.1-20240505.md)|
 |jackson-datatypes-collections-2.16.2|20240310|[jackson-datatypes-collections-2.16.2](./jackson-datatypes-collections-2.16.2-20240310.md)|
 |jackson-datatypes-collections-2.18.0|20240927|[jackson-datatypes-collections-2.18.0](./jackson-datatypes-collections-2.18.0-20240927.md)|
+|jackson-datatypes-collections-3.0.0-rc4|20250511|[jackson-datatypes-collections-3.0.0-rc4](./jackson-datatypes-collections-3.0.0-rc4-20250511.md)|
 |jackson-datatypes-collections-2.18.3|20250301|[jackson-datatypes-collections-2.18.3](./jackson-datatypes-collections-2.18.3-20250301.md)|
 |jackson-datatypes-collections-2.17.3|20241101|[jackson-datatypes-collections-2.17.3](./jackson-datatypes-collections-2.17.3-20241101.md)|
 |jackson-datatypes-collections-2.15.4|20240216|[jackson-datatypes-collections-2.15.4](./jackson-datatypes-collections-2.15.4-20240216.md)|

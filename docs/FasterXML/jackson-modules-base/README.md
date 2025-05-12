@@ -23,7 +23,9 @@
 |jackson-modules-base-2.17.3|20241102|[jackson-modules-base-2.17.3](./jackson-modules-base-2.17.3-20241102.md)|
 |jackson-modules-base-2.19.0|20250424|[jackson-modules-base-2.19.0](./jackson-modules-base-2.19.0-20250424.md)|
 |jackson-modules-base-2.18.0-rc1|20240830|[jackson-modules-base-2.18.0-rc1](./jackson-modules-base-2.18.0-rc1-20240830.md)|
+|jackson-modules-base-3.0.0-rc4|20250510|[jackson-modules-base-3.0.0-rc4](./jackson-modules-base-3.0.0-rc4-20250510.md)|
 |jackson-modules-base-2.18.0|20240927|[jackson-modules-base-2.18.0](./jackson-modules-base-2.18.0-20240927.md)|
+|jackson-modules-base-2.18.4|20250507|[jackson-modules-base-2.18.4](./jackson-modules-base-2.18.4-20250507.md)|
 |jackson-modules-base-2.16.0-rc1|20231021|[jackson-modules-base-2.16.0-rc1](./jackson-modules-base-2.16.0-rc1-20231021.md)|
 |jackson-modules-base-3.0.0-rc2|20250328|[jackson-modules-base-3.0.0-rc2](./jackson-modules-base-3.0.0-rc2-20250328.md)|
 |jackson-modules-base-2.18.0-rc1|20240831|[jackson-modules-base-2.18.0-rc1](./jackson-modules-base-2.18.0-rc1-20240831.md)|

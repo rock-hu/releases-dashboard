@@ -4,6 +4,7 @@
 |version|release date|changes|
 |---|---|---|
 |jackson-datatype-joda-2.18.3|20250301|[jackson-datatype-joda-2.18.3](./jackson-datatype-joda-2.18.3-20250301.md)|
+|jackson-datatype-joda-3.0.0-rc4|20250511|[jackson-datatype-joda-3.0.0-rc4](./jackson-datatype-joda-3.0.0-rc4-20250511.md)|
 |jackson-datatype-joda-2.16.1|20231224|[jackson-datatype-joda-2.16.1](./jackson-datatype-joda-2.16.1-20231224.md)|
 |jackson-datatype-joda-2.18.2|20241128|[jackson-datatype-joda-2.18.2](./jackson-datatype-joda-2.18.2-20241128.md)|
 |jackson-datatype-joda-3.0.0-rc2|20250328|[jackson-datatype-joda-3.0.0-rc2](./jackson-datatype-joda-3.0.0-rc2-20250328.md)|
@@ -17,6 +18,7 @@
 |jackson-datatype-joda-2.19.0-rc2|20250408|[jackson-datatype-joda-2.19.0-rc2](./jackson-datatype-joda-2.19.0-rc2-20250408.md)|
 |jackson-datatype-joda-2.18.1|20241029|[jackson-datatype-joda-2.18.1](./jackson-datatype-joda-2.18.1-20241029.md)|
 |jackson-datatype-joda-2.18.0-rc1|20240831|[jackson-datatype-joda-2.18.0-rc1](./jackson-datatype-joda-2.18.0-rc1-20240831.md)|
+|jackson-datatype-joda-2.18.4|20250507|[jackson-datatype-joda-2.18.4](./jackson-datatype-joda-2.18.4-20250507.md)|
 |jackson-datatype-joda-2.16.2|20240310|[jackson-datatype-joda-2.16.2](./jackson-datatype-joda-2.16.2-20240310.md)|
 |jackson-datatype-joda-2.17.3|20241101|[jackson-datatype-joda-2.17.3](./jackson-datatype-joda-2.17.3-20241101.md)|
 |jackson-datatype-joda-2.15.3|20231013|[jackson-datatype-joda-2.15.3](./jackson-datatype-joda-2.15.3-20231013.md)|

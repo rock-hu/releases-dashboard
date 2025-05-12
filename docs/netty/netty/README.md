@@ -19,6 +19,7 @@
 |netty-4.1.108.Final|20240321|[netty-4.1.108.Final](./netty-4.1.108.Final-20240321.md)|
 |netty-4.1.110.Final|20240522|[netty-4.1.110.Final](./netty-4.1.110.Final-20240522.md)|
 |netty-4.1.105.Final|20240116|[netty-4.1.105.Final](./netty-4.1.105.Final-20240116.md)|
+|netty-4.2.1.Final|20250506|[netty-4.2.1.Final](./netty-4.2.1.Final-20250506.md)|
 |netty-4.1.121.Final|20250424|[netty-4.1.121.Final](./netty-4.1.121.Final-20250424.md)|
 |netty-4.2.0.RC2|20250120|[netty-4.2.0.RC2](./netty-4.2.0.RC2-20250120.md)|
 |netty-4.2.0.Beta1|20241104|[netty-4.2.0.Beta1](./netty-4.2.0.Beta1-20241104.md)|
