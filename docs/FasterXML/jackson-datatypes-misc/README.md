@@ -23,6 +23,7 @@
 |jackson-datatypes-misc-parent-2.15.2|20230531|[jackson-datatypes-misc-parent-2.15.2](./jackson-datatypes-misc-parent-2.15.2-20230531.md)|
 |jackson-datatypes-misc-parent-2.18.3|20250301|[jackson-datatypes-misc-parent-2.18.3](./jackson-datatypes-misc-parent-2.18.3-20250301.md)|
 |jackson-datatypes-misc-parent-2.17.2|20240706|[jackson-datatypes-misc-parent-2.17.2](./jackson-datatypes-misc-parent-2.17.2-20240706.md)|
+|jackson-datatypes-misc-parent-3.0.0-rc5|20250522|[jackson-datatypes-misc-parent-3.0.0-rc5](./jackson-datatypes-misc-parent-3.0.0-rc5-20250522.md)|
 |jackson-datatypes-misc-parent-3.0.0-rc3|20250414|[jackson-datatypes-misc-parent-3.0.0-rc3](./jackson-datatypes-misc-parent-3.0.0-rc3-20250414.md)|
 |jackson-datatypes-misc-parent-2.17.0|20240313|[jackson-datatypes-misc-parent-2.17.0](./jackson-datatypes-misc-parent-2.17.0-20240313.md)|
 |jackson-datatypes-misc-parent-3.0.0-rc1|20250308|[jackson-datatypes-misc-parent-3.0.0-rc1](./jackson-datatypes-misc-parent-3.0.0-rc1-20250308.md)|

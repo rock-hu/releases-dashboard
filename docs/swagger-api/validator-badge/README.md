@@ -14,6 +14,7 @@
 |v2.1.0|20221021|[v2.1.0](./v2.1.0-20221021.md)|
 |swagger-validator 2.0.10 Released!|20220803|[swagger-validator 2.0.10 Released!](./swagger-validator 2.0.10 Released!-20220803.md)|
 |v2.1.0|20221020|[v2.1.0](./v2.1.0-20221020.md)|
+|Swagger Validator 2.1.7 released!|20250519|[Swagger Validator 2.1.7 released!](./Swagger Validator 2.1.7 released!-20250519.md)|
 |Swagger Validator 2.1.6 released!|20250117|[Swagger Validator 2.1.6 released!](./Swagger Validator 2.1.6 released!-20250117.md)|
 |swagger-validator 2.1.1 Released!|20221021|[swagger-validator 2.1.1 Released!](./swagger-validator 2.1.1 Released!-20221021.md)|
 |Swagger Validator 2.1.4 released!|20231107|[Swagger Validator 2.1.4 released!](./Swagger Validator 2.1.4 released!-20231107.md)|

@@ -1,11 +1,14 @@
-#  Don't sleep when being probed for readiness
+# Don't sleep when being probed for readiness
 
 ## release on 20250516
+
 ## description
+
 ## changes
+
 Changelog for v0.1.8:
 
-Commits  
+Commits
 
 <a class="commit-link" data-hovercard-type="commit" data-hovercard-url="https://github.com/openfaas/store-functions/commit/6b7588a5bc27e90e65ec69ccbe81689fbb709e05/hovercard" href="https://github.com/openfaas/store-functions/commit/6b7588a5bc27e90e65ec69ccbe81689fbb709e05"><tt>6b7588a</tt></a> Don't sleep when being probed for readiness by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/alexellis/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/alexellis">@alexellis</a>
 
