@@ -1,8 +1,11 @@
 # Release 5.14.3
 
 ## release on 20250513
+
 ## description
+
 ## changes
+
 <a href="https://github.com/callstack/react-native-paper/compare/v5.14.2...v5.14.3">5.14.3</a> (2025-05-13)
 
 Bug Fixes

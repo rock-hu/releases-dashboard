@@ -1,8 +1,11 @@
 # Release 5.14.0
 
 ## release on 20250430
+
 ## description
+
 ## changes
+
 <a href="https://github.com/callstack/react-native-paper/compare/v5.13.5...v5.14.0">5.14.0</a> (2025-04-30)
 
 Deprecation
