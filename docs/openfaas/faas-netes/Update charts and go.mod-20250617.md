@@ -1,11 +1,14 @@
 # Update charts and go.mod
 
 ## release on 20250617
+
 ## description
+
 ## changes
+
 Changelog for 0.18.14:
 
-Commits  
+Commits
 
 <a class="commit-link" data-hovercard-type="commit" data-hovercard-url="https://github.com/openfaas/faas-netes/commit/dbf59d4427caef481970077a67953e7f6e974f61/hovercard" href="https://github.com/openfaas/faas-netes/commit/dbf59d4427caef481970077a67953e7f6e974f61"><tt>dbf59d4</tt></a> Update charts and go.mod by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/alexellis/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/alexellis">@alexellis</a>
 

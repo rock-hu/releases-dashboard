@@ -1,8 +1,11 @@
 # argo-workflows-0.45.19
 
 ## release on 20250620
+
 ## description
+
 ## changes
+
 A Helm chart for Argo Workflows
 
 What's Changed

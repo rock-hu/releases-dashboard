@@ -1,8 +1,11 @@
 # Spring Pulsar 1.1.13
 
 ## release on 20250616
+
 ## description
+
 ## changes
+
 🔨 Dependency Upgrades
 
 * Bump com.google.protobuf:protobuf-java from 3.25.7 to 3.25.8 <a href="https://github.com/spring-projects/spring-pulsar/pull/1127" data-hovercard-type="pull_request" data-hovercard-url="/spring-projects/spring-pulsar/pull/1127/hovercard">#1127</a>

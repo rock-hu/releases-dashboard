@@ -1,13 +1,16 @@
 # Support ndjson streams for function invocations
 
 ## release on 20250623
+
 ## description
+
 ## changes
+
 Changelog for v0.25.8:
 
 * PR <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3162862413" data-permission-text="Title is private" data-url="https://github.com/openfaas/faas-provider/issues/76" data-hovercard-type="pull_request" data-hovercard-url="/openfaas/faas-provider/pull/76/hovercard" href="https://github.com/openfaas/faas-provider/pull/76">#76</a> Support ndjson streams for function invocations by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/welteki/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/welteki">@welteki</a>
 
-Commits  
+Commits
 
 <a class="commit-link" data-hovercard-type="commit" data-hovercard-url="https://github.com/openfaas/faas-provider/commit/c81f54246d7bccaf21b1cb6c49760650640addd3/hovercard" href="https://github.com/openfaas/faas-provider/commit/c81f54246d7bccaf21b1cb6c49760650640addd3"><tt>c81f542</tt></a> Support ndjson streams for function invocations by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/welteki/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/welteki">@welteki</a>
 

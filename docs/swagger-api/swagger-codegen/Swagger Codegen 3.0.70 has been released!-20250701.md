@@ -1,8 +1,11 @@
 # Swagger Codegen 3.0.70 has been released!
 
 ## release on 20250701
+
 ## description
+
 ## changes
+
 What's Changed
 
 * bump snapshot 3.0.70-SNAPSHOT by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/frantuma/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/frantuma">@frantuma</a> in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3167528563" data-permission-text="Title is private" data-url="https://github.com/swagger-api/swagger-codegen/issues/12561" data-hovercard-type="pull_request" data-hovercard-url="/swagger-api/swagger-codegen/pull/12561/hovercard" href="https://github.com/swagger-api/swagger-codegen/pull/12561">#12561</a>

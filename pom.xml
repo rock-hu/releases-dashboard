@@ -5,7 +5,7 @@
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-starter-parent</artifactId>
     <version>3.2.3</version>
-    <relativePath></relativePath>
+    <relativePath/>
     <!-- lookup parent from repository -->
   </parent>
   <groupId>com.internal.developer.platform.releases</groupId>
@@ -612,10 +612,10 @@
         <artifactId>spotless-maven-plugin</artifactId>
         <configuration>
           <java>
-            <removeUnusedImports></removeUnusedImports>
+            <removeUnusedImports/>
             <!-- self-explanatory -->
 
-            <importOrder></importOrder>
+            <importOrder/>
             <eclipse>
               <file>eclipse/eclipse-java-google-style.xml</file>
               <version>4.13.0</version>
@@ -627,7 +627,7 @@
               <include>pom.xml</include>
             </includes>
 
-            <sortPom></sortPom>
+            <sortPom/>
             <!-- has its own section below -->
 
           </pom>
@@ -637,7 +637,7 @@
               <include>**/*.md</include>
             </includes>
 
-            <flexmark></flexmark>
+            <flexmark/>
             <!-- has its own section below -->
           </markdown>
           <yaml>
