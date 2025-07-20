@@ -3,19 +3,19 @@ repo_url: https://github.com:rock-hu/releases-dashboard
 repo_name: rock-hu/releases-dashboard
 site_dir: public
 theme:
-  name: material
-  include_search_page: false
-  search_index_only: true
-  language: en
-  highlightjs: true
-  hljs_languages:
-    - yaml
-    - rust
-    - java
-  features:
-    - navigation.instant
-    - navigation.expand
-    - navigation.indexes
+    name: material
+    include_search_page: false
+    search_index_only: true
+    language: en
+    highlightjs: true
+    hljs_languages:
+      - yaml
+      - rust
+      - java
+    features:
+      - navigation.instant
+      - navigation.expand
+      - navigation.indexes
 nav:
   - mkdocs.md
   - airbnb:
@@ -251,14 +251,13 @@ nav:
 plugins:
   - search
   - git-revision-date:
-      enabled_if_env: CI
+        enabled_if_env: CI
   - git-authors
   - git-revision-date-localized:
-      type: date
-  - table-reader
+        type: date
 extra:
-  version:
-    method: mike
+    version:
+        method: mike
 extra_css:
   - stylesheets/extra.css
 extra_javascript:
@@ -275,7 +274,7 @@ markdown_extensions:
   - admonition
   - tables
   - pymdownx.superfences:
-      custom_fences:
-        - name: mermaid
-          class: mermaid
-          format: !!python/name:pymdownx.superfences.fence_code_format
+        custom_fences:
+          - name: mermaid
+            class: mermaid
+            format: !!python/name:pymdownx.superfences.fence_code_format ""
