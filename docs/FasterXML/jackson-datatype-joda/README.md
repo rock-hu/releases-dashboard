@@ -14,8 +14,10 @@
 |jackson-datatype-joda-2.18.0|20240927|[jackson-datatype-joda-2.18.0](./jackson-datatype-joda-2.18.0-20240927.md)|
 |jackson-datatype-joda-2.17.0-rc1|20240227|[jackson-datatype-joda-2.17.0-rc1](./jackson-datatype-joda-2.17.0-rc1-20240227.md)|
 |jackson-datatype-joda-3.0.0-rc5|20250522|[jackson-datatype-joda-3.0.0-rc5](./jackson-datatype-joda-3.0.0-rc5-20250522.md)|
+|jackson-datatype-joda-3.0.0-rc6|20250719|[jackson-datatype-joda-3.0.0-rc6](./jackson-datatype-joda-3.0.0-rc6-20250719.md)|
 |jackson-datatype-joda-3.0.0-rc1|20250308|[jackson-datatype-joda-3.0.0-rc1](./jackson-datatype-joda-3.0.0-rc1-20250308.md)|
 |jackson-datatype-joda-2.18.1|20241029|[jackson-datatype-joda-2.18.1](./jackson-datatype-joda-2.18.1-20241029.md)|
+|jackson-datatype-joda-2.19.2|20250718|[jackson-datatype-joda-2.19.2](./jackson-datatype-joda-2.19.2-20250718.md)|
 |jackson-datatype-joda-2.17.0|20240313|[jackson-datatype-joda-2.17.0](./jackson-datatype-joda-2.17.0-20240313.md)|
 |jackson-datatype-joda-2.18.3|20250301|[jackson-datatype-joda-2.18.3](./jackson-datatype-joda-2.18.3-20250301.md)|
 |jackson-datatype-joda-3.0.0-rc3|20250414|[jackson-datatype-joda-3.0.0-rc3](./jackson-datatype-joda-3.0.0-rc3-20250414.md)|

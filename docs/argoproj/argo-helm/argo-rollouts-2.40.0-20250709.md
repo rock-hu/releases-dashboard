@@ -1,8 +1,11 @@
 # argo-rollouts-2.40.0
 
 ## release on 20250709
+
 ## description
+
 ## changes
+
 A Helm chart for Argo Rollouts
 
 What's Changed

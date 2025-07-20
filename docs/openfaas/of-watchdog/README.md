@@ -6,6 +6,7 @@
 |Fix for passing body from request in text streaming mode|20240112|[Fix for passing body from request in text streaming mode](./Fix for passing body from request in text streaming mode-20240112.md)|
 |Update faas-middleware, to add X-OpenFaaS-Internal header when max_inflight is met|20231110|[Update faas-middleware, to add X-OpenFaaS-Internal header when max_inflight is met](./Update faas-middleware, to add X-OpenFaaS-Internal header when max_inflight is met-20231110.md)|
 |Remove log line when limiting requests|20221022|[Remove log line when limiting requests](./Remove log line when limiting requests-20221022.md)|
+|Support ndjson streams for function invocations|20250716|[Support ndjson streams for function invocations](./Support ndjson streams for function invocations-20250716.md)|
 |Support function authentication with OpenFaaS IAM|20240617|[Support function authentication with OpenFaaS IAM](./Support function authentication with OpenFaaS IAM-20240617.md)|
 |Support streaming responses from functions in HTTP mode|20240111|[Support streaming responses from functions in HTTP mode](./Support streaming responses from functions in HTTP mode-20240111.md)|
 | Only log about JWT Auth when it is enabled|20240903|[ Only log about JWT Auth when it is enabled](./ Only log about JWT Auth when it is enabled-20240903.md)|

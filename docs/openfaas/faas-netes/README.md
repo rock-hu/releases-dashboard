@@ -5,6 +5,7 @@
 |---|---|---|
 |Allow use of localhost registry for limited testing|20241217|[Allow use of localhost registry for limited testing](./Allow use of localhost registry for limited testing-20241217.md)|
 |Update client go to v0.29.3, and other dependencies in go.mod|20240325|[Update client go to v0.29.3, and other dependencies in go.mod](./Update client go to v0.29.3, and other dependencies in go.mod-20240325.md)|
+|Updates to go.mod for dependencies|20250716|[Updates to go.mod for dependencies](./Updates to go.mod for dependencies-20250716.md)|
 |Support setting the deployment strategy in Profiles|20240611|[Support setting the deployment strategy in Profiles](./Support setting the deployment strategy in Profiles-20240611.md)|
 |Regenerated CRDs, plus DNS configuration for Profiles|20240312|[Regenerated CRDs, plus DNS configuration for Profiles](./Regenerated CRDs, plus DNS configuration for Profiles-20240312.md)|
 |Fix for sending request body to text streaming functions |20240112|[Fix for sending request body to text streaming functions ](./Fix for sending request body to text streaming functions -20240112.md)|
