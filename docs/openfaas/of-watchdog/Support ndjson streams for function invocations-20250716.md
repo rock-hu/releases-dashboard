@@ -1,17 +1,20 @@
 # Support ndjson streams for function invocations
 
 ## release on 20250716
+
 ## description
+
 ## changes
+
 Changelog for 0.10.10:
 
 * PR <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3163362221" data-permission-text="Title is private" data-url="https://github.com/openfaas/of-watchdog/issues/162" data-hovercard-type="pull_request" data-hovercard-url="/openfaas/of-watchdog/pull/162/hovercard" href="https://github.com/openfaas/of-watchdog/pull/162">#162</a> Support forwarding of ndjson streams by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/welteki/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/welteki">@welteki</a>
 
-Commits  
+Commits
 
-<a class="commit-link" data-hovercard-type="commit" data-hovercard-url="https://github.com/openfaas/of-watchdog/commit/467ba069d6b200d6a414075cf6e09ed53fb48e10/hovercard" href="https://github.com/openfaas/of-watchdog/commit/467ba069d6b200d6a414075cf6e09ed53fb48e10"><tt>467ba06</tt></a> Support forwarding of ndjson streams by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/welteki/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/welteki">@welteki</a>  
+<a class="commit-link" data-hovercard-type="commit" data-hovercard-url="https://github.com/openfaas/of-watchdog/commit/467ba069d6b200d6a414075cf6e09ed53fb48e10/hovercard" href="https://github.com/openfaas/of-watchdog/commit/467ba069d6b200d6a414075cf6e09ed53fb48e10"><tt>467ba06</tt></a> Support forwarding of ndjson streams by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/welteki/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/welteki">@welteki</a>
 
-<a class="commit-link" data-hovercard-type="commit" data-hovercard-url="https://github.com/openfaas/of-watchdog/commit/5343a141f624f1678d5f9c5ca20d2091b4391bda/hovercard" href="https://github.com/openfaas/of-watchdog/commit/5343a141f624f1678d5f9c5ca20d2091b4391bda"><tt>5343a14</tt></a> Pin workflows by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/alexellis/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/alexellis">@alexellis</a>  
+<a class="commit-link" data-hovercard-type="commit" data-hovercard-url="https://github.com/openfaas/of-watchdog/commit/5343a141f624f1678d5f9c5ca20d2091b4391bda/hovercard" href="https://github.com/openfaas/of-watchdog/commit/5343a141f624f1678d5f9c5ca20d2091b4391bda"><tt>5343a14</tt></a> Pin workflows by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/alexellis/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/alexellis">@alexellis</a>
 
 <a class="commit-link" data-hovercard-type="commit" data-hovercard-url="https://github.com/openfaas/of-watchdog/commit/9440b84e8e33fa84ebea3d4262fe51ac59c2036d/hovercard" href="https://github.com/openfaas/of-watchdog/commit/9440b84e8e33fa84ebea3d4262fe51ac59c2036d"><tt>9440b84</tt></a> Update go.mod by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/alexellis/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/alexellis">@alexellis</a>
 

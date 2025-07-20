@@ -1,13 +1,16 @@
 # Use same header format as curl for invoke command
 
 ## release on 20250716
+
 ## description
+
 ## changes
+
 Changelog for 0.17.6:
 
 * PR <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3157405162" data-permission-text="Title is private" data-url="https://github.com/openfaas/faas-cli/issues/1009" data-hovercard-type="pull_request" data-hovercard-url="/openfaas/faas-cli/pull/1009/hovercard" href="https://github.com/openfaas/faas-cli/pull/1009">#1009</a> Use same header format as curl for invoke command by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/welteki/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/welteki">@welteki</a>
 
-Commits  
+Commits
 
 <a class="commit-link" data-hovercard-type="commit" data-hovercard-url="https://github.com/openfaas/faas-cli/commit/ee4db09a978f9f207c0379283ce4df13529674fb/hovercard" href="https://github.com/openfaas/faas-cli/commit/ee4db09a978f9f207c0379283ce4df13529674fb"><tt>ee4db09</tt></a> Use same header format as curl for invoke command by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/welteki/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/welteki">@welteki</a>
 
