@@ -1,21 +1,24 @@
 # Support streaming logs for remote builds
 
 ## release on 20250708
+
 ## description
+
 ## changes
+
 Changelog for 0.17.5:
 
 * PR <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3153081775" data-permission-text="Title is private" data-url="https://github.com/openfaas/faas-cli/issues/1007" data-hovercard-type="pull_request" data-hovercard-url="/openfaas/faas-cli/pull/1007/hovercard" href="https://github.com/openfaas/faas-cli/pull/1007">#1007</a> Support streaming logs for remote builds. by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/welteki/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/welteki">@welteki</a>
 
-Commits  
+Commits
 
-<a class="commit-link" data-hovercard-type="commit" data-hovercard-url="https://github.com/openfaas/faas-cli/commit/70eb80d8d11e7d69d38035f87d978c62730e987c/hovercard" href="https://github.com/openfaas/faas-cli/commit/70eb80d8d11e7d69d38035f87d978c62730e987c"><tt>70eb80d</tt></a> Fix url for remote builder by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/welteki/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/welteki">@welteki</a>  
+<a class="commit-link" data-hovercard-type="commit" data-hovercard-url="https://github.com/openfaas/faas-cli/commit/70eb80d8d11e7d69d38035f87d978c62730e987c/hovercard" href="https://github.com/openfaas/faas-cli/commit/70eb80d8d11e7d69d38035f87d978c62730e987c"><tt>70eb80d</tt></a> Fix url for remote builder by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/welteki/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/welteki">@welteki</a>
 
-<a class="commit-link" data-hovercard-type="commit" data-hovercard-url="https://github.com/openfaas/faas-cli/commit/3da8558f32a210da7235a122be04c99d72435ab6/hovercard" href="https://github.com/openfaas/faas-cli/commit/3da8558f32a210da7235a122be04c99d72435ab6"><tt>3da8558</tt></a> Fix build options support for remote builds by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/welteki/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/welteki">@welteki</a>  
+<a class="commit-link" data-hovercard-type="commit" data-hovercard-url="https://github.com/openfaas/faas-cli/commit/3da8558f32a210da7235a122be04c99d72435ab6/hovercard" href="https://github.com/openfaas/faas-cli/commit/3da8558f32a210da7235a122be04c99d72435ab6"><tt>3da8558</tt></a> Fix build options support for remote builds by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/welteki/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/welteki">@welteki</a>
 
-<a class="commit-link" data-hovercard-type="commit" data-hovercard-url="https://github.com/openfaas/faas-cli/commit/2651490b3d1d841eed1176ff6c57fff1348e753d/hovercard" href="https://github.com/openfaas/faas-cli/commit/2651490b3d1d841eed1176ff6c57fff1348e753d"><tt>2651490</tt></a> Use Go SDK CreateBuildContext function by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/welteki/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/welteki">@welteki</a>  
+<a class="commit-link" data-hovercard-type="commit" data-hovercard-url="https://github.com/openfaas/faas-cli/commit/2651490b3d1d841eed1176ff6c57fff1348e753d/hovercard" href="https://github.com/openfaas/faas-cli/commit/2651490b3d1d841eed1176ff6c57fff1348e753d"><tt>2651490</tt></a> Use Go SDK CreateBuildContext function by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/welteki/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/welteki">@welteki</a>
 
-<a class="commit-link" data-hovercard-type="commit" data-hovercard-url="https://github.com/openfaas/faas-cli/commit/d75605123a8b708a28b6b588beed91bf9abba50f/hovercard" href="https://github.com/openfaas/faas-cli/commit/d75605123a8b708a28b6b588beed91bf9abba50f"><tt>d756051</tt></a> Use Go SDK MakeTar function to prepare remote build archive by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/welteki/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/welteki">@welteki</a>  
+<a class="commit-link" data-hovercard-type="commit" data-hovercard-url="https://github.com/openfaas/faas-cli/commit/d75605123a8b708a28b6b588beed91bf9abba50f/hovercard" href="https://github.com/openfaas/faas-cli/commit/d75605123a8b708a28b6b588beed91bf9abba50f"><tt>d756051</tt></a> Use Go SDK MakeTar function to prepare remote build archive by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/welteki/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/welteki">@welteki</a>
 
 <a class="commit-link" data-hovercard-type="commit" data-hovercard-url="https://github.com/openfaas/faas-cli/commit/5a4593c561f9cc1bdff6711037a4ab50a2da9205/hovercard" href="https://github.com/openfaas/faas-cli/commit/5a4593c561f9cc1bdff6711037a4ab50a2da9205"><tt>5a4593c</tt></a> Support streaming logs for remote builds by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/welteki/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/welteki">@welteki</a>
 
