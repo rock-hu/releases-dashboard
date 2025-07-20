@@ -237,6 +237,7 @@ atom:
 
     # android
     - "https://github.com/android/compose-samples/releases.atom"
+    - "https://github.com/google/dagger/releases.atom"
 
     # airbnb
     - "https://github.com/airbnb/lottie-android/releases.atom"
