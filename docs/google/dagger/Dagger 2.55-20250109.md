@@ -1,8 +1,11 @@
 # Dagger 2.55
 
 ## release on 20250109
+
 ## description
+
 ## changes
+
 Notable/breaking changes
 
 * Added support for injecting <code>jakarta.inject.Provider</code>. This should be usable anywhere <code>javax.inject.Provider</code> is usable. Note that this technically comes with a breaking change to disallow providing <code>jakarta.inject.Provider</code> types in the same way it is disallowed for <code>javax.inject.Provider</code>. (<a class="commit-link" data-hovercard-type="commit" data-hovercard-url="https://github.com/google/dagger/commit/caa7e178bd1a1ca6bd6ea569f2334f02a55b59cc/hovercard" href="https://github.com/google/dagger/commit/caa7e178bd1a1ca6bd6ea569f2334f02a55b59cc"><tt>caa7e17</tt></a>)

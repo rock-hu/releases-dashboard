@@ -1,8 +1,11 @@
 # Dagger 2.54
 
 ## release on 20241220
+
 ## description
+
 ## changes
+
 Bug fixes
 
 * Fixed <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="2284335411" data-permission-text="Title is private" data-url="https://github.com/google/dagger/issues/4303" data-hovercard-type="issue" data-hovercard-url="/google/dagger/issues/4303/hovercard" href="https://github.com/google/dagger/issues/4303">#4303</a>: Upgrade Hilt Gradle Plugin to support KSP2 configuration. (<a class="commit-link" data-hovercard-type="commit" data-hovercard-url="https://github.com/google/dagger/commit/76b581999a81a4a6e91d5f5fc6b51639095575b2/hovercard" href="https://github.com/google/dagger/commit/76b581999a81a4a6e91d5f5fc6b51639095575b2"><tt>76b5819</tt></a>)

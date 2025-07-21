@@ -1,8 +1,11 @@
 # Dagger 2.56
 
 ## release on 20250422
+
 ## description
+
 ## changes
+
 Notable/breaking changes
 
 * [Jakarta support] Remove deprecated Factory create methods that take a <code>javax.inject.Provider</code>. This means components built with an older Dagger version but with factory dependencies from a newer Dagger version will no longer compile. If you run into this, the Dagger version compiling the component must be upgraded. (<a class="commit-link" data-hovercard-type="commit" data-hovercard-url="https://github.com/google/dagger/commit/3412e6c03091e9ad6f142b54f5fcf771da238d17/hovercard" href="https://github.com/google/dagger/commit/3412e6c03091e9ad6f142b54f5fcf771da238d17"><tt>3412e6c</tt></a>)

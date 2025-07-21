@@ -1,11 +1,14 @@
 # Dagger 2.52
 
 ## release on 20240805
+
 ## description
+
 ## changes
+
 Dagger 2.52
 
-Notes:  
+Notes:
 
 Dagger KSP now requires at least KSP 1.9.24-1.0.20.
 

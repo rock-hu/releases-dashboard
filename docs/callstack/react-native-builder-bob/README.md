@@ -30,9 +30,11 @@
 |react-native-builder-bob@0.40.1|20250407|[react-native-builder-bob@0.40.1](./react-native-builder-bob@0.40.1-20250407.md)|
 |react-native-builder-bob@0.35.1|20241207|[react-native-builder-bob@0.35.1](./react-native-builder-bob@0.35.1-20241207.md)|
 |react-native-builder-bob@0.40.4|20250408|[react-native-builder-bob@0.40.4](./react-native-builder-bob@0.40.4-20250408.md)|
+|create-react-native-library@0.52.0|20250720|[create-react-native-library@0.52.0](./create-react-native-library@0.52.0-20250720.md)|
 |react-native-builder-bob@0.40.6|20250411|[react-native-builder-bob@0.40.6](./react-native-builder-bob@0.40.6-20250411.md)|
 |react-native-builder-bob@0.40.5|20250409|[react-native-builder-bob@0.40.5](./react-native-builder-bob@0.40.5-20250409.md)|
 |react-native-builder-bob@0.40.2|20250407|[react-native-builder-bob@0.40.2](./react-native-builder-bob@0.40.2-20250407.md)|
+|react-native-builder-bob@0.40.13|20250720|[react-native-builder-bob@0.40.13](./react-native-builder-bob@0.40.13-20250720.md)|
 |react-native-builder-bob@0.40.10|20250505|[react-native-builder-bob@0.40.10](./react-native-builder-bob@0.40.10-20250505.md)|
 |create-react-native-library@0.45.1|20241206|[create-react-native-library@0.45.1](./create-react-native-library@0.45.1-20241206.md)|
 |create-react-native-library@0.50.1|20250503|[create-react-native-library@0.50.1](./create-react-native-library@0.50.1-20250503.md)|

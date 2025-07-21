@@ -1,81 +1,84 @@
 # Dagger 2.53
 
 ## release on 20241202
+
 ## description
+
 ## changes
+
 Potentially breaking changes:
 
 <code>@Binds</code> methods now requires explicit nullability
 
-<strong>New:</strong> <code>@Binds</code> methods must explicitly declare nullability (previously we tried to infer it from  
+<strong>New:</strong> <code>@Binds</code> methods must explicitly declare nullability (previously we tried to infer it from
 
-the parameter). This change aligns the nullability behavior of <code>@Binds</code> with how nullability is  
+the parameter). This change aligns the nullability behavior of <code>@Binds</code> with how nullability is
 
-treated elsewhere in Dagger by requiring it to be explict at the request and declaration sites.  
+treated elsewhere in Dagger by requiring it to be explict at the request and declaration sites.
 
 (<a class="commit-link" data-hovercard-type="commit" data-hovercard-url="https://github.com/google/dagger/commit/4941926c57958915b288423f28706a5496fee93c/hovercard" href="https://github.com/google/dagger/commit/4941926c57958915b288423f28706a5496fee93c"><tt>4941926</tt></a>)
 
 <strong>Suggested fix:</strong> If you get a failure due to this change, add the proper nullability to your <code>@Binds</code> method/parameter. For example:
 
-    @Module
-    interface MyModule {
-    -    @Binds fun bindToNullableImpl(impl: FooImpl): Foo
-    +    @Binds fun bindToNullableImpl(impl: FooImpl?): Foo?
-    }
+        @Module
+        interface MyModule {
+        -    @Binds fun bindToNullableImpl(impl: FooImpl): Foo
+        +    @Binds fun bindToNullableImpl(impl: FooImpl?): Foo?
+        }
 
 Scopes are now banned on <code>@Binds</code> that delegate to production implementations.
 
-<strong>New:</strong> Scoping an <code>@Binds</code> method that delegates to an <code>@Produces</code> implementation is not  
+<strong>New:</strong> Scoping an <code>@Binds</code> method that delegates to an <code>@Produces</code> implementation is not
 
 allowed. The scope was ignored anyway because production bindings are implicitly scoped. (<a class="commit-link" data-hovercard-type="commit" data-hovercard-url="https://github.com/google/dagger/commit/03b237ff2e37272ae65f8c116f9f395f0b44be1b/hovercard" href="https://github.com/google/dagger/commit/03b237ff2e37272ae65f8c116f9f395f0b44be1b"><tt>03b237f</tt></a>)
 
 <strong>Suggested fix:</strong> Remove the scope annotation (since the scope was ignored, this should not be a functional change).
 
-    @Module
-    interface MyModule {
-    -    @ProductionScoped
-         @Binds fun bindToProductionImpl(impl: FooImpl): Foo
-    }
+        @Module
+        interface MyModule {
+        -    @ProductionScoped
+             @Binds fun bindToProductionImpl(impl: FooImpl): Foo
+        }
 
 <code>@JvmSuppressWildcards</code> now required on multibound map requests in KSP.
 
-<strong>New:</strong> When requesting a multibound map, users must include <code>@JvmSuppressWildcards</code> on the  
+<strong>New:</strong> When requesting a multibound map, users must include <code>@JvmSuppressWildcards</code> on the
 
-map's value, e.g. <code>Map&lt;K, @JvmSuppressWildcards V&gt;</code>. Note that this has always been the behavior  
+map's value, e.g. <code>Map&lt;K, @JvmSuppressWildcards V&gt;</code>. Note that this has always been the behavior
 
-in KAPT, but due to a bug in the KSP implementation we accidentally matched the request without  
+in KAPT, but due to a bug in the KSP implementation we accidentally matched the request without
 
 <code>@JvmSuppressWildcards</code>.
 
-<strong>Suggested fix:</strong> Unfortunately, this means users may need to add back <code>@JvmSuppressWildcards</code>  
+<strong>Suggested fix:</strong> Unfortunately, this means users may need to add back <code>@JvmSuppressWildcards</code>
 
-for multibound map requests. At the moment, KSP doesn't provide a way to determine the Kotlin type  
+for multibound map requests. At the moment, KSP doesn't provide a way to determine the Kotlin type
 
-is actually assignable to <code>Map&lt;K, V&gt;</code> without <code>@JvmSuppressWildcards</code> at compile time, and without  
+is actually assignable to <code>Map&lt;K, V&gt;</code> without <code>@JvmSuppressWildcards</code> at compile time, and without
 
 this check users could hit runtime failures when Dagger tries to cast the type to the users type.
 
-    class MyClass
-    @Inject constructor(
-    -    multiboundMap: Map<K, V>
-    +    multiboundMap: Map<K, @JvmSuppressWildcards V>
-    )
+        class MyClass
+        @Inject constructor(
+        -    multiboundMap: Map<K, V>
+        +    multiboundMap: Map<K, @JvmSuppressWildcards V>
+        )
 
-In the future, we may consider simple cases where we can guarantee that <code>@JvmSuppressWildcards</code> can  
+In the future, we may consider simple cases where we can guarantee that <code>@JvmSuppressWildcards</code> can
 
 be elided, but that is out of scope for this release.
 
 Remove support for Java 7
 
-<strong>New:</strong> Dagger has officially removed support for Java 7. Oracle ended support for Java 7 in  
+<strong>New:</strong> Dagger has officially removed support for Java 7. Oracle ended support for Java 7 in
 
-July 2022, and since Dagger has upgraded to JDK 18, compiling with language level 7 is no longer  
+July 2022, and since Dagger has upgraded to JDK 18, compiling with language level 7 is no longer
 
-supported. Note that this may not break users immediately since Dagger's generated code is still  
+supported. Note that this may not break users immediately since Dagger's generated code is still
 
 technically Java 7 compatible.
 
-<strong>Suggested Fix:</strong> Upgrade to Java 8+ (While Dagger can still test Java 8 at the moment, it is  
+<strong>Suggested Fix:</strong> Upgrade to Java 8+ (While Dagger can still test Java 8 at the moment, it is
 
 also deprecated as of January 2024, and we'll likely need to remove support soon).
 
