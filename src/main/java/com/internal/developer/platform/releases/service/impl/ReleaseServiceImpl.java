@@ -11,8 +11,10 @@ import com.vladsch.flexmark.html2md.converter.FlexmarkHtmlConverter;
 import java.io.File;
 import java.io.FilenameFilter;
 import java.io.IOException;
+import java.nio.charset.StandardCharsets;
 import java.text.SimpleDateFormat;
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.List;
 import lombok.extern.slf4j.Slf4j;
 import org.apache.commons.collections4.CollectionUtils;
@@ -34,6 +36,8 @@ public class ReleaseServiceImpl implements ReleaseService {
 	RssService rssService;
 	@Autowired
 	FlexmarkHtmlConverter flexmarkHtmlConverter;
+
+	private List<String> EXCLUDES_ORGANIZATIONS = Arrays.asList("javascripts", "stylesheets");
 
 	@Override
 	public int releases(String atom) throws IOException, IllegalArgumentException, FeedException {
@@ -124,7 +128,8 @@ public class ReleaseServiceImpl implements ReleaseService {
 		File markdown = new File(dir, String.format("%s-%s.md", release.getTitle(), releaseDate));
 
 		if (markdown.exists()) {
-			System.out.println(String.format("release found: %s, ignore generate markdown from rss feed.", markdown.getName()));
+			System.out.println(
+					String.format("release found: %s, ignore generate markdown from rss feed.", markdown.getName()));
 			return 0;
 		}
 		markdown.createNewFile();
@@ -163,5 +168,61 @@ public class ReleaseServiceImpl implements ReleaseService {
 
 	private String htmlMarkdown(Content content) {
 		return flexmarkHtmlConverter.convert(content.getValue());
+	}
+
+	public void index() throws IOException {
+		File docs = new File("docs");
+
+		File index = new File(docs, "index.md");
+
+		List<String> lines = new ArrayList<String>();
+		lines.add("# releases	");
+
+		File[] organizations = docs.listFiles(File::isDirectory);
+		if (ArrayUtils.isNotEmpty(organizations)) {
+			for (File organization : organizations) {
+				if (!EXCLUDES_ORGANIZATIONS.contains(organization.getName())) {
+					lines.addAll(organization(organization));
+				}
+			}
+		}
+
+		FileUtils.writeLines(index, StandardCharsets.UTF_8.name(), lines, System.lineSeparator(), false);
+
+	}
+
+	private List<String> organization(File organization) {
+		List<String> lines = new ArrayList<String>();
+		lines.add(String.format("## %s	", organization.getName()));
+
+		lines.addAll(projets(organization));
+
+		return lines;
+	}
+
+	private List<String> projets(File organization) {
+		List<String> lines = new ArrayList<String>();
+		File[] projets = organization.listFiles(File::isDirectory);
+
+		if (ArrayUtils.isNotEmpty(projets)) {
+			for (File projet : projets) {
+				File README = new File(projet, "README.md");
+				if (README.isFile() && README.exists()) {
+
+					String path = README.getPath();
+
+					// docs/spring-cloud/spring-cloud-stream-starters/README.md
+					// docs/spring-cloud/, spring-cloud-stream-starters , /README.md
+
+					String repository = StringUtils.substringBetween(path,
+							"docs" + File.separator + organization.getName(), File.separator + "README.md");
+
+					lines.add(String.format(" - [%s](./%s)	", repository,
+							StringUtils.substringAfter(path, "docs" + File.separator)));
+				}
+			}
+		}
+
+		return lines;
 	}
 }

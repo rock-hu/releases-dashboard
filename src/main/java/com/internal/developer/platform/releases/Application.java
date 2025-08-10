@@ -37,6 +37,9 @@ public class Application implements CommandLineRunner {
 			System.out.println(atom);
 		}
 		releasePartitionService.releases(atomProperties.getRepositories(), 10);
+
+		releaseService.index();
+
 	}
 
 }

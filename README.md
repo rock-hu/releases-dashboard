@@ -1,7 +1,19 @@
 # releases-dashboard
 
-|                                                on push                                                 |                                                  on schedule                                                  |
-|--------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|
+
+[![Bugs](https://sonarcloud.io/api/project_badges/measure?project=rock-hu_releases-dashboard&metric=bugs)](https://sonarcloud.io/summary/new_code?id=rock-hu_releases-dashboard)    
+[![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=rock-hu_releases-dashboard&metric=code_smells)](https://sonarcloud.io/summary/new_code?id=rock-hu_releases-dashboard)     
+[![Coverage](https://sonarcloud.io/api/project_badges/measure?project=rock-hu_releases-dashboard&metric=coverage)](https://sonarcloud.io/summary/new_code?id=rock-hu_releases-dashboard)      
+[![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=rock-hu_releases-dashboard&metric=ncloc)](https://sonarcloud.io/summary/new_code?id=rock-hu_releases-dashboard)    
+[![Duplicated Lines (%)](https://sonarcloud.io/api/project_badges/measure?project=rock-hu_releases-dashboard&metric=duplicated_lines_density)](https://sonarcloud.io/summary/new_code?id=rock-hu_releases-dashboard)        
+[![Technical Debt](https://sonarcloud.io/api/project_badges/measure?project=rock-hu_releases-dashboard&metric=sqale_index)](https://sonarcloud.io/summary/new_code?id=rock-hu_releases-dashboard)       
+[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=rock-hu_releases-dashboard&metric=security_rating)](https://sonarcloud.io/summary/new_code?id=rock-hu_releases-dashboard)       
+[![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=rock-hu_releases-dashboard&metric=reliability_rating)](https://sonarcloud.io/summary/new_code?id=rock-hu_releases-dashboard)      
+[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=rock-hu_releases-dashboard&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=rock-hu_releases-dashboard)        
+[![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=rock-hu_releases-dashboard&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=rock-hu_releases-dashboard)       
+
+| on push                                                                                                | on schedule                                                                                                   |
+| ------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------- |
 | ![](https://github.com/rock-hu/releases-dashboard/actions/workflows/releases-dashboard.yaml/badge.svg) | ![](https://github.com/rock-hu/releases-dashboard/actions/workflows/releases-dashboard-weekly.yaml/badge.svg) |
 
 ```mermaid
@@ -29,8 +41,9 @@ releases-dashboard/docs$ find . -name 'README.md' > README.csv
 ## maven
 
 ```bash
+
 mvn spotless:apply
-mvn clean package -Dmaven.test.skip=true -Dmaven.test.failure.ignore=true
+mvn clean package -s settings.xml -Dspotless.check.skip=true -Dmaven.test.skip=true -Dmaven.test.failure.ignore=true
 ```
 
 ## docs

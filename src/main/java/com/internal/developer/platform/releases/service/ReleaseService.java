@@ -5,4 +5,5 @@ import java.io.IOException;
 
 public interface ReleaseService {
 	public int releases(String atom) throws IOException, IllegalArgumentException, FeedException;
+	public void index() throws IOException;
 }
