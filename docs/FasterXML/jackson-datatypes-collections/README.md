@@ -3,6 +3,7 @@
 
 |version|release date|changes|
 |---|---|---|
+|jackson-datatypes-collections-3.0.0-rc8|20250813|[jackson-datatypes-collections-3.0.0-rc8](./jackson-datatypes-collections-3.0.0-rc8-20250813.md)|
 |jackson-datatypes-collections-2.18.0-rc1|20240830|[jackson-datatypes-collections-2.18.0-rc1](./jackson-datatypes-collections-2.18.0-rc1-20240830.md)|
 |jackson-datatypes-collections-2.16.1|20231224|[jackson-datatypes-collections-2.16.1](./jackson-datatypes-collections-2.16.1-20231224.md)|
 |jackson-datatypes-collections-2.18.1|20241029|[jackson-datatypes-collections-2.18.1](./jackson-datatypes-collections-2.18.1-20241029.md)|

@@ -25,4 +25,5 @@
 |Proxy readiness and make logs messages consistent|20221015|[Proxy readiness and make logs messages consistent](./Proxy readiness and make logs messages consistent-20221015.md)|
 |Release with Go 1.18|20220901|[Release with Go 1.18](./Release with Go 1.18-20220901.md)|
 |Copy upstream response into http writer|20240716|[Copy upstream response into http writer](./Copy upstream response into http writer-20240716.md)|
+|Update build to Go 1.24|20250812|[Update build to Go 1.24](./Update build to Go 1.24-20250812.md)|
 |Update go.mod dependencies and Go to 1.22|20240617|[Update go.mod dependencies and Go to 1.22](./Update go.mod dependencies and Go to 1.22-20240617.md)|

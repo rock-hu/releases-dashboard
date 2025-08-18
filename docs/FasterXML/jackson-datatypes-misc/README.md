@@ -16,6 +16,7 @@
 |jackson-datatypes-misc-parent-2.18.0|20240927|[jackson-datatypes-misc-parent-2.18.0](./jackson-datatypes-misc-parent-2.18.0-20240927.md)|
 |jackson-datatypes-misc-parent-2.17.0-rc1|20240227|[jackson-datatypes-misc-parent-2.17.0-rc1](./jackson-datatypes-misc-parent-2.17.0-rc1-20240227.md)|
 |jackson-datatypes-misc-parent-2.16.0|20231116|[jackson-datatypes-misc-parent-2.16.0](./jackson-datatypes-misc-parent-2.16.0-20231116.md)|
+|jackson-datatypes-misc-parent-3.0.0-rc8|20250813|[jackson-datatypes-misc-parent-3.0.0-rc8](./jackson-datatypes-misc-parent-3.0.0-rc8-20250813.md)|
 |jackson-datatypes-misc-parent-2.15.2|20230531|[jackson-datatypes-misc-parent-2.15.2](./jackson-datatypes-misc-parent-2.15.2-20230531.md)|
 |jackson-datatypes-misc-parent-2.18.3|20250301|[jackson-datatypes-misc-parent-2.18.3](./jackson-datatypes-misc-parent-2.18.3-20250301.md)|
 |jackson-datatypes-misc-parent-3.0.0-rc6|20250719|[jackson-datatypes-misc-parent-3.0.0-rc6](./jackson-datatypes-misc-parent-3.0.0-rc6-20250719.md)|

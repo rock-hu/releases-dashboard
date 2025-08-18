@@ -34,5 +34,6 @@
 |jackson-jr-parent-2.17.1|20240505|[jackson-jr-parent-2.17.1](./jackson-jr-parent-2.17.1-20240505.md)|
 |jackson-jr-parent-2.18.1|20241029|[jackson-jr-parent-2.18.1](./jackson-jr-parent-2.18.1-20241029.md)|
 |jackson-jr-parent-3.0.0-rc1|20250308|[jackson-jr-parent-3.0.0-rc1](./jackson-jr-parent-3.0.0-rc1-20250308.md)|
+|jackson-jr-parent-3.0.0-rc8|20250813|[jackson-jr-parent-3.0.0-rc8](./jackson-jr-parent-3.0.0-rc8-20250813.md)|
 |jackson-jr-parent-2.17.3|20241102|[jackson-jr-parent-2.17.3](./jackson-jr-parent-2.17.3-20241102.md)|
 |jackson-jr-parent-2.18.0-rc1|20240830|[jackson-jr-parent-2.18.0-rc1](./jackson-jr-parent-2.18.0-rc1-20240830.md)|

@@ -20,6 +20,7 @@
 |jackson-jaxrs-providers-2.15.3|20231013|[jackson-jaxrs-providers-2.15.3](./jackson-jaxrs-providers-2.15.3-20231013.md)|
 |jackson-jaxrs-providers-2.15.2|20230531|[jackson-jaxrs-providers-2.15.2](./jackson-jaxrs-providers-2.15.2-20230531.md)|
 |jackson-jaxrs-providers-2.17.0-rc1|20240227|[jackson-jaxrs-providers-2.17.0-rc1](./jackson-jaxrs-providers-2.17.0-rc1-20240227.md)|
+|jackson-jaxrs-providers-3.0.0-rc8|20250813|[jackson-jaxrs-providers-3.0.0-rc8](./jackson-jaxrs-providers-3.0.0-rc8-20250813.md)|
 |jackson-jaxrs-providers-3.0.0-rc4|20250511|[jackson-jaxrs-providers-3.0.0-rc4](./jackson-jaxrs-providers-3.0.0-rc4-20250511.md)|
 |jackson-jaxrs-providers-2.19.1|20250614|[jackson-jaxrs-providers-2.19.1](./jackson-jaxrs-providers-2.19.1-20250614.md)|
 |jackson-jaxrs-providers-2.16.1|20231224|[jackson-jaxrs-providers-2.16.1](./jackson-jaxrs-providers-2.16.1-20231224.md)|
