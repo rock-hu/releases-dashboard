@@ -7,6 +7,7 @@
 |Swagger-parser 2.1.31 released!|20250708|[Swagger-parser 2.1.31 released!](./Swagger-parser 2.1.31 released!-20250708.md)|
 |Swagger-parser 1.0.68 released!|20231016|[Swagger-parser 1.0.68 released!](./Swagger-parser 1.0.68 released!-20231016.md)|
 |Swagger-parser 2.1.22 released!|20240405|[Swagger-parser 2.1.22 released!](./Swagger-parser 2.1.22 released!-20240405.md)|
+|Swagger-parser 2.1.32 released!|20250818|[Swagger-parser 2.1.32 released!](./Swagger-parser 2.1.32 released!-20250818.md)|
 |Swagger-parser 2.1.30 released!|20250620|[Swagger-parser 2.1.30 released!](./Swagger-parser 2.1.30 released!-20250620.md)|
 |Swagger-parser 2.1.20 released!|20240118|[Swagger-parser 2.1.20 released!](./Swagger-parser 2.1.20 released!-20240118.md)|
 |Errored release (compiler release = 11) - use v2.1.18|20231017|[Errored release (compiler release = 11) - use v2.1.18](./Errored release (compiler release = 11) - use v2.1.18-20231017.md)|

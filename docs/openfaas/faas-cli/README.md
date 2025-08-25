@@ -12,6 +12,7 @@
 |Use same header format as curl for invoke command|20250716|[Use same header format as curl for invoke command](./Use same header format as curl for invoke command-20250716.md)|
 |Support random port for local-run command|20241004|[Support random port for local-run command](./Support random port for local-run command-20241004.md)|
 |Fail with non-zero exit code when not ready|20240411|[Fail with non-zero exit code when not ready](./Fail with non-zero exit code when not ready-20240411.md)|
+|Update vendor, update Go to 1.25, extract stack package to go-sdk|20250822|[Update vendor, update Go to 1.25, extract stack package to go-sdk](./Update vendor, update Go to 1.25, extract stack package to go-sdk-20250822.md)|
 |Support random port for local-run command|20241003|[Support random port for local-run command](./Support random port for local-run command-20241003.md)|
 |Make stack.yaml the default for new functions, pull templates when not available|20250127|[Make stack.yaml the default for new functions, pull templates when not available](./Make stack.yaml the default for new functions, pull templates when not available-20250127.md)|
 |Support streaming logs for remote builds|20250708|[Support streaming logs for remote builds](./Support streaming logs for remote builds-20250708.md)|
