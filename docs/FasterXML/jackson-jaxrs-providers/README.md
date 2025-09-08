@@ -4,6 +4,7 @@
 |version|release date|changes|
 |---|---|---|
 |jackson-jaxrs-providers-2.17.3|20241102|[jackson-jaxrs-providers-2.17.3](./jackson-jaxrs-providers-2.17.3-20241102.md)|
+|jackson-jaxrs-providers-3.0.0-rc9|20250906|[jackson-jaxrs-providers-3.0.0-rc9](./jackson-jaxrs-providers-3.0.0-rc9-20250906.md)|
 |jackson-jaxrs-providers-3.0.0-rc8|20250813|[jackson-jaxrs-providers-3.0.0-rc8](./jackson-jaxrs-providers-3.0.0-rc8-20250813.md)|
 |jackson-jaxrs-providers-3.0.0-rc7|20250808|[jackson-jaxrs-providers-3.0.0-rc7](./jackson-jaxrs-providers-3.0.0-rc7-20250808.md)|
 |jackson-jaxrs-providers-2.17.2|20240706|[jackson-jaxrs-providers-2.17.2](./jackson-jaxrs-providers-2.17.2-20240706.md)|

@@ -23,6 +23,7 @@
 |Swagger Codegen 2.4.43 has been released!|20240809|[Swagger Codegen 2.4.43 has been released!](./Swagger Codegen 2.4.43 has been released!-20240809.md)|
 |Swagger Codegen 3.0.62 has been released!|20240827|[Swagger Codegen 3.0.62 has been released!](./Swagger Codegen 3.0.62 has been released!-20240827.md)|
 |Swagger Codegen 3.0.63 has been released!|20241016|[Swagger Codegen 3.0.63 has been released!](./Swagger Codegen 3.0.63 has been released!-20241016.md)|
+|v3.0.72|20250902|[v3.0.72](./v3.0.72-20250902.md)|
 |Swagger Codegen 3.0.57 has been released!|20240528|[Swagger Codegen 3.0.57 has been released!](./Swagger Codegen 3.0.57 has been released!-20240528.md)|
 |Swagger Codegen 2.4.45 released!|20250606|[Swagger Codegen 2.4.45 released!](./Swagger Codegen 2.4.45 released!-20250606.md)|
 |Swagger Codegen 3.0.52 has been released!|20240104|[Swagger Codegen 3.0.52 has been released!](./Swagger Codegen 3.0.52 has been released!-20240104.md)|

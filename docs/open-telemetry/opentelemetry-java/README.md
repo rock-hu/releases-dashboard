@@ -21,6 +21,7 @@
 |Version 1.50.0|20250509|[Version 1.50.0](./Version 1.50.0-20250509.md)|
 |Version 1.43.0|20241011|[Version 1.43.0](./Version 1.43.0-20241011.md)|
 |Version 1.34.0|20240106|[Version 1.34.0](./Version 1.34.0-20240106.md)|
+|Version 1.54.0|20250905|[Version 1.54.0](./Version 1.54.0-20250905.md)|
 |Version 1.40.0|20240706|[Version 1.40.0](./Version 1.40.0-20240706.md)|
 |Version 1.45.0|20241207|[Version 1.45.0](./Version 1.45.0-20241207.md)|
 |Version 1.46.0|20250110|[Version 1.46.0](./Version 1.46.0-20250110.md)|

@@ -11,6 +11,7 @@
 |v0.25.3: Fix forwarding of request body during text streaming|20240112|[v0.25.3: Fix forwarding of request body during text streaming](./v0.25.3: Fix forwarding of request body during text streaming-20240112.md)|
 |v0.25.3: Fix forwarding of request body during text streaming|20240111|[v0.25.3: Fix forwarding of request body during text streaming](./v0.25.3: Fix forwarding of request body during text streaming-20240111.md)|
 |Move namespace to struct for scale service and delete function|20230706|[Move namespace to struct for scale service and delete function](./Move namespace to struct for scale service and delete function-20230706.md)|
+|Add Labels and Environment fields to QueueRequest struct|20250904|[Add Labels and Environment fields to QueueRequest struct](./Add Labels and Environment fields to QueueRequest struct-20250904.md)|
 |Support ndjson streams for function invocations|20250623|[Support ndjson streams for function invocations](./Support ndjson streams for function invocations-20250623.md)|
 |Rename FunctionNamespace's namespace to name|20230706|[Rename FunctionNamespace's namespace to name](./Rename FunctionNamespace's namespace to name-20230706.md)|
 |Consume verbose flag in proxyRequest|20231018|[Consume verbose flag in proxyRequest](./Consume verbose flag in proxyRequest-20231018.md)|

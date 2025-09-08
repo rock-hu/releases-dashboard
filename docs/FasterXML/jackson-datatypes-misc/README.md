@@ -38,3 +38,4 @@
 |jackson-datatypes-misc-parent-2.17.3|20241102|[jackson-datatypes-misc-parent-2.17.3](./jackson-datatypes-misc-parent-2.17.3-20241102.md)|
 |jackson-datatypes-misc-parent-2.19.1|20250614|[jackson-datatypes-misc-parent-2.19.1](./jackson-datatypes-misc-parent-2.19.1-20250614.md)|
 |jackson-datatypes-misc-parent-2.15.4|20240216|[jackson-datatypes-misc-parent-2.15.4](./jackson-datatypes-misc-parent-2.15.4-20240216.md)|
+|jackson-datatypes-misc-parent-3.0.0-rc9|20250906|[jackson-datatypes-misc-parent-3.0.0-rc9](./jackson-datatypes-misc-parent-3.0.0-rc9-20250906.md)|
