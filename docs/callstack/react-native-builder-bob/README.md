@@ -5,6 +5,7 @@
 |---|---|---|
 |create-react-native-library@0.51.0|20250614|[create-react-native-library@0.51.0](./create-react-native-library@0.51.0-20250614.md)|
 |react-native-builder-bob@0.35.2|20241207|[react-native-builder-bob@0.35.2](./react-native-builder-bob@0.35.2-20241207.md)|
+|create-react-native-library@0.54.3|20250911|[create-react-native-library@0.54.3](./create-react-native-library@0.54.3-20250911.md)|
 |create-react-native-library@0.50.2|20250504|[create-react-native-library@0.50.2](./create-react-native-library@0.50.2-20250504.md)|
 |docs@0.6.4|20250408|[docs@0.6.4](./docs@0.6.4-20250408.md)|
 |create-react-native-library@0.45.2|20241207|[create-react-native-library@0.45.2](./create-react-native-library@0.45.2-20241207.md)|

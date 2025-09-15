@@ -23,5 +23,7 @@
 |v1.0.0-RC1: Update Spring AI BOM to RC1|20250513|[v1.0.0-RC1: Update Spring AI BOM to RC1](./v1.0.0-RC1: Update Spring AI BOM to RC1-20250513.md)|
 |v1.0.0-SNAPSHOT-before-chatclient-changes|20240523|[v1.0.0-SNAPSHOT-before-chatclient-changes](./v1.0.0-SNAPSHOT-before-chatclient-changes-20240523.md)|
 |v1.0.0-M3|20241021|[v1.0.0-M3](./v1.0.0-M3-20241021.md)|
+|Spring AI 1.1.0-M1|20250909|[Spring AI 1.1.0-M1](./Spring AI 1.1.0-M1-20250909.md)|
+|v1.0.2|20250912|[v1.0.2](./v1.0.2-20250912.md)|
 |v1.0.0-M4|20241120|[v1.0.0-M4](./v1.0.0-M4-20241120.md)|
 |v1.0.0-M2|20240824|[v1.0.0-M2](./v1.0.0-M2-20240824.md)|
