@@ -1,0 +1,11 @@
+# Swagger-parser 2.1.34 released!
+
+## release on 20250916
+## description
+## changes
+* chore: bump swagger-core to latest 2.2.37 (<a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3422172067" data-permission-text="Title is private" data-url="https://github.com/swagger-api/swagger-parser/issues/2234" data-hovercard-type="pull_request" data-hovercard-url="/swagger-api/swagger-parser/pull/2234/hovercard" href="https://github.com/swagger-api/swagger-parser/pull/2234">#2234</a>)
+* chore: bump commons-lang3, commons-io and swagger dependencies (<a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3422019745" data-permission-text="Title is private" data-url="https://github.com/swagger-api/swagger-parser/issues/2233" data-hovercard-type="pull_request" data-hovercard-url="/swagger-api/swagger-parser/pull/2233/hovercard" href="https://github.com/swagger-api/swagger-parser/pull/2233">#2233</a>)
+* Fix URISyntaxException while reading OpenAPI 3.1 from windows file path location (<a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3406564764" data-permission-text="Title is private" data-url="https://github.com/swagger-api/swagger-parser/issues/2230" data-hovercard-type="pull_request" data-hovercard-url="/swagger-api/swagger-parser/pull/2230/hovercard" href="https://github.com/swagger-api/swagger-parser/pull/2230">#2230</a>)
+* ci: update codeQl workflow (<a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3380032386" data-permission-text="Title is private" data-url="https://github.com/swagger-api/swagger-parser/issues/2228" data-hovercard-type="pull_request" data-hovercard-url="/swagger-api/swagger-parser/pull/2228/hovercard" href="https://github.com/swagger-api/swagger-parser/pull/2228">#2228</a>)
+* chore: prepare 2.1.34-SNAPSHOT (<a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3373601667" data-permission-text="Title is private" data-url="https://github.com/swagger-api/swagger-parser/issues/2227" data-hovercard-type="pull_request" data-hovercard-url="/swagger-api/swagger-parser/pull/2227/hovercard" href="https://github.com/swagger-api/swagger-parser/pull/2227">#2227</a>)
+

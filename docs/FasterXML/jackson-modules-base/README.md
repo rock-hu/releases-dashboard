@@ -6,6 +6,7 @@
 |jackson-modules-base-2.15.3|20231013|[jackson-modules-base-2.15.3](./jackson-modules-base-2.15.3-20231013.md)|
 |jackson-modules-base-2.19.1|20250614|[jackson-modules-base-2.19.1](./jackson-modules-base-2.19.1-20250614.md)|
 |jackson-modules-base-2.18.4|20250507|[jackson-modules-base-2.18.4](./jackson-modules-base-2.18.4-20250507.md)|
+|jackson-modules-base-3.0.0-rc10|20250920|[jackson-modules-base-3.0.0-rc10](./jackson-modules-base-3.0.0-rc10-20250920.md)|
 |jackson-modules-base-3.0.0-rc2|20250328|[jackson-modules-base-3.0.0-rc2](./jackson-modules-base-3.0.0-rc2-20250328.md)|
 |jackson-modules-base-2.17.1|20240505|[jackson-modules-base-2.17.1](./jackson-modules-base-2.17.1-20240505.md)|
 |jackson-modules-base-3.0.0-rc7|20250808|[jackson-modules-base-3.0.0-rc7](./jackson-modules-base-3.0.0-rc7-20250808.md)|

@@ -28,6 +28,7 @@
 |jackson-jr-parent-3.0.0-rc6|20250719|[jackson-jr-parent-3.0.0-rc6](./jackson-jr-parent-3.0.0-rc6-20250719.md)|
 |jackson-jr-parent-2.19.0|20250424|[jackson-jr-parent-2.19.0](./jackson-jr-parent-2.19.0-20250424.md)|
 |jackson-jr-parent-2.18.1|20241029|[jackson-jr-parent-2.18.1](./jackson-jr-parent-2.18.1-20241029.md)|
+|jackson-jr-parent-3.0.0-rc10|20250920|[jackson-jr-parent-3.0.0-rc10](./jackson-jr-parent-3.0.0-rc10-20250920.md)|
 |jackson-jr-parent-3.0.0-rc2|20250328|[jackson-jr-parent-3.0.0-rc2](./jackson-jr-parent-3.0.0-rc2-20250328.md)|
 |jackson-jr-parent-3.0.0-rc5|20250522|[jackson-jr-parent-3.0.0-rc5](./jackson-jr-parent-3.0.0-rc5-20250522.md)|
 |jackson-jr-parent-2.19.2|20250718|[jackson-jr-parent-2.19.2](./jackson-jr-parent-2.19.2-20250718.md)|

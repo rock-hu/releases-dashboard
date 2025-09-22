@@ -3,6 +3,7 @@
 
 |version|release date|changes|
 |---|---|---|
+|jackson-datatype-joda-3.0.0-rc10|20250920|[jackson-datatype-joda-3.0.0-rc10](./jackson-datatype-joda-3.0.0-rc10-20250920.md)|
 |jackson-datatype-joda-2.18.4|20250507|[jackson-datatype-joda-2.18.4](./jackson-datatype-joda-2.18.4-20250507.md)|
 |jackson-datatype-joda-2.17.2|20240706|[jackson-datatype-joda-2.17.2](./jackson-datatype-joda-2.17.2-20240706.md)|
 |jackson-datatype-joda-2.17.3|20241101|[jackson-datatype-joda-2.17.3](./jackson-datatype-joda-2.17.3-20241101.md)|
