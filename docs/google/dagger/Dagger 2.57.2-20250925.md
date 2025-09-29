@@ -1,0 +1,12 @@
+# Dagger 2.57.2
+
+## release on 20250925
+## description
+## changes
+Bug fixes
+
+* Fixed <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3249796992" data-permission-text="Title is private" data-url="https://github.com/google/dagger/issues/4847" data-hovercard-type="issue" data-hovercard-url="/google/dagger/issues/4847/hovercard" href="https://github.com/google/dagger/issues/4847">#4847</a>: Fixed an issue with the Hilt Gradle Plugin registered transforms on projects using Gradle 9.0.0 (<a class="commit-link" data-hovercard-type="commit" data-hovercard-url="https://github.com/google/dagger/commit/ea570e7a15ace17418aecd2e04e52cb2fde995be/hovercard" href="https://github.com/google/dagger/commit/ea570e7a15ace17418aecd2e04e52cb2fde995be"><tt>ea570e7</tt></a>)
+* Fixes <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3292920465" data-permission-text="Title is private" data-url="https://github.com/google/dagger/issues/4898" data-hovercard-type="issue" data-hovercard-url="/google/dagger/issues/4898/hovercard" href="https://github.com/google/dagger/issues/4898">#4898</a>: Fixed an issue with backwards compatibility handling for libraries that export Hilt roots. (<a class="commit-link" data-hovercard-type="commit" data-hovercard-url="https://github.com/google/dagger/commit/85c470ca43efcdab8224fbd5299787fbacce8121/hovercard" href="https://github.com/google/dagger/commit/85c470ca43efcdab8224fbd5299787fbacce8121"><tt>85c470c</tt></a>)
+* Fixes <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3363185669" data-permission-text="Title is private" data-url="https://github.com/google/dagger/issues/4937" data-hovercard-type="issue" data-hovercard-url="/google/dagger/issues/4937/hovercard" href="https://github.com/google/dagger/issues/4937">#4937</a>: Fixed the incorrectly declared version of the Kotlin stdlib dependency in the Hilt Gradle Plugin. (<a class="commit-link" data-hovercard-type="commit" data-hovercard-url="https://github.com/google/dagger/commit/deefd9a2d9959e786f200c52fff4c3fb9b89dd84/hovercard" href="https://github.com/google/dagger/commit/deefd9a2d9959e786f200c52fff4c3fb9b89dd84"><tt>deefd9a</tt></a>)
+* Updated ASM dependency to 9.8 (<a class="commit-link" data-hovercard-type="commit" data-hovercard-url="https://github.com/google/dagger/commit/365bc499dec4dd4519f174bd81d98153faa0687f/hovercard" href="https://github.com/google/dagger/commit/365bc499dec4dd4519f174bd81d98153faa0687f"><tt>365bc49</tt></a>)
+

@@ -3,16 +3,16 @@
 
 |version|release date|changes|
 |---|---|---|
-|Bump faas-provider to 0.13.2|20191101|[Bump faas-provider to 0.13.2](./Bump faas-provider to 0.13.2-20191101.md)|
-|Disable update for secrets|20200108|[Disable update for secrets](./Disable update for secrets-20200108.md)|
-|Upgrade OpenFaaS components, Go SDK and Alpine runtime|20200924|[Upgrade OpenFaaS components, Go SDK and Alpine runtime](./Upgrade OpenFaaS components, Go SDK and Alpine runtime-20200924.md)|
-|Update faas-provider to 0.14.0|20200206|[Update faas-provider to 0.14.0](./Update faas-provider to 0.14.0-20200206.md)|
-|Move to faas-provider's newer proxy|20191023|[Move to faas-provider's newer proxy](./Move to faas-provider's newer proxy-20191023.md)|
-|Disable update for secrets|20200107|[Disable update for secrets](./Disable update for secrets-20200107.md)|
-|Update faas-provider version|20190920|[Update faas-provider version](./Update faas-provider version-20190920.md)|
-|Update faas-provider version|20190921|[Update faas-provider version](./Update faas-provider version-20190921.md)|
-|Move to faas-provider's newer proxy|20191022|[Move to faas-provider's newer proxy](./Move to faas-provider's newer proxy-20191022.md)|
-|Update empty namespace implementation |20191218|[Update empty namespace implementation ](./Update empty namespace implementation -20191218.md)|
-|Multi-arch build with GitHub Actions|20201117|[Multi-arch build with GitHub Actions](./Multi-arch build with GitHub Actions-20201117.md)|
-|Update empty namespace implementation |20191217|[Update empty namespace implementation ](./Update empty namespace implementation -20191217.md)|
 |New version using latest Go 1.11 security fixes|20190822|[New version using latest Go 1.11 security fixes](./New version using latest Go 1.11 security fixes-20190822.md)|
+|Upgrade OpenFaaS components, Go SDK and Alpine runtime|20200924|[Upgrade OpenFaaS components, Go SDK and Alpine runtime](./Upgrade OpenFaaS components, Go SDK and Alpine runtime-20200924.md)|
+|Move to faas-provider's newer proxy|20191022|[Move to faas-provider's newer proxy](./Move to faas-provider's newer proxy-20191022.md)|
+|Update empty namespace implementation |20191217|[Update empty namespace implementation ](./Update empty namespace implementation -20191217.md)|
+|Update empty namespace implementation |20191218|[Update empty namespace implementation ](./Update empty namespace implementation -20191218.md)|
+|Disable update for secrets|20200107|[Disable update for secrets](./Disable update for secrets-20200107.md)|
+|Update faas-provider to 0.14.0|20200206|[Update faas-provider to 0.14.0](./Update faas-provider to 0.14.0-20200206.md)|
+|Disable update for secrets|20200108|[Disable update for secrets](./Disable update for secrets-20200108.md)|
+|Update faas-provider version|20190921|[Update faas-provider version](./Update faas-provider version-20190921.md)|
+|Multi-arch build with GitHub Actions|20201117|[Multi-arch build with GitHub Actions](./Multi-arch build with GitHub Actions-20201117.md)|
+|Update faas-provider version|20190920|[Update faas-provider version](./Update faas-provider version-20190920.md)|
+|Bump faas-provider to 0.13.2|20191101|[Bump faas-provider to 0.13.2](./Bump faas-provider to 0.13.2-20191101.md)|
+|Move to faas-provider's newer proxy|20191023|[Move to faas-provider's newer proxy](./Move to faas-provider's newer proxy-20191023.md)|
