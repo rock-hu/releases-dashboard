@@ -53,6 +53,7 @@
 |argo-cd-8.0.4|20250518|[argo-cd-8.0.4](./argo-cd-8.0.4-20250518.md)|
 |argo-cd-8.1.4|20250721|[argo-cd-8.1.4](./argo-cd-8.1.4-20250721.md)|
 |argo-events-2.4.9|20241128|[argo-events-2.4.9](./argo-events-2.4.9-20241128.md)|
+|argo-cd-8.5.8|20250930|[argo-cd-8.5.8](./argo-cd-8.5.8-20250930.md)|
 |argo-cd-8.0.9|20250522|[argo-cd-8.0.9](./argo-cd-8.0.9-20250522.md)|
 |argo-workflows-0.45.23|20250831|[argo-workflows-0.45.23](./argo-workflows-0.45.23-20250831.md)|
 |argo-cd-7.8.21|20250402|[argo-cd-7.8.21](./argo-cd-7.8.21-20250402.md)|
