@@ -32,6 +32,7 @@
 |jackson-datatype-joda-2.18.2|20241128|[jackson-datatype-joda-2.18.2](./jackson-datatype-joda-2.18.2-20241128.md)|
 |jackson-datatype-joda-3.0.0-rc3|20250414|[jackson-datatype-joda-3.0.0-rc3](./jackson-datatype-joda-3.0.0-rc3-20250414.md)|
 |jackson-datatype-joda-3.0.0-rc2|20250328|[jackson-datatype-joda-3.0.0-rc2](./jackson-datatype-joda-3.0.0-rc2-20250328.md)|
+|jackson-datatype-joda-3.0.0|20251004|[jackson-datatype-joda-3.0.0](./jackson-datatype-joda-3.0.0-20251004.md)|
 |jackson-datatype-joda-2.19.1|20250614|[jackson-datatype-joda-2.19.1](./jackson-datatype-joda-2.19.1-20250614.md)|
 |jackson-datatype-joda-2.15.2|20230531|[jackson-datatype-joda-2.15.2](./jackson-datatype-joda-2.15.2-20230531.md)|
 |jackson-datatype-joda-2.19.0-rc2|20250408|[jackson-datatype-joda-2.19.0-rc2](./jackson-datatype-joda-2.19.0-rc2-20250408.md)|

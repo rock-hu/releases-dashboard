@@ -5,10 +5,12 @@
 |---|---|---|
 |v1.0.0-M8|20250430|[v1.0.0-M8](./v1.0.0-M8-20250430.md)|
 |v1.0.2|20250912|[v1.0.2](./v1.0.2-20250912.md)|
+|Spring AI 1.0.3|20251001|[Spring AI 1.0.3](./Spring AI 1.0.3-20251001.md)|
 |v0.8.0|20240226|[v0.8.0](./v0.8.0-20240226.md)|
 |v1.0.0-SNAPSHOT-before-chatclient-changes|20240523|[v1.0.0-SNAPSHOT-before-chatclient-changes](./v1.0.0-SNAPSHOT-before-chatclient-changes-20240523.md)|
 |v0.8.1|20240312|[v0.8.1](./v0.8.1-20240312.md)|
 |Spring AI 1.0.2|20250917|[Spring AI 1.0.2](./Spring AI 1.0.2-20250917.md)|
+|v1.1.0-M3|20251003|[v1.1.0-M3](./v1.1.0-M3-20251003.md)|
 |v1.0.0-RC1: Update Spring AI BOM to RC1|20250513|[v1.0.0-RC1: Update Spring AI BOM to RC1](./v1.0.0-RC1: Update Spring AI BOM to RC1-20250513.md)|
 |v1.0.0-M2|20240823|[v1.0.0-M2](./v1.0.0-M2-20240823.md)|
 |gcn-1.0.0-snapshot-08042024|20240408|[gcn-1.0.0-snapshot-08042024](./gcn-1.0.0-snapshot-08042024-20240408.md)|

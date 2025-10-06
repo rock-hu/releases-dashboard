@@ -20,6 +20,7 @@
 |jackson-datatypes-collections-2.16.0-rc1: [maven-release-plugin] copy for tag jackson-datatypes-collections-2.1…|20231021|[jackson-datatypes-collections-2.16.0-rc1: [maven-release-plugin] copy for tag jackson-datatypes-collections-2.1…](./jackson-datatypes-collections-2.16.0-rc1: [maven-release-plugin] copy for tag jackson-datatypes-collections-2.1…-20231021.md)|
 |jackson-datatypes-collections-2.18.0|20240927|[jackson-datatypes-collections-2.18.0](./jackson-datatypes-collections-2.18.0-20240927.md)|
 |jackson-datatypes-collections-3.0.0-rc9|20250906|[jackson-datatypes-collections-3.0.0-rc9](./jackson-datatypes-collections-3.0.0-rc9-20250906.md)|
+|jackson-datatypes-collections-3.0.0|20251004|[jackson-datatypes-collections-3.0.0](./jackson-datatypes-collections-3.0.0-20251004.md)|
 |jackson-datatypes-collections-2.19.0|20250425|[jackson-datatypes-collections-2.19.0](./jackson-datatypes-collections-2.19.0-20250425.md)|
 |jackson-datatypes-collections-2.17.2|20240706|[jackson-datatypes-collections-2.17.2](./jackson-datatypes-collections-2.17.2-20240706.md)|
 |jackson-datatypes-collections-3.0.0-rc5|20250522|[jackson-datatypes-collections-3.0.0-rc5](./jackson-datatypes-collections-3.0.0-rc5-20250522.md)|
