@@ -28,6 +28,7 @@
 |jackson-modules-base-2.17.0|20240313|[jackson-modules-base-2.17.0](./jackson-modules-base-2.17.0-20240313.md)|
 |jackson-modules-base-2.17.3|20241101|[jackson-modules-base-2.17.3](./jackson-modules-base-2.17.3-20241101.md)|
 |jackson-modules-base-2.19.0-rc2|20250408|[jackson-modules-base-2.19.0-rc2](./jackson-modules-base-2.19.0-rc2-20250408.md)|
+|jackson-modules-base-2.20.1|20251030|[jackson-modules-base-2.20.1](./jackson-modules-base-2.20.1-20251030.md)|
 |jackson-modules-base-2.16.2|20240310|[jackson-modules-base-2.16.2](./jackson-modules-base-2.16.2-20240310.md)|
 |jackson-modules-base-2.19.2|20250718|[jackson-modules-base-2.19.2](./jackson-modules-base-2.19.2-20250718.md)|
 |jackson-modules-base-2.17.1|20240505|[jackson-modules-base-2.17.1](./jackson-modules-base-2.17.1-20240505.md)|
@@ -36,9 +37,12 @@
 |jackson-modules-base-2.19.1|20250614|[jackson-modules-base-2.19.1](./jackson-modules-base-2.19.1-20250614.md)|
 |jackson-modules-base-2.15.3|20231013|[jackson-modules-base-2.15.3](./jackson-modules-base-2.15.3-20231013.md)|
 |jackson-modules-base-2.18.0-rc1|20240831|[jackson-modules-base-2.18.0-rc1](./jackson-modules-base-2.18.0-rc1-20240831.md)|
+|jackson-modules-base-2.19.4|20251030|[jackson-modules-base-2.19.4](./jackson-modules-base-2.19.4-20251030.md)|
 |jackson-modules-base-3.0.1|20251022|[jackson-modules-base-3.0.1](./jackson-modules-base-3.0.1-20251022.md)|
 |jackson-modules-base-3.0.0-rc7|20250808|[jackson-modules-base-3.0.0-rc7](./jackson-modules-base-3.0.0-rc7-20250808.md)|
+|jackson-modules-base-2.18.5|20251028|[jackson-modules-base-2.18.5](./jackson-modules-base-2.18.5-20251028.md)|
 |jackson-modules-base-2.17.3|20241102|[jackson-modules-base-2.17.3](./jackson-modules-base-2.17.3-20241102.md)|
 |jackson-modules-base-3.0.0|20251004|[jackson-modules-base-3.0.0](./jackson-modules-base-3.0.0-20251004.md)|
 |jackson-modules-base-2.15.4|20240216|[jackson-modules-base-2.15.4](./jackson-modules-base-2.15.4-20240216.md)|
 |jackson-modules-base-2.18.3|20250228|[jackson-modules-base-2.18.3](./jackson-modules-base-2.18.3-20250228.md)|
+|jackson-modules-base-2.19.3|20251029|[jackson-modules-base-2.19.3](./jackson-modules-base-2.19.3-20251029.md)|

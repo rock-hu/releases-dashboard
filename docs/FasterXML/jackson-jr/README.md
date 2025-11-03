@@ -10,7 +10,9 @@
 |jackson-jr-parent-3.0.0-rc3|20250414|[jackson-jr-parent-3.0.0-rc3](./jackson-jr-parent-3.0.0-rc3-20250414.md)|
 |jackson-jr-parent-2.16.2|20240310|[jackson-jr-parent-2.16.2](./jackson-jr-parent-2.16.2-20240310.md)|
 |jackson-jr-parent-2.15.3|20231013|[jackson-jr-parent-2.15.3](./jackson-jr-parent-2.15.3-20231013.md)|
+|jackson-jr-parent-2.19.4|20251030|[jackson-jr-parent-2.19.4](./jackson-jr-parent-2.19.4-20251030.md)|
 |jackson-jr-parent-3.0.0-rc7|20250808|[jackson-jr-parent-3.0.0-rc7](./jackson-jr-parent-3.0.0-rc7-20250808.md)|
+|jackson-jr-parent-2.18.5|20251028|[jackson-jr-parent-2.18.5](./jackson-jr-parent-2.18.5-20251028.md)|
 |jackson-jr-parent-2.18.0-rc1|20240830|[jackson-jr-parent-2.18.0-rc1](./jackson-jr-parent-2.18.0-rc1-20240830.md)|
 |jackson-jr-parent-2.18.2|20241128|[jackson-jr-parent-2.18.2](./jackson-jr-parent-2.18.2-20241128.md)|
 |jackson-jr-parent-2.18.1|20241028|[jackson-jr-parent-2.18.1](./jackson-jr-parent-2.18.1-20241028.md)|
@@ -37,8 +39,10 @@
 |jackson-jr-parent-2.16.0-rc1|20231021|[jackson-jr-parent-2.16.0-rc1](./jackson-jr-parent-2.16.0-rc1-20231021.md)|
 |jackson-jr-parent-2.15.2|20230531|[jackson-jr-parent-2.15.2](./jackson-jr-parent-2.15.2-20230531.md)|
 |jackson-jr-parent-2.17.3|20241102|[jackson-jr-parent-2.17.3](./jackson-jr-parent-2.17.3-20241102.md)|
+|jackson-jr-parent-2.20.1|20251030|[jackson-jr-parent-2.20.1](./jackson-jr-parent-2.20.1-20251030.md)|
 |jackson-jr-parent-3.0.1|20251022|[jackson-jr-parent-3.0.1](./jackson-jr-parent-3.0.1-20251022.md)|
 |jackson-jr-parent-3.0.0|20251003|[jackson-jr-parent-3.0.0](./jackson-jr-parent-3.0.0-20251003.md)|
 |jackson-jr-parent-2.17.0-rc1|20240227|[jackson-jr-parent-2.17.0-rc1](./jackson-jr-parent-2.17.0-rc1-20240227.md)|
 |jackson-jr-parent-2.19.0|20250424|[jackson-jr-parent-2.19.0](./jackson-jr-parent-2.19.0-20250424.md)|
+|jackson-jr-parent-2.19.3|20251029|[jackson-jr-parent-2.19.3](./jackson-jr-parent-2.19.3-20251029.md)|
 |jackson-jr-parent-2.20.0|20250828|[jackson-jr-parent-2.20.0](./jackson-jr-parent-2.20.0-20250828.md)|

@@ -25,3 +25,4 @@
 |parent-5.0.0-alpha.16|20250529|[parent-5.0.0-alpha.16](./parent-5.0.0-alpha.16-20250529.md)|
 |parent-5.2.1|20251009|[parent-5.2.1](./parent-5.2.1-20251009.md)|
 |jesse-5.0.0-alpha.11|20221225|[jesse-5.0.0-alpha.11](./jesse-5.0.0-alpha.11-20221225.md)|
+|parent-5.3.0|20251030|[parent-5.3.0](./parent-5.3.0-20251030.md)|
