@@ -41,6 +41,7 @@
 |jackson-jaxrs-providers-3.0.0-rc10|20250920|[jackson-jaxrs-providers-3.0.0-rc10](./jackson-jaxrs-providers-3.0.0-rc10-20250920.md)|
 |jackson-jaxrs-providers-2.18.2|20241128|[jackson-jaxrs-providers-2.18.2](./jackson-jaxrs-providers-2.18.2-20241128.md)|
 |jackson-jaxrs-providers-3.0.0-rc4|20250511|[jackson-jaxrs-providers-3.0.0-rc4](./jackson-jaxrs-providers-3.0.0-rc4-20250511.md)|
+|jackson-jaxrs-providers-3.0.2|20251107|[jackson-jaxrs-providers-3.0.2](./jackson-jaxrs-providers-3.0.2-20251107.md)|
 |jackson-jaxrs-providers-3.0.0-rc3|20250414|[jackson-jaxrs-providers-3.0.0-rc3](./jackson-jaxrs-providers-3.0.0-rc3-20250414.md)|
 |jackson-jaxrs-providers-2.18.5|20251028|[jackson-jaxrs-providers-2.18.5](./jackson-jaxrs-providers-2.18.5-20251028.md)|
 |jackson-jaxrs-providers-2.16.2|20240310|[jackson-jaxrs-providers-2.16.2](./jackson-jaxrs-providers-2.16.2-20240310.md)|
