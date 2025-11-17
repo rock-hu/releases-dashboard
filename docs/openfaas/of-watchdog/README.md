@@ -9,6 +9,7 @@
 |Update build to Go 1.24|20250812|[Update build to Go 1.24](./Update build to Go 1.24-20250812.md)|
 |Support function authentication with OpenFaaS IAM|20240617|[Support function authentication with OpenFaaS IAM](./Support function authentication with OpenFaaS IAM-20240617.md)|
 |Proxy readiness and make logs messages consistent|20221015|[Proxy readiness and make logs messages consistent](./Proxy readiness and make logs messages consistent-20221015.md)|
+|Bump CI to Go 1.25|20251112|[Bump CI to Go 1.25](./Bump CI to Go 1.25-20251112.md)|
 |Support streaming responses from functions in HTTP mode|20240111|[Support streaming responses from functions in HTTP mode](./Support streaming responses from functions in HTTP mode-20240111.md)|
 |Remove log line when limiting requests|20221022|[Remove log line when limiting requests](./Remove log line when limiting requests-20221022.md)|
 |Fix for passing body from request in text streaming mode|20240112|[Fix for passing body from request in text streaming mode](./Fix for passing body from request in text streaming mode-20240112.md)|
@@ -22,6 +23,7 @@
 |Update to Go 1.23 and updated go.mod packages|20250117|[Update to Go 1.23 and updated go.mod packages](./Update to Go 1.23 and updated go.mod packages-20250117.md)|
 |Add X-OpenFaaS-Internal to internal HTTP errors|20240712|[Add X-OpenFaaS-Internal to internal HTTP errors](./Add X-OpenFaaS-Internal to internal HTTP errors-20240712.md)|
 |Add log_callid option for HTTP server responses|20240426|[Add log_callid option for HTTP server responses](./Add log_callid option for HTTP server responses-20240426.md)|
+|Expose public SDK for "inproc" mode for Golang functions|20251114|[Expose public SDK for "inproc" mode for Golang functions](./Expose public SDK for "inproc" mode for Golang functions-20251114.md)|
 |Release with Go 1.18|20220901|[Release with Go 1.18](./Release with Go 1.18-20220901.md)|
 |Update go.mod dependencies and Go to 1.22|20240617|[Update go.mod dependencies and Go to 1.22](./Update go.mod dependencies and Go to 1.22-20240617.md)|
 |Provide option to timeout functions earlier than configured|20240711|[Provide option to timeout functions earlier than configured](./Provide option to timeout functions earlier than configured-20240711.md)|

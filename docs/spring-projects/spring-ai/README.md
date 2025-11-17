@@ -9,6 +9,7 @@
 |Spring AI 1.0.3|20251001|[Spring AI 1.0.3](./Spring AI 1.0.3-20251001.md)|
 |Spring AI 1.1.0-M4|20251103|[Spring AI 1.1.0-M4](./Spring AI 1.1.0-M4-20251103.md)|
 |v0.8.0|20240226|[v0.8.0](./v0.8.0-20240226.md)|
+|Spring AI 1.1.0|20251112|[Spring AI 1.1.0](./Spring AI 1.1.0-20251112.md)|
 |v1.0.0-SNAPSHOT-before-chatclient-changes|20240523|[v1.0.0-SNAPSHOT-before-chatclient-changes](./v1.0.0-SNAPSHOT-before-chatclient-changes-20240523.md)|
 |v0.8.1|20240312|[v0.8.1](./v0.8.1-20240312.md)|
 |Spring AI 1.0.2|20250917|[Spring AI 1.0.2](./Spring AI 1.0.2-20250917.md)|
