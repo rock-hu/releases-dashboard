@@ -87,6 +87,7 @@
 |argo-cd-9.0.1|20251018|[argo-cd-9.0.1](./argo-cd-9.0.1-20251018.md)|
 |argo-cd-8.5.6|20250923|[argo-cd-8.5.6](./argo-cd-8.5.6-20250923.md)|
 |argo-cd-7.1.1|20240602|[argo-cd-7.1.1](./argo-cd-7.1.1-20240602.md)|
+|argo-cd-9.1.4|20251123|[argo-cd-9.1.4](./argo-cd-9.1.4-20251123.md)|
 |argo-cd-8.1.2|20250627|[argo-cd-8.1.2](./argo-cd-8.1.2-20250627.md)|
 |argo-cd-7.1.0|20240531|[argo-cd-7.1.0](./argo-cd-7.1.0-20240531.md)|
 |argo-workflows-0.45.12|20250403|[argo-workflows-0.45.12](./argo-workflows-0.45.12-20250403.md)|

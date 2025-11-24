@@ -15,6 +15,7 @@
 |Fix for passing body from request in text streaming mode|20240112|[Fix for passing body from request in text streaming mode](./Fix for passing body from request in text streaming mode-20240112.md)|
 |Support forwarding of websockets|20250227|[Support forwarding of websockets](./Support forwarding of websockets-20250227.md)|
 |Update default timeout to 30s and upgrade GitHub Actions|20230124|[Update default timeout to 30s and upgrade GitHub Actions](./Update default timeout to 30s and upgrade GitHub Actions-20230124.md)|
+|Minor bump to go.mod dependencies|20251119|[Minor bump to go.mod dependencies](./Minor bump to go.mod dependencies-20251119.md)|
 |Copy upstream response into http writer|20240716|[Copy upstream response into http writer](./Copy upstream response into http writer-20240716.md)|
 |Log to stderr in forking mode|20230531|[Log to stderr in forking mode](./Log to stderr in forking mode-20230531.md)|
 |Update faas-middleware, to add X-OpenFaaS-Internal header when max_inflight is met|20231110|[Update faas-middleware, to add X-OpenFaaS-Internal header when max_inflight is met](./Update faas-middleware, to add X-OpenFaaS-Internal header when max_inflight is met-20231110.md)|

@@ -15,6 +15,7 @@
 |parent-5.0.0-alpha.11|20221224|[parent-5.0.0-alpha.11](./parent-5.0.0-alpha.11-20221224.md)|
 |jesse-5.0.0-alpha.11|20221224|[jesse-5.0.0-alpha.11](./jesse-5.0.0-alpha.11-20221224.md)|
 |parent-4.11.0|20230423|[parent-4.11.0](./parent-4.11.0-20230423.md)|
+|parent-5.3.2|20251118|[parent-5.3.2](./parent-5.3.2-20251118.md)|
 |parent-4.12.0|20231017|[parent-4.12.0](./parent-4.12.0-20231017.md)|
 |parent-5.0.0-alpha.9|20220617|[parent-5.0.0-alpha.9](./parent-5.0.0-alpha.9-20220617.md)|
 |parent-5.0.0-alpha.10|20220627|[parent-5.0.0-alpha.10](./parent-5.0.0-alpha.10-20220627.md)|
@@ -25,6 +26,7 @@
 |parent-5.0.0-alpha.9|20220616|[parent-5.0.0-alpha.9](./parent-5.0.0-alpha.9-20220616.md)|
 |jesse-5.0.0-alpha.11.b|20221225|[jesse-5.0.0-alpha.11.b](./jesse-5.0.0-alpha.11.b-20221225.md)|
 |parent-5.0.0-alpha.16|20250529|[parent-5.0.0-alpha.16](./parent-5.0.0-alpha.16-20250529.md)|
+|parent-5.2.3|20251118|[parent-5.2.3](./parent-5.2.3-20251118.md)|
 |parent-5.2.1|20251009|[parent-5.2.1](./parent-5.2.1-20251009.md)|
 |jesse-5.0.0-alpha.11|20221225|[jesse-5.0.0-alpha.11](./jesse-5.0.0-alpha.11-20221225.md)|
 |parent-5.3.0|20251030|[parent-5.3.0](./parent-5.3.0-20251030.md)|

@@ -7,9 +7,11 @@
 |Spring Pulsar 1.1.5|20241022|[Spring Pulsar 1.1.5](./Spring Pulsar 1.1.5-20241022.md)|
 |v1.2.7|20250616|[v1.2.7](./v1.2.7-20250616.md)|
 |v2.0.0-M2|20250817|[v2.0.0-M2](./v2.0.0-M2-20250817.md)|
+|v2.0.0|20251117|[v2.0.0](./v2.0.0-20251117.md)|
 |v1.2.5|20250422|[v1.2.5](./v1.2.5-20250422.md)|
 |v1.2.9|20250818|[v1.2.9](./v1.2.9-20250818.md)|
 |Spring Pulsar 1.2.3|20250217|[Spring Pulsar 1.2.3](./Spring Pulsar 1.2.3-20250217.md)|
+|v1.2.12|20251117|[v1.2.12](./v1.2.12-20251117.md)|
 |Spring Pulsar 1.1.7|20241217|[Spring Pulsar 1.1.7](./Spring Pulsar 1.1.7-20241217.md)|
 |Spring Pulsar 1.1.0-RC1|20240416|[Spring Pulsar 1.1.0-RC1](./Spring Pulsar 1.1.0-RC1-20240416.md)|
 |Spring Pulsar 1.1.13|20250616|[Spring Pulsar 1.1.13](./Spring Pulsar 1.1.13-20250616.md)|
