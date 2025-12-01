@@ -28,6 +28,7 @@
 |Swagger-parser 2.1.18 released!|20231017|[Swagger-parser 2.1.18 released!](./Swagger-parser 2.1.18 released!-20231017.md)|
 |Swagger-parser 2.1.33 released!|20250901|[Swagger-parser 2.1.33 released!](./Swagger-parser 2.1.33 released!-20250901.md)|
 |Swagger-parser 2.1.32 released!|20250818|[Swagger-parser 2.1.32 released!](./Swagger-parser 2.1.32 released!-20250818.md)|
+|Swagger-parser 2.1.36 released!|20251124|[Swagger-parser 2.1.36 released!](./Swagger-parser 2.1.36 released!-20251124.md)|
 |Swagger-parser 2.1.21 released!|20240306|[Swagger-parser 2.1.21 released!](./Swagger-parser 2.1.21 released!-20240306.md)|
 |Swagger-parser 1.0.73 released!|20250117|[Swagger-parser 1.0.73 released!](./Swagger-parser 1.0.73 released!-20250117.md)|
 |Swagger-parser 2.1.24 released!|20241118|[Swagger-parser 2.1.24 released!](./Swagger-parser 2.1.24 released!-20241118.md)|

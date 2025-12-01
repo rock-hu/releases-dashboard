@@ -3,6 +3,7 @@
 
 |version|release date|changes|
 |---|---|---|
+|jackson-datatypes-misc-parent-3.0.3|20251128|[jackson-datatypes-misc-parent-3.0.3](./jackson-datatypes-misc-parent-3.0.3-20251128.md)|
 |jackson-datatypes-misc-parent-3.0.0|20251004|[jackson-datatypes-misc-parent-3.0.0](./jackson-datatypes-misc-parent-3.0.0-20251004.md)|
 |jackson-datatypes-misc-parent-2.17.2|20240706|[jackson-datatypes-misc-parent-2.17.2](./jackson-datatypes-misc-parent-2.17.2-20240706.md)|
 |jackson-datatypes-misc-parent-2.20.0-rc1|20250805|[jackson-datatypes-misc-parent-2.20.0-rc1](./jackson-datatypes-misc-parent-2.20.0-rc1-20250805.md)|

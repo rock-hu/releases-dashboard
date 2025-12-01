@@ -60,6 +60,7 @@
 |argo-cd-9.1.3|20251114|[argo-cd-9.1.3](./argo-cd-9.1.3-20251114.md)|
 |argo-cd-8.0.16|20250609|[argo-cd-8.0.16](./argo-cd-8.0.16-20250609.md)|
 |argocd-image-updater-0.14.0|20251023|[argocd-image-updater-0.14.0](./argocd-image-updater-0.14.0-20251023.md)|
+|argo-cd-9.1.5|20251130|[argo-cd-9.1.5](./argo-cd-9.1.5-20251130.md)|
 |argocd-image-updater-1.0.1|20251114|[argocd-image-updater-1.0.1](./argocd-image-updater-1.0.1-20251114.md)|
 |argo-cd-8.0.4|20250518|[argo-cd-8.0.4](./argo-cd-8.0.4-20250518.md)|
 |argo-cd-8.1.4|20250721|[argo-cd-8.1.4](./argo-cd-8.1.4-20250721.md)|

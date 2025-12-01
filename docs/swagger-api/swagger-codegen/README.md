@@ -3,6 +3,7 @@
 
 |version|release date|changes|
 |---|---|---|
+|Swagger Codegen 2.4.50 released!|20251124|[Swagger Codegen 2.4.50 released!](./Swagger Codegen 2.4.50 released!-20251124.md)|
 |Swagger Codegen 3.0.52 has been released!|20240104|[Swagger Codegen 3.0.52 has been released!](./Swagger Codegen 3.0.52 has been released!-20240104.md)|
 |Swagger Codegen 3.0.65 has been released!|20241218|[Swagger Codegen 3.0.65 has been released!](./Swagger Codegen 3.0.65 has been released!-20241218.md)|
 |Swagger Codegen 2.4.46 released!|20250630|[Swagger Codegen 2.4.46 released!](./Swagger Codegen 2.4.46 released!-20250630.md)|
