@@ -36,10 +36,12 @@
 |netty-4.1.110.Final|20240522|[netty-4.1.110.Final](./netty-4.1.110.Final-20240522.md)|
 |netty-4.1.119.Final|20250226|[netty-4.1.119.Final](./netty-4.1.119.Final-20250226.md)|
 |netty-4.1.116.Final|20241217|[netty-4.1.116.Final](./netty-4.1.116.Final-20241217.md)|
+|netty-4.1.129.Final|20251211|[netty-4.1.129.Final](./netty-4.1.129.Final-20251211.md)|
 |netty-4.1.102.Final|20231213|[netty-4.1.102.Final](./netty-4.1.102.Final-20231213.md)|
 |netty-4.1.115.Final|20241112|[netty-4.1.115.Final](./netty-4.1.115.Final-20241112.md)|
 |netty-4.1.104.Final|20231215|[netty-4.1.104.Final](./netty-4.1.104.Final-20231215.md)|
 |netty-4.2.4.Final|20250813|[netty-4.2.4.Final](./netty-4.2.4.Final-20250813.md)|
+|netty-4.2.8.Final|20251211|[netty-4.2.8.Final](./netty-4.2.8.Final-20251211.md)|
 |netty-4.1.124.Final|20250813|[netty-4.1.124.Final](./netty-4.1.124.Final-20250813.md)|
 |netty-4.2.0.Alpha5|20241009|[netty-4.2.0.Alpha5](./netty-4.2.0.Alpha5-20241009.md)|
 |netty-4.2.1.Final|20250506|[netty-4.2.1.Final](./netty-4.2.1.Final-20250506.md)|
