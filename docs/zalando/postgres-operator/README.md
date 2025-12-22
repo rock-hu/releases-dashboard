@@ -4,6 +4,7 @@
 |version|release date|changes|
 |---|---|---|
 |Gracious Iguanidae|20220802|[Gracious Iguanidae](./Gracious Iguanidae-20220802.md)|
+|Boggling Moles|20251218|[Boggling Moles](./Boggling Moles-20251218.md)|
 |Gracious Iguanas|20220520|[Gracious Iguanas](./Gracious Iguanas-20220520.md)|
 |Deliberate Dog|20240329|[Deliberate Dog](./Deliberate Dog-20240329.md)|
 |Comely Mantella|20230215|[Comely Mantella](./Comely Mantella-20230215.md)|
@@ -15,6 +16,7 @@
 |Tactful Gerbil|20230421|[Tactful Gerbil](./Tactful Gerbil-20230421.md)|
 |Tactful Hamster|20230908|[Tactful Hamster](./Tactful Hamster-20230908.md)|
 |Blissful Ant|20240601|[Blissful Ant](./Blissful Ant-20240601.md)|
+|Boggling Mole|20251218|[Boggling Mole](./Boggling Mole-20251218.md)|
 |Hopeful Amoeba|20241223|[Hopeful Amoeba](./Hopeful Amoeba-20241223.md)|
 |Gracious Iguana|20220520|[Gracious Iguana](./Gracious Iguana-20220520.md)|
 |Tactful Hamster|20230907|[Tactful Hamster](./Tactful Hamster-20230907.md)|

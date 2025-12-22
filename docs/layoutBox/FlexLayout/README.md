@@ -5,6 +5,7 @@
 |---|---|---|
 |Increase version to 2.0.8 to fix issue with SPM|20240615|[Increase version to 2.0.8 to fix issue with SPM](./Increase version to 2.0.8 to fix issue with SPM-20240615.md)|
 |Support `align-content`: `space-evenly`|20240625|[Support `align-content`: `space-evenly`](./Support `align-content`: `space-evenly`-20240625.md)|
+|Add support for SPM dynamic linking + Fix error when dynamically removing views|20251220|[Add support for SPM dynamic linking + Fix error when dynamically removing views](./Add support for SPM dynamic linking + Fix error when dynamically removing views-20251220.md)|
 |Update yoga to version 3.0.4|20240613|[Update yoga to version 3.0.4](./Update yoga to version 3.0.4-20240613.md)|
 |Add `static` position feature|20240616|[Add `static` position feature](./Add `static` position feature-20240616.md)|
 |Upgrade yoga to v3.1.0|20241120|[Upgrade yoga to v3.1.0](./Upgrade yoga to v3.1.0-20241120.md)|
