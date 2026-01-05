@@ -46,6 +46,7 @@
 |stable: Bump version to 3.1.0 on release-3.1 branch (#24135)|20250813|[stable: Bump version to 3.1.0 on release-3.1 branch (#24135)](./stable: Bump version to 3.1.0 on release-3.1 branch (#24135)-20250813.md)|
 |v3.2.0|20251104|[v3.2.0](./v3.2.0-20251104.md)|
 |v2.14.14|20250609|[v2.14.14](./v2.14.14-20250609.md)|
+|v3.0.21|20260101|[v3.0.21](./v3.0.21-20260101.md)|
 |stable: Bump version to 3.2.1 on release-3.2 branch (#25449)|20251130|[stable: Bump version to 3.2.1 on release-3.2 branch (#25449)](./stable: Bump version to 3.2.1 on release-3.2 branch (#25449)-20251130.md)|
 |v2.14.0-rc1: Bump version to 2.14.0-rc1 (#21218)|20241217|[v2.14.0-rc1: Bump version to 2.14.0-rc1 (#21218)](./v2.14.0-rc1: Bump version to 2.14.0-rc1 (#21218)-20241217.md)|
 |v3.0.19|20250930|[v3.0.19](./v3.0.19-20250930.md)|
