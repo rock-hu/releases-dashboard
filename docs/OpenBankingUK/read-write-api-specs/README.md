@@ -7,6 +7,7 @@
 |v3.1.11 Release 3|20231018|[v3.1.11 Release 3](./v3.1.11 Release 3-20231018.md)|
 |v3.1.11 Release 2|20230823|[v3.1.11 Release 2](./v3.1.11 Release 2-20230823.md)|
 |v4.0 Update 3|20250110|[v4.0 Update 3](./v4.0 Update 3-20250110.md)|
+|v4.0.1 - Release Candidate 1|20260105|[v4.0.1 - Release Candidate 1](./v4.0.1 - Release Candidate 1-20260105.md)|
 |v3.1.11|20230823|[v3.1.11](./v3.1.11-20230823.md)|
 |v3.1.10 Release 6|20221006|[v3.1.10 Release 6](./v3.1.10 Release 6-20221006.md)|
 |v4.0 Update 5|20251113|[v4.0 Update 5](./v4.0 Update 5-20251113.md)|

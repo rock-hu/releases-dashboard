@@ -13,6 +13,7 @@
 |Support streaming responses from functions in HTTP mode|20240111|[Support streaming responses from functions in HTTP mode](./Support streaming responses from functions in HTTP mode-20240111.md)|
 |Remove log line when limiting requests|20221022|[Remove log line when limiting requests](./Remove log line when limiting requests-20221022.md)|
 |Fix for passing body from request in text streaming mode|20240112|[Fix for passing body from request in text streaming mode](./Fix for passing body from request in text streaming mode-20240112.md)|
+|Rebuild on Go 1.25.5 for NVD - CVE-2025-61729|20260109|[Rebuild on Go 1.25.5 for NVD - CVE-2025-61729](./Rebuild on Go 1.25.5 for NVD - CVE-2025-61729-20260109.md)|
 |Support forwarding of websockets|20250227|[Support forwarding of websockets](./Support forwarding of websockets-20250227.md)|
 |Update default timeout to 30s and upgrade GitHub Actions|20230124|[Update default timeout to 30s and upgrade GitHub Actions](./Update default timeout to 30s and upgrade GitHub Actions-20230124.md)|
 |Minor bump to go.mod dependencies|20251119|[Minor bump to go.mod dependencies](./Minor bump to go.mod dependencies-20251119.md)|
