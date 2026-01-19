@@ -40,6 +40,7 @@
 |Version 2.1.0|20240217|[Version 2.1.0](./Version 2.1.0-20240217.md)|
 |Version 2.18.0|20250718|[Version 2.18.0](./Version 2.18.0-20250718.md)|
 |Version 1.33.5|20240726|[Version 1.33.5](./Version 1.33.5-20240726.md)|
+|Version 2.24.0|20260117|[Version 2.24.0](./Version 2.24.0-20260117.md)|
 |Version 1.33.6|20240826|[Version 1.33.6](./Version 1.33.6-20240826.md)|
 |Version 2.9.0|20250204|[Version 2.9.0](./Version 2.9.0-20250204.md)|
 |Version 1.33.4|20240619|[Version 1.33.4](./Version 1.33.4-20240619.md)|

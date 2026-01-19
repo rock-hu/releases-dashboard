@@ -27,6 +27,7 @@
 |jackson-datatypes-collections-3.0.0-rc9|20250906|[jackson-datatypes-collections-3.0.0-rc9](./jackson-datatypes-collections-3.0.0-rc9-20250906.md)|
 |jackson-datatypes-collections-3.0.0|20251004|[jackson-datatypes-collections-3.0.0](./jackson-datatypes-collections-3.0.0-20251004.md)|
 |jackson-datatypes-collections-2.19.0|20250425|[jackson-datatypes-collections-2.19.0](./jackson-datatypes-collections-2.19.0-20250425.md)|
+|jackson-datatypes-collections-2.21.0|20260119|[jackson-datatypes-collections-2.21.0](./jackson-datatypes-collections-2.21.0-20260119.md)|
 |jackson-datatypes-collections-2.20.1|20251031|[jackson-datatypes-collections-2.20.1](./jackson-datatypes-collections-2.20.1-20251031.md)|
 |jackson-datatypes-collections-2.17.2|20240706|[jackson-datatypes-collections-2.17.2](./jackson-datatypes-collections-2.17.2-20240706.md)|
 |jackson-datatypes-collections-3.0.0-rc5|20250522|[jackson-datatypes-collections-3.0.0-rc5](./jackson-datatypes-collections-3.0.0-rc5-20250522.md)|

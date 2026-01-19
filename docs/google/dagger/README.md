@@ -12,6 +12,7 @@
 |Dagger 2.53.1|20241209|[Dagger 2.53.1](./Dagger 2.53.1-20241209.md)|
 |Dagger 2.57.2|20250925|[Dagger 2.57.2](./Dagger 2.57.2-20250925.md)|
 |Dagger 2.56.2|20250416|[Dagger 2.56.2](./Dagger 2.56.2-20250416.md)|
+|Dagger 2.58|20260116|[Dagger 2.58](./Dagger 2.58-20260116.md)|
 |Dagger 2.56.1|20250325|[Dagger 2.56.1](./Dagger 2.56.1-20250325.md)|
 |Dagger 2.56|20250422|[Dagger 2.56](./Dagger 2.56-20250422.md)|
 |Dagger 2.51.1|20240329|[Dagger 2.51.1](./Dagger 2.51.1-20240329.md)|

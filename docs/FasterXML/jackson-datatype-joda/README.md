@@ -15,6 +15,7 @@
 |jackson-datatype-joda-2.15.3|20231013|[jackson-datatype-joda-2.15.3](./jackson-datatype-joda-2.15.3-20231013.md)|
 |jackson-datatype-joda-2.17.0|20240313|[jackson-datatype-joda-2.17.0](./jackson-datatype-joda-2.17.0-20240313.md)|
 |jackson-datatype-joda-2.19.2|20250718|[jackson-datatype-joda-2.19.2](./jackson-datatype-joda-2.19.2-20250718.md)|
+|jackson-datatype-joda-2.21.0|20260119|[jackson-datatype-joda-2.21.0](./jackson-datatype-joda-2.21.0-20260119.md)|
 |jackson-datatype-joda-2.18.0-rc1|20240831|[jackson-datatype-joda-2.18.0-rc1](./jackson-datatype-joda-2.18.0-rc1-20240831.md)|
 |jackson-datatype-joda-2.16.1|20231224|[jackson-datatype-joda-2.16.1](./jackson-datatype-joda-2.16.1-20231224.md)|
 |jackson-datatype-joda-3.0.1|20251022|[jackson-datatype-joda-3.0.1](./jackson-datatype-joda-3.0.1-20251022.md)|

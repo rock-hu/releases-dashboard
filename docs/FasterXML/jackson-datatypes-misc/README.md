@@ -14,6 +14,7 @@
 |jackson-datatypes-misc-parent-3.0.0-rc5|20250522|[jackson-datatypes-misc-parent-3.0.0-rc5](./jackson-datatypes-misc-parent-3.0.0-rc5-20250522.md)|
 |jackson-datatypes-misc-parent-2.18.0-rc1|20240831|[jackson-datatypes-misc-parent-2.18.0-rc1](./jackson-datatypes-misc-parent-2.18.0-rc1-20240831.md)|
 |jackson-datatypes-misc-parent-2.17.3|20241102|[jackson-datatypes-misc-parent-2.17.3](./jackson-datatypes-misc-parent-2.17.3-20241102.md)|
+|jackson-datatypes-misc-parent-2.21.0|20260119|[jackson-datatypes-misc-parent-2.21.0](./jackson-datatypes-misc-parent-2.21.0-20260119.md)|
 |jackson-datatypes-misc-parent-2.19.0-rc2|20250408|[jackson-datatypes-misc-parent-2.19.0-rc2](./jackson-datatypes-misc-parent-2.19.0-rc2-20250408.md)|
 |jackson-datatypes-misc-parent-2.17.0|20240313|[jackson-datatypes-misc-parent-2.17.0](./jackson-datatypes-misc-parent-2.17.0-20240313.md)|
 |jackson-datatypes-misc-parent-2.16.0-rc1: [maven-release-plugin] copy for tag jackson-datatypes-misc-parent-2.1…|20231021|[jackson-datatypes-misc-parent-2.16.0-rc1: [maven-release-plugin] copy for tag jackson-datatypes-misc-parent-2.1…](./jackson-datatypes-misc-parent-2.16.0-rc1: [maven-release-plugin] copy for tag jackson-datatypes-misc-parent-2.1…-20231021.md)|

@@ -9,6 +9,7 @@
 |jackson-jr-parent-3.0.0-rc4|20250510|[jackson-jr-parent-3.0.0-rc4](./jackson-jr-parent-3.0.0-rc4-20250510.md)|
 |jackson-jr-parent-3.0.3|20251128|[jackson-jr-parent-3.0.3](./jackson-jr-parent-3.0.3-20251128.md)|
 |jackson-jr-parent-3.0.0-rc3|20250414|[jackson-jr-parent-3.0.0-rc3](./jackson-jr-parent-3.0.0-rc3-20250414.md)|
+|jackson-jr-parent-2.21.0|20260118|[jackson-jr-parent-2.21.0](./jackson-jr-parent-2.21.0-20260118.md)|
 |jackson-jr-parent-2.16.2|20240310|[jackson-jr-parent-2.16.2](./jackson-jr-parent-2.16.2-20240310.md)|
 |jackson-jr-parent-2.15.3|20231013|[jackson-jr-parent-2.15.3](./jackson-jr-parent-2.15.3-20231013.md)|
 |jackson-jr-parent-2.19.4|20251030|[jackson-jr-parent-2.19.4](./jackson-jr-parent-2.19.4-20251030.md)|
