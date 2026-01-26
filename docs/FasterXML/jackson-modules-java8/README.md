@@ -6,6 +6,7 @@
 |jackson-modules-java8-2.18.0|20240927|[jackson-modules-java8-2.18.0](./jackson-modules-java8-2.18.0-20240927.md)|
 |jackson-modules-java8-3.0.0-rc2|20250328|[jackson-modules-java8-3.0.0-rc2](./jackson-modules-java8-3.0.0-rc2-20250328.md)|
 |jackson-modules-java8-3.0.0-rc1|20250308|[jackson-modules-java8-3.0.0-rc1](./jackson-modules-java8-3.0.0-rc1-20250308.md)|
+|jackson-modules-java8-2.20.2|20260119|[jackson-modules-java8-2.20.2](./jackson-modules-java8-2.20.2-20260119.md)|
 |jackson-modules-java8-2.20.0|20250828|[jackson-modules-java8-2.20.0](./jackson-modules-java8-2.20.0-20250828.md)|
 |jackson-modules-java8-2.16.1|20231224|[jackson-modules-java8-2.16.1](./jackson-modules-java8-2.16.1-20231224.md)|
 |jackson-modules-java8-2.17.0-rc1|20240227|[jackson-modules-java8-2.17.0-rc1](./jackson-modules-java8-2.17.0-rc1-20240227.md)|

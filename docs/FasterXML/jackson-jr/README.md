@@ -16,12 +16,14 @@
 |jackson-jr-parent-3.0.0-rc7|20250808|[jackson-jr-parent-3.0.0-rc7](./jackson-jr-parent-3.0.0-rc7-20250808.md)|
 |jackson-jr-parent-2.18.5|20251028|[jackson-jr-parent-2.18.5](./jackson-jr-parent-2.18.5-20251028.md)|
 |jackson-jr-parent-2.18.0-rc1|20240830|[jackson-jr-parent-2.18.0-rc1](./jackson-jr-parent-2.18.0-rc1-20240830.md)|
+|jackson-jr-parent-2.20.2|20260119|[jackson-jr-parent-2.20.2](./jackson-jr-parent-2.20.2-20260119.md)|
 |jackson-jr-parent-2.18.2|20241128|[jackson-jr-parent-2.18.2](./jackson-jr-parent-2.18.2-20241128.md)|
 |jackson-jr-parent-2.18.1|20241028|[jackson-jr-parent-2.18.1](./jackson-jr-parent-2.18.1-20241028.md)|
 |jackson-jr-parent-3.0.0-rc2|20250328|[jackson-jr-parent-3.0.0-rc2](./jackson-jr-parent-3.0.0-rc2-20250328.md)|
 |jackson-jr-parent-2.17.1|20240505|[jackson-jr-parent-2.17.1](./jackson-jr-parent-2.17.1-20240505.md)|
 |jackson-jr-parent-3.0.0-rc8|20250813|[jackson-jr-parent-3.0.0-rc8](./jackson-jr-parent-3.0.0-rc8-20250813.md)|
 |jackson-jr-parent-3.0.0-rc1|20250308|[jackson-jr-parent-3.0.0-rc1](./jackson-jr-parent-3.0.0-rc1-20250308.md)|
+|jackson-jr-parent-3.0.4|20260121|[jackson-jr-parent-3.0.4](./jackson-jr-parent-3.0.4-20260121.md)|
 |jackson-jr-parent-2.20.0-rc1|20250805|[jackson-jr-parent-2.20.0-rc1](./jackson-jr-parent-2.20.0-rc1-20250805.md)|
 |jackson-jr-parent-3.0.0-rc9|20250906|[jackson-jr-parent-3.0.0-rc9](./jackson-jr-parent-3.0.0-rc9-20250906.md)|
 |jackson-jr-parent-2.19.1|20250614|[jackson-jr-parent-2.19.1](./jackson-jr-parent-2.19.1-20250614.md)|

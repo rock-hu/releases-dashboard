@@ -39,6 +39,7 @@
 |jackson-datatypes-misc-parent-2.19.0|20250425|[jackson-datatypes-misc-parent-2.19.0](./jackson-datatypes-misc-parent-2.19.0-20250425.md)|
 |jackson-datatypes-misc-parent-2.17.1|20240505|[jackson-datatypes-misc-parent-2.17.1](./jackson-datatypes-misc-parent-2.17.1-20240505.md)|
 |jackson-datatypes-misc-parent-2.19.2|20250718|[jackson-datatypes-misc-parent-2.19.2](./jackson-datatypes-misc-parent-2.19.2-20250718.md)|
+|jackson-datatypes-misc-parent-2.20.2|20260119|[jackson-datatypes-misc-parent-2.20.2](./jackson-datatypes-misc-parent-2.20.2-20260119.md)|
 |jackson-datatypes-misc-parent-2.17.0-rc1|20240227|[jackson-datatypes-misc-parent-2.17.0-rc1](./jackson-datatypes-misc-parent-2.17.0-rc1-20240227.md)|
 |jackson-datatypes-misc-parent-3.0.0-rc4|20250511|[jackson-datatypes-misc-parent-3.0.0-rc4](./jackson-datatypes-misc-parent-3.0.0-rc4-20250511.md)|
 |jackson-datatypes-misc-parent-2.20.0|20250828|[jackson-datatypes-misc-parent-2.20.0](./jackson-datatypes-misc-parent-2.20.0-20250828.md)|
@@ -48,4 +49,5 @@
 |jackson-datatypes-misc-parent-2.15.2|20230531|[jackson-datatypes-misc-parent-2.15.2](./jackson-datatypes-misc-parent-2.15.2-20230531.md)|
 |jackson-datatypes-misc-parent-2.16.2|20240310|[jackson-datatypes-misc-parent-2.16.2](./jackson-datatypes-misc-parent-2.16.2-20240310.md)|
 |jackson-datatypes-misc-parent-2.18.3|20250301|[jackson-datatypes-misc-parent-2.18.3](./jackson-datatypes-misc-parent-2.18.3-20250301.md)|
+|jackson-datatypes-misc-parent-3.0.4|20260122|[jackson-datatypes-misc-parent-3.0.4](./jackson-datatypes-misc-parent-3.0.4-20260122.md)|
 |jackson-datatypes-misc-parent-2.18.2|20241128|[jackson-datatypes-misc-parent-2.18.2](./jackson-datatypes-misc-parent-2.18.2-20241128.md)|

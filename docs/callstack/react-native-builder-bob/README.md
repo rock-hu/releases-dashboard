@@ -60,6 +60,7 @@
 |docs@0.6.10|20251124|[docs@0.6.10](./docs@0.6.10-20251124.md)|
 |create-react-native-library@0.56.1|20260109|[create-react-native-library@0.56.1](./create-react-native-library@0.56.1-20260109.md)|
 |docs@0.6.7|20250515|[docs@0.6.7](./docs@0.6.7-20250515.md)|
+|create-react-native-library@0.57.0|20260121|[create-react-native-library@0.57.0](./create-react-native-library@0.57.0-20260121.md)|
 |create-react-native-library@0.53.0|20250825|[create-react-native-library@0.53.0](./create-react-native-library@0.53.0-20250825.md)|
 |create-react-native-library@0.45.4|20241209|[create-react-native-library@0.45.4](./create-react-native-library@0.45.4-20241209.md)|
 |react-native-builder-bob@0.40.17|20251210|[react-native-builder-bob@0.40.17](./react-native-builder-bob@0.40.17-20251210.md)|

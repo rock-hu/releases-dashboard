@@ -30,6 +30,7 @@
 |v2.0.0-M3|20251021|[v2.0.0-M3](./v2.0.0-M3-20251021.md)|
 |v1.2.10|20250916|[v1.2.10](./v1.2.10-20250916.md)|
 |Spring Pulsar 1.1.0-M1|20240221|[Spring Pulsar 1.1.0-M1](./Spring Pulsar 1.1.0-M1-20240221.md)|
+|v1.2.14|20260120|[v1.2.14](./v1.2.14-20260120.md)|
 |Spring Pulsar 1.0.11|20241022|[Spring Pulsar 1.0.11](./Spring Pulsar 1.0.11-20241022.md)|
 |Spring Pulsar 1.1.0|20240521|[Spring Pulsar 1.1.0](./Spring Pulsar 1.1.0-20240521.md)|
 |Spring Pulsar 1.1.8|20250123|[Spring Pulsar 1.1.8](./Spring Pulsar 1.1.8-20250123.md)|
@@ -54,3 +55,4 @@
 |Spring Pulsar 1.2.0-M2|20240917|[Spring Pulsar 1.2.0-M2](./Spring Pulsar 1.2.0-M2-20240917.md)|
 |Spring Pulsar 1.1.7|20241218|[Spring Pulsar 1.1.7](./Spring Pulsar 1.1.7-20241218.md)|
 |Spring Pulsar 1.1.10|20250318|[Spring Pulsar 1.1.10](./Spring Pulsar 1.1.10-20250318.md)|
+|v2.0.2|20260120|[v2.0.2](./v2.0.2-20260120.md)|

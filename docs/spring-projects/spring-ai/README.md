@@ -4,6 +4,7 @@
 |version|release date|changes|
 |---|---|---|
 |v1.0.0-M8|20250430|[v1.0.0-M8](./v1.0.0-M8-20250430.md)|
+|Spring AI 2.0.0-M2|20260123|[Spring AI 2.0.0-M2](./Spring AI 2.0.0-M2-20260123.md)|
 |Spring AI 1.1.0-M3|20251015|[Spring AI 1.1.0-M3](./Spring AI 1.1.0-M3-20251015.md)|
 |v1.0.2|20250912|[v1.0.2](./v1.0.2-20250912.md)|
 |Spring AI 2.0.0-M1|20251212|[Spring AI 2.0.0-M1](./Spring AI 2.0.0-M1-20251212.md)|
