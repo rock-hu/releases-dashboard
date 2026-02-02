@@ -51,3 +51,4 @@
 |jackson-modules-base-2.15.4|20240216|[jackson-modules-base-2.15.4](./jackson-modules-base-2.15.4-20240216.md)|
 |jackson-modules-base-2.18.3|20250228|[jackson-modules-base-2.18.3](./jackson-modules-base-2.18.3-20250228.md)|
 |jackson-modules-base-2.19.3|20251029|[jackson-modules-base-2.19.3](./jackson-modules-base-2.19.3-20251029.md)|
+|jackson-modules-base-3.1.0-rc1|20260128|[jackson-modules-base-3.1.0-rc1](./jackson-modules-base-3.1.0-rc1-20260128.md)|

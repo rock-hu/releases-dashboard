@@ -3,6 +3,7 @@
 
 |version|release date|changes|
 |---|---|---|
+|argo-workflows-0.47.2|20260130|[argo-workflows-0.47.2](./argo-workflows-0.47.2-20260130.md)|
 |argo-workflows-0.45.13|20250430|[argo-workflows-0.45.13](./argo-workflows-0.45.13-20250430.md)|
 |argo-cd-9.3.0|20260112|[argo-cd-9.3.0](./argo-cd-9.3.0-20260112.md)|
 |argo-cd-8.0.0|20250506|[argo-cd-8.0.0](./argo-cd-8.0.0-20250506.md)|
@@ -40,6 +41,7 @@
 |argo-cd-7.1.2|20240606|[argo-cd-7.1.2](./argo-cd-7.1.2-20240606.md)|
 |argo-rollouts-2.40.2|20250724|[argo-rollouts-2.40.2](./argo-rollouts-2.40.2-20250724.md)|
 |argo-cd-7.8.27|20250420|[argo-cd-7.8.27](./argo-cd-7.8.27-20250420.md)|
+|argocd-image-updater-1.0.5|20260128|[argocd-image-updater-1.0.5](./argocd-image-updater-1.0.5-20260128.md)|
 |argo-workflows-0.45.15|20250515|[argo-workflows-0.45.15](./argo-workflows-0.45.15-20250515.md)|
 |argo-cd-8.2.5|20250731|[argo-cd-8.2.5](./argo-cd-8.2.5-20250731.md)|
 |argo-cd-7.7.6|20241128|[argo-cd-7.7.6](./argo-cd-7.7.6-20241128.md)|
@@ -81,6 +83,7 @@
 |argo-cd-8.1.4|20250721|[argo-cd-8.1.4](./argo-cd-8.1.4-20250721.md)|
 |argo-events-2.4.9|20241128|[argo-events-2.4.9](./argo-events-2.4.9-20241128.md)|
 |argo-cd-8.5.8|20250930|[argo-cd-8.5.8](./argo-cd-8.5.8-20250930.md)|
+|argo-cd-9.3.7|20260127|[argo-cd-9.3.7](./argo-cd-9.3.7-20260127.md)|
 |argo-cd-8.0.9|20250522|[argo-cd-8.0.9](./argo-cd-8.0.9-20250522.md)|
 |argo-workflows-0.45.23|20250831|[argo-workflows-0.45.23](./argo-workflows-0.45.23-20250831.md)|
 |argo-cd-7.8.21|20250402|[argo-cd-7.8.21](./argo-cd-7.8.21-20250402.md)|
@@ -117,6 +120,7 @@
 |argo-cd-8.2.3|20250728|[argo-cd-8.2.3](./argo-cd-8.2.3-20250728.md)|
 |argo-workflows-0.45.20|20250716|[argo-workflows-0.45.20](./argo-workflows-0.45.20-20250716.md)|
 |argo-events-2.4.16|20250714|[argo-events-2.4.16](./argo-events-2.4.16-20250714.md)|
+|argo-cd-9.3.6|20260126|[argo-cd-9.3.6](./argo-cd-9.3.6-20260126.md)|
 |argo-cd-9.0.3|20251020|[argo-cd-9.0.3](./argo-cd-9.0.3-20251020.md)|
 |argo-cd-8.0.5|20250519|[argo-cd-8.0.5](./argo-cd-8.0.5-20250519.md)|
 |argo-cd-7.7.10|20241212|[argo-cd-7.7.10](./argo-cd-7.7.10-20241212.md)|

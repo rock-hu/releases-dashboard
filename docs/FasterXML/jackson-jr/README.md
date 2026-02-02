@@ -13,6 +13,7 @@
 |jackson-jr-parent-2.16.2|20240310|[jackson-jr-parent-2.16.2](./jackson-jr-parent-2.16.2-20240310.md)|
 |jackson-jr-parent-2.15.3|20231013|[jackson-jr-parent-2.15.3](./jackson-jr-parent-2.15.3-20231013.md)|
 |jackson-jr-parent-2.19.4|20251030|[jackson-jr-parent-2.19.4](./jackson-jr-parent-2.19.4-20251030.md)|
+|jackson-jr-parent-3.1.0-rc1|20260128|[jackson-jr-parent-3.1.0-rc1](./jackson-jr-parent-3.1.0-rc1-20260128.md)|
 |jackson-jr-parent-3.0.0-rc7|20250808|[jackson-jr-parent-3.0.0-rc7](./jackson-jr-parent-3.0.0-rc7-20250808.md)|
 |jackson-jr-parent-2.18.5|20251028|[jackson-jr-parent-2.18.5](./jackson-jr-parent-2.18.5-20251028.md)|
 |jackson-jr-parent-2.18.0-rc1|20240830|[jackson-jr-parent-2.18.0-rc1](./jackson-jr-parent-2.18.0-rc1-20240830.md)|

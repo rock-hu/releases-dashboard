@@ -3,6 +3,7 @@
 
 |version|release date|changes|
 |---|---|---|
+|Dagger 2.59|20260126|[Dagger 2.59](./Dagger 2.59-20260126.md)|
 |Dagger 2.59|20260121|[Dagger 2.59](./Dagger 2.59-20260121.md)|
 |Dagger 2.54|20241220|[Dagger 2.54](./Dagger 2.54-20241220.md)|
 |Dagger 2.57|20250717|[Dagger 2.57](./Dagger 2.57-20250717.md)|

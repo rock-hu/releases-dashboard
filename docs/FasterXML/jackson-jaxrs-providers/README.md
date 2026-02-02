@@ -5,6 +5,7 @@
 |---|---|---|
 |jackson-jaxrs-providers-2.19.0-rc2|20250408|[jackson-jaxrs-providers-2.19.0-rc2](./jackson-jaxrs-providers-2.19.0-rc2-20250408.md)|
 |jackson-jaxrs-providers-2.17.1|20240505|[jackson-jaxrs-providers-2.17.1](./jackson-jaxrs-providers-2.17.1-20240505.md)|
+|jackson-jaxrs-providers-3.1.0-rc1|20260128|[jackson-jaxrs-providers-3.1.0-rc1](./jackson-jaxrs-providers-3.1.0-rc1-20260128.md)|
 |jackson-jaxrs-providers-2.17.3|20241101|[jackson-jaxrs-providers-2.17.3](./jackson-jaxrs-providers-2.17.3-20241101.md)|
 |jackson-jaxrs-providers-2.18.0-rc1|20240830|[jackson-jaxrs-providers-2.18.0-rc1](./jackson-jaxrs-providers-2.18.0-rc1-20240830.md)|
 |jackson-jaxrs-providers-2.17.2|20240706|[jackson-jaxrs-providers-2.17.2](./jackson-jaxrs-providers-2.17.2-20240706.md)|

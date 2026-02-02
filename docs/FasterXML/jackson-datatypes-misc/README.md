@@ -32,6 +32,7 @@
 |jackson-datatypes-misc-parent-2.18.0-rc1|20240830|[jackson-datatypes-misc-parent-2.18.0-rc1](./jackson-datatypes-misc-parent-2.18.0-rc1-20240830.md)|
 |jackson-datatypes-misc-parent-2.18.4|20250507|[jackson-datatypes-misc-parent-2.18.4](./jackson-datatypes-misc-parent-2.18.4-20250507.md)|
 |jackson-datatypes-misc-parent-2.16.0|20231116|[jackson-datatypes-misc-parent-2.16.0](./jackson-datatypes-misc-parent-2.16.0-20231116.md)|
+|jackson-datatypes-misc-parent-3.1.0-rc1|20260128|[jackson-datatypes-misc-parent-3.1.0-rc1](./jackson-datatypes-misc-parent-3.1.0-rc1-20260128.md)|
 |jackson-datatypes-misc-parent-2.15.3|20231013|[jackson-datatypes-misc-parent-2.15.3](./jackson-datatypes-misc-parent-2.15.3-20231013.md)|
 |jackson-datatypes-misc-parent-3.0.0-rc2|20250328|[jackson-datatypes-misc-parent-3.0.0-rc2](./jackson-datatypes-misc-parent-3.0.0-rc2-20250328.md)|
 |jackson-datatypes-misc-parent-2.18.5|20251028|[jackson-datatypes-misc-parent-2.18.5](./jackson-datatypes-misc-parent-2.18.5-20251028.md)|

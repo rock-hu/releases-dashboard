@@ -10,6 +10,7 @@
 |jackson-datatypes-collections-3.0.0-rc7|20250808|[jackson-datatypes-collections-3.0.0-rc7](./jackson-datatypes-collections-3.0.0-rc7-20250808.md)|
 |jackson-datatypes-collections-2.19.3|20251029|[jackson-datatypes-collections-2.19.3](./jackson-datatypes-collections-2.19.3-20251029.md)|
 |jackson-datatypes-collections-2.17.0|20240313|[jackson-datatypes-collections-2.17.0](./jackson-datatypes-collections-2.17.0-20240313.md)|
+|jackson-datatypes-collections-3.1.0-rc1|20260128|[jackson-datatypes-collections-3.1.0-rc1](./jackson-datatypes-collections-3.1.0-rc1-20260128.md)|
 |jackson-datatypes-collections-3.0.1|20251022|[jackson-datatypes-collections-3.0.1](./jackson-datatypes-collections-3.0.1-20251022.md)|
 |jackson-datatypes-collections-2.18.2|20241128|[jackson-datatypes-collections-2.18.2](./jackson-datatypes-collections-2.18.2-20241128.md)|
 |jackson-datatypes-collections-2.19.4|20251030|[jackson-datatypes-collections-2.19.4](./jackson-datatypes-collections-2.19.4-20251030.md)|
