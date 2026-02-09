@@ -46,6 +46,7 @@
 |argo-cd-8.2.5|20250731|[argo-cd-8.2.5](./argo-cd-8.2.5-20250731.md)|
 |argo-cd-7.7.6|20241128|[argo-cd-7.7.6](./argo-cd-7.7.6-20241128.md)|
 |argo-rollouts-2.40.1|20250715|[argo-rollouts-2.40.1](./argo-rollouts-2.40.1-20250715.md)|
+|argocd-image-updater-1.1.0|20260206|[argocd-image-updater-1.1.0](./argocd-image-updater-1.1.0-20260206.md)|
 |argocd-apps-2.0.4|20260112|[argocd-apps-2.0.4](./argocd-apps-2.0.4-20260112.md)|
 |argo-rollouts-2.40.3|20250804|[argo-rollouts-2.40.3](./argo-rollouts-2.40.3-20250804.md)|
 |argo-cd-9.1.7|20251208|[argo-cd-9.1.7](./argo-cd-9.1.7-20251208.md)|
@@ -77,6 +78,7 @@
 |argo-cd-9.1.3|20251114|[argo-cd-9.1.3](./argo-cd-9.1.3-20251114.md)|
 |argo-cd-8.0.16|20250609|[argo-cd-8.0.16](./argo-cd-8.0.16-20250609.md)|
 |argocd-image-updater-0.14.0|20251023|[argocd-image-updater-0.14.0](./argocd-image-updater-0.14.0-20251023.md)|
+|argo-cd-9.4.1|20260205|[argo-cd-9.4.1](./argo-cd-9.4.1-20260205.md)|
 |argo-cd-9.1.5|20251130|[argo-cd-9.1.5](./argo-cd-9.1.5-20251130.md)|
 |argocd-image-updater-1.0.1|20251114|[argocd-image-updater-1.0.1](./argocd-image-updater-1.0.1-20251114.md)|
 |argo-cd-8.0.4|20250518|[argo-cd-8.0.4](./argo-cd-8.0.4-20250518.md)|
@@ -105,9 +107,11 @@
 |argo-cd-8.5.0|20250916|[argo-cd-8.5.0](./argo-cd-8.5.0-20250916.md)|
 |argocd-image-updater-0.11.3|20241213|[argocd-image-updater-0.11.3](./argocd-image-updater-0.11.3-20241213.md)|
 |argo-cd-9.0.5|20251024|[argo-cd-9.0.5](./argo-cd-9.0.5-20251024.md)|
+|argo-cd-9.4.0|20260202|[argo-cd-9.4.0](./argo-cd-9.4.0-20260202.md)|
 |argo-cd-8.0.10|20250525|[argo-cd-8.0.10](./argo-cd-8.0.10-20250525.md)|
 |argocd-image-updater-1.0.0|20251111|[argocd-image-updater-1.0.0](./argocd-image-updater-1.0.0-20251111.md)|
 |argo-cd-9.0.1|20251018|[argo-cd-9.0.1](./argo-cd-9.0.1-20251018.md)|
+|argo-workflows-0.47.3|20260202|[argo-workflows-0.47.3](./argo-workflows-0.47.3-20260202.md)|
 |argo-cd-8.5.6|20250923|[argo-cd-8.5.6](./argo-cd-8.5.6-20250923.md)|
 |argo-cd-7.1.1|20240602|[argo-cd-7.1.1](./argo-cd-7.1.1-20240602.md)|
 |argo-cd-9.2.4|20260102|[argo-cd-9.2.4](./argo-cd-9.2.4-20260102.md)|

@@ -1,0 +1,11 @@
+# Swagger Codegen v3.0.77
+
+## release on 20260205
+## description
+## changes
+What's Changed
+
+* chore: bump logback version from 1.5.16 to 1.5.19 (<a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3837155933" data-permission-text="Title is private" data-url="https://github.com/swagger-api/swagger-codegen/issues/12676" data-hovercard-type="pull_request" data-hovercard-url="/swagger-api/swagger-codegen/pull/12676/hovercard" href="https://github.com/swagger-api/swagger-codegen/pull/12676">#12676</a>) by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/kopernic-pl/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/kopernic-pl">@kopernic-pl</a>
+* chore: add SBOM generation and attachment for swagger images (<a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3865398334" data-permission-text="Title is private" data-url="https://github.com/swagger-api/swagger-codegen/issues/12677" data-hovercard-type="pull_request" data-hovercard-url="/swagger-api/swagger-codegen/pull/12677/hovercard" href="https://github.com/swagger-api/swagger-codegen/pull/12677">#12677</a>) by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/kopernic-pl/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/kopernic-pl">@kopernic-pl</a>
+* chore: update release workflow to fetch latest generator version (<a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3896789785" data-permission-text="Title is private" data-url="https://github.com/swagger-api/swagger-codegen/issues/12680" data-hovercard-type="pull_request" data-hovercard-url="/swagger-api/swagger-codegen/pull/12680/hovercard" href="https://github.com/swagger-api/swagger-codegen/pull/12680">#12680</a>) by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/daniel-kmiecik/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/daniel-kmiecik">@daniel-kmiecik</a>
+

@@ -29,5 +29,6 @@
 |Release with Go 1.18|20220901|[Release with Go 1.18](./Release with Go 1.18-20220901.md)|
 |Update go.mod dependencies and Go to 1.22|20240617|[Update go.mod dependencies and Go to 1.22](./Update go.mod dependencies and Go to 1.22-20240617.md)|
 |Provide option to timeout functions earlier than configured|20240711|[Provide option to timeout functions earlier than configured](./Provide option to timeout functions earlier than configured-20240711.md)|
+|Bump various dependencies in go.mod|20260205|[Bump various dependencies in go.mod](./Bump various dependencies in go.mod-20260205.md)|
 | Only log about JWT Auth when it is enabled|20240903|[ Only log about JWT Auth when it is enabled](./ Only log about JWT Auth when it is enabled-20240903.md)|
 |Support massive log lines from function handler|20240827|[Support massive log lines from function handler](./Support massive log lines from function handler-20240827.md)|

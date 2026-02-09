@@ -7,6 +7,7 @@
 |netty-4.1.99.Final|20230928|[netty-4.1.99.Final](./netty-4.1.99.Final-20230928.md)|
 |netty-4.2.7.Final|20251014|[netty-4.2.7.Final](./netty-4.2.7.Final-20251014.md)|
 |netty-4.1.130.Final|20251215|[netty-4.1.130.Final](./netty-4.1.130.Final-20251215.md)|
+|netty-4.2.10.Final|20260205|[netty-4.2.10.Final](./netty-4.2.10.Final-20260205.md)|
 |netty-4.1.109.Final|20240415|[netty-4.1.109.Final](./netty-4.1.109.Final-20240415.md)|
 |netty-4.1.117.Final|20250114|[netty-4.1.117.Final](./netty-4.1.117.Final-20250114.md)|
 |netty-4.2.0.RC4|20250308|[netty-4.2.0.RC4](./netty-4.2.0.RC4-20250308.md)|
@@ -32,6 +33,7 @@
 |netty-4.1.107.Final|20240213|[netty-4.1.107.Final](./netty-4.1.107.Final-20240213.md)|
 |netty-4.1.122.Final|20250603|[netty-4.1.122.Final](./netty-4.1.122.Final-20250603.md)|
 |netty-4.2.0.RC2|20250120|[netty-4.2.0.RC2](./netty-4.2.0.RC2-20250120.md)|
+|netty-4.1.131.Final|20260205|[netty-4.1.131.Final](./netty-4.1.131.Final-20260205.md)|
 |netty-4.2.0.Alpha3|20240826|[netty-4.2.0.Alpha3](./netty-4.2.0.Alpha3-20240826.md)|
 |netty-4.1.128.Final|20251014|[netty-4.1.128.Final](./netty-4.1.128.Final-20251014.md)|
 |netty-4.1.110.Final|20240522|[netty-4.1.110.Final](./netty-4.1.110.Final-20240522.md)|

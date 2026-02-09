@@ -16,4 +16,5 @@
 |v3.1.11 Release 5|20240304|[v3.1.11 Release 5](./v3.1.11 Release 5-20240304.md)|
 |v3.1.11 Release 4|20240227|[v3.1.11 Release 4](./v3.1.11 Release 4-20240227.md)|
 |v4.0-draft1|20240411|[v4.0-draft1](./v4.0-draft1-20240411.md)|
+|v4.0.1 - Release Candidate 2|20260204|[v4.0.1 - Release Candidate 2](./v4.0.1 - Release Candidate 2-20260204.md)|
 |v4.0 Release 2|20240919|[v4.0 Release 2](./v4.0 Release 2-20240919.md)|
