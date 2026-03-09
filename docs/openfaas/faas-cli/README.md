@@ -5,10 +5,12 @@
 |---|---|---|
 |Replace secrets via secret create when needed|20250408|[Replace secrets via secret create when needed](./Replace secrets via secret create when needed-20250408.md)|
 |Fix #990 for gateway override for namespace commands and add FAAS_DEBUG option to them also|20231130|[Fix #990 for gateway override for namespace commands and add FAAS_DEBUG option to them also](./Fix #990 for gateway override for namespace commands and add FAAS_DEBUG option to them also-20231130.md)|
+|Increase IdleConnTimeout from 120ms to 5s|20260303|[Increase IdleConnTimeout from 120ms to 5s](./Increase IdleConnTimeout from 120ms to 5s-20260303.md)|
 |Add ready command for gateway and functions|20240411|[Add ready command for gateway and functions](./Add ready command for gateway and functions-20240411.md)|
 |Support random port for local-run command|20241003|[Support random port for local-run command](./Support random port for local-run command-20241003.md)|
 |Fix execution of plugins on Windows|20240126|[Fix execution of plugins on Windows](./Fix execution of plugins on Windows-20240126.md)|
 |Update for man page for secret create and GitHub workflows|20250415|[Update for man page for secret create and GitHub workflows](./Update for man page for secret create and GitHub workflows-20250415.md)|
+|Switch to ms output for getting plugins|20260303|[Switch to ms output for getting plugins](./Switch to ms output for getting plugins-20260303.md)|
 |Use same header format as curl for invoke command|20250716|[Use same header format as curl for invoke command](./Use same header format as curl for invoke command-20250716.md)|
 |Update to MIT license for faas-cli (only)|20250408|[Update to MIT license for faas-cli (only)](./Update to MIT license for faas-cli (only)-20250408.md)|
 |Support streaming logs for remote builds|20250708|[Support streaming logs for remote builds](./Support streaming logs for remote builds-20250708.md)|

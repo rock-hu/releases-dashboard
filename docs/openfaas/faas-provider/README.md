@@ -9,6 +9,7 @@
 |v0.25.3: Fix forwarding of request body during text streaming|20240111|[v0.25.3: Fix forwarding of request body during text streaming](./v0.25.3: Fix forwarding of request body during text streaming-20240111.md)|
 |Rename FunctionNamespace's namespace to name|20230706|[Rename FunctionNamespace's namespace to name](./Rename FunctionNamespace's namespace to name-20230706.md)|
 |Move namespace to struct for scale service and delete function|20230706|[Move namespace to struct for scale service and delete function](./Move namespace to struct for scale service and delete function-20230706.md)|
+|Update default HTTP client transport settings|20260303|[Update default HTTP client transport settings](./Update default HTTP client transport settings-20260303.md)|
 |Graceful shutdown of bootstrap server|20231211|[Graceful shutdown of bootstrap server](./Graceful shutdown of bootstrap server-20231211.md)|
 |Update Go version to 1.23 and go.mod|20250127|[Update Go version to 1.23 and go.mod](./Update Go version to 1.23 and go.mod-20250127.md)|
 |Support ndjson streams for function invocations|20250623|[Support ndjson streams for function invocations](./Support ndjson streams for function invocations-20250623.md)|
