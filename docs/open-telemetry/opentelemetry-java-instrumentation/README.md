@@ -6,6 +6,7 @@
 |Version 2.19.0|20250817|[Version 2.19.0](./Version 2.19.0-20250817.md)|
 |Version 1.33.1|20240320|[Version 1.33.1](./Version 1.33.1-20240320.md)|
 |Version 1.33.4|20240619|[Version 1.33.4](./Version 1.33.4-20240619.md)|
+|Version 2.26.0|20260314|[Version 2.26.0](./Version 2.26.0-20260314.md)|
 |Version 2.15.0|20250410|[Version 2.15.0](./Version 2.15.0-20250410.md)|
 |Version 2.13.1|20250218|[Version 2.13.1](./Version 2.13.1-20250218.md)|
 |Version 2.17.1|20250709|[Version 2.17.1](./Version 2.17.1-20250709.md)|

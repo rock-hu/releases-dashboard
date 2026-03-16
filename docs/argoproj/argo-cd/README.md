@@ -19,6 +19,7 @@
 |v3.0.4|20250528|[v3.0.4](./v3.0.4-20250528.md)|
 |stable: Bump version to 3.3.2 on release-3.3 branch (#26550)|20260222|[stable: Bump version to 3.3.2 on release-3.3 branch (#26550)](./stable: Bump version to 3.3.2 on release-3.3 branch (#26550)-20260222.md)|
 |v3.3.0|20260211|[v3.3.0](./v3.3.0-20260211.md)|
+|stable: Bump version to 3.3.3 on release-3.3 branch (#26752)|20260309|[stable: Bump version to 3.3.3 on release-3.3 branch (#26752)](./stable: Bump version to 3.3.3 on release-3.3 branch (#26752)-20260309.md)|
 |v2.10.11|20240523|[v2.10.11](./v2.10.11-20240523.md)|
 |v3.2.0-rc2|20250930|[v3.2.0-rc2](./v3.2.0-rc2-20250930.md)|
 |stable: Bump version to 3.0.1 on release-3.0 branch (#22968)|20250514|[stable: Bump version to 3.0.1 on release-3.0 branch (#22968)](./stable: Bump version to 3.0.1 on release-3.0 branch (#22968)-20250514.md)|
@@ -124,6 +125,7 @@
 |v3.1.8|20250930|[v3.1.8](./v3.1.8-20250930.md)|
 |v3.2.0|20251104|[v3.2.0](./v3.2.0-20251104.md)|
 |v2.13.7|20250415|[v2.13.7](./v2.13.7-20250415.md)|
+|v3.3.3|20260309|[v3.3.3](./v3.3.3-20260309.md)|
 |v3.0.9: Bump version to 3.0.9 on release-3.0 branch (#23462)|20250617|[v3.0.9: Bump version to 3.0.9 on release-3.0 branch (#23462)](./v3.0.9: Bump version to 3.0.9 on release-3.0 branch (#23462)-20250617.md)|
 |v3.3.0|20260219|[v3.3.0](./v3.3.0-20260219.md)|
 |v2.11.14|20250908|[v2.11.14](./v2.11.14-20250908.md)|
