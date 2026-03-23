@@ -21,11 +21,13 @@
 |v1.7.2|20240814|[v1.7.2](./v1.7.2-20240814.md)|
 |v1.8.3|20250605|[v1.8.3](./v1.8.3-20250605.md)|
 |v1.8.0-rc2|20250116|[v1.8.0-rc2](./v1.8.0-rc2-20250116.md)|
+|v1.9.0|20260320|[v1.9.0](./v1.9.0-20260320.md)|
 |v1.7.0|20240613|[v1.7.0](./v1.7.0-20240613.md)|
 |v1.6.3|20231205|[v1.6.3](./v1.6.3-20231205.md)|
 |v1.9.0-rc1|20251126|[v1.9.0-rc1](./v1.9.0-rc1-20251126.md)|
 |stable: fix: verify the weight of the alb at the end of the rollout (#3627)|20240613|[stable: fix: verify the weight of the alb at the end of the rollout (#3627)](./stable: fix: verify the weight of the alb at the end of the rollout (#3627)-20240613.md)|
 |v1.7.0|20240614|[v1.7.0](./v1.7.0-20240614.md)|
+|stable|20260319|[stable](./stable-20260319.md)|
 |stable|20250602|[stable](./stable-20250602.md)|
 |v1.8.4|20260213|[v1.8.4](./v1.8.4-20260213.md)|
 |v1.9.0-rc3|20251128|[v1.9.0-rc3](./v1.9.0-rc3-20251128.md)|

@@ -26,6 +26,7 @@
 |Kubernetes v1.33.3|20250715|[Kubernetes v1.33.3](./Kubernetes v1.33.3-20250715.md)|
 |Kubernetes v1.32.11|20251216|[Kubernetes v1.32.11](./Kubernetes v1.32.11-20251216.md)|
 |v1.32.12|20260210|[v1.32.12](./v1.32.12-20260210.md)|
+|v1.36.0-beta.0|20260320|[v1.36.0-beta.0](./v1.36.0-beta.0-20260320.md)|
 |Kubernetes v1.32.0-rc.2|20241206|[Kubernetes v1.32.0-rc.2](./Kubernetes v1.32.0-rc.2-20241206.md)|
 |Kubernetes v1.31.0-alpha.1|20240613|[Kubernetes v1.31.0-alpha.1](./Kubernetes v1.31.0-alpha.1-20240613.md)|
 |Kubernetes v1.34.0-alpha.1|20250616|[Kubernetes v1.34.0-alpha.1](./Kubernetes v1.34.0-alpha.1-20250616.md)|
@@ -33,6 +34,7 @@
 |Kubernetes v1.31.12|20250813|[Kubernetes v1.31.12](./Kubernetes v1.31.12-20250813.md)|
 |Kubernetes v1.28.11|20240612|[Kubernetes v1.28.11](./Kubernetes v1.28.11-20240612.md)|
 |Kubernetes v1.34.1|20250910|[Kubernetes v1.34.1](./Kubernetes v1.34.1-20250910.md)|
+|v1.34.6|20260319|[v1.34.6](./v1.34.6-20260319.md)|
 |Kubernetes v1.30.2|20240612|[Kubernetes v1.30.2](./Kubernetes v1.30.2-20240612.md)|
 |Kubernetes v1.30.14|20250618|[Kubernetes v1.30.14](./Kubernetes v1.30.14-20250618.md)|
 |Kubernetes v1.32.10|20251112|[Kubernetes v1.32.10](./Kubernetes v1.32.10-20251112.md)|
@@ -51,9 +53,11 @@
 |Kubernetes v1.33.5|20250910|[Kubernetes v1.33.5](./Kubernetes v1.33.5-20250910.md)|
 |Kubernetes v1.31.13|20250910|[Kubernetes v1.31.13](./Kubernetes v1.31.13-20250910.md)|
 |v1.36.0-alpha.2|20260226|[v1.36.0-alpha.2](./v1.36.0-alpha.2-20260226.md)|
+|v1.33.10|20260319|[v1.33.10](./v1.33.10-20260319.md)|
 |Kubernetes v1.31.4|20241211|[Kubernetes v1.31.4](./Kubernetes v1.31.4-20241211.md)|
 |v1.34.0-alpha.0|20250408|[v1.34.0-alpha.0](./v1.34.0-alpha.0-20250408.md)|
 |Kubernetes v1.28.10|20240515|[Kubernetes v1.28.10](./Kubernetes v1.28.10-20240515.md)|
+|v1.35.3|20260319|[v1.35.3](./v1.35.3-20260319.md)|
 |Kubernetes v1.32.4|20250423|[Kubernetes v1.32.4](./Kubernetes v1.32.4-20250423.md)|
 |Kubernetes v1.33.6|20251112|[Kubernetes v1.33.6](./Kubernetes v1.33.6-20251112.md)|
 |Kubernetes v1.30.11|20250312|[Kubernetes v1.30.11](./Kubernetes v1.30.11-20250312.md)|
