@@ -51,6 +51,7 @@
 |argo-cd-9.2.1|20251224|[argo-cd-9.2.1](./argo-cd-9.2.1-20251224.md)|
 |argo-events-2.4.19|20251206|[argo-events-2.4.19](./argo-events-2.4.19-20251206.md)|
 |argocd-image-updater-0.10.2|20240614|[argocd-image-updater-0.10.2](./argocd-image-updater-0.10.2-20240614.md)|
+|argo-workflows-1.0.7|20260403|[argo-workflows-1.0.7](./argo-workflows-1.0.7-20260403.md)|
 |argo-cd-9.0.4|20251024|[argo-cd-9.0.4](./argo-cd-9.0.4-20251024.md)|
 |argo-workflows-0.45.28|20251113|[argo-workflows-0.45.28](./argo-workflows-0.45.28-20251113.md)|
 |argo-events-2.4.16|20250714|[argo-events-2.4.16](./argo-events-2.4.16-20250714.md)|
