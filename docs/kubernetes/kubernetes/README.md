@@ -21,6 +21,7 @@
 |Kubernetes v1.29.5|20240515|[Kubernetes v1.29.5](./Kubernetes v1.29.5-20240515.md)|
 |Kubernetes v1.32.0-rc.2|20241206|[Kubernetes v1.32.0-rc.2](./Kubernetes v1.32.0-rc.2-20241206.md)|
 |v1.34.0-alpha.0|20250408|[v1.34.0-alpha.0](./v1.34.0-alpha.0-20250408.md)|
+|v1.34.7|20260415|[v1.34.7](./v1.34.7-20260415.md)|
 |Kubernetes v1.31.3|20241121|[Kubernetes v1.31.3](./Kubernetes v1.31.3-20241121.md)|
 |Kubernetes v1.27.14|20240515|[Kubernetes v1.27.14](./Kubernetes v1.27.14-20240515.md)|
 |Kubernetes v1.33.0-rc.1|20250415|[Kubernetes v1.33.0-rc.1](./Kubernetes v1.33.0-rc.1-20250415.md)|
@@ -51,6 +52,7 @@
 |Kubernetes v1.31.14|20251112|[Kubernetes v1.31.14](./Kubernetes v1.31.14-20251112.md)|
 |Kubernetes v1.32.0|20241212|[Kubernetes v1.32.0](./Kubernetes v1.32.0-20241212.md)|
 |Kubernetes v1.35.0-alpha.3|20251105|[Kubernetes v1.35.0-alpha.3](./Kubernetes v1.35.0-alpha.3-20251105.md)|
+|v1.36.0-rc.1|20260415|[v1.36.0-rc.1](./v1.36.0-rc.1-20260415.md)|
 |Kubernetes v1.32.7|20250715|[Kubernetes v1.32.7](./Kubernetes v1.32.7-20250715.md)|
 |v1.36.0-alpha.2|20260226|[v1.36.0-alpha.2](./v1.36.0-alpha.2-20260226.md)|
 |Kubernetes v1.35.0-alpha.1|20251008|[Kubernetes v1.35.0-alpha.1](./Kubernetes v1.35.0-alpha.1-20251008.md)|
@@ -61,8 +63,10 @@
 |Kubernetes v1.34.0-alpha.1|20250616|[Kubernetes v1.34.0-alpha.1](./Kubernetes v1.34.0-alpha.1-20250616.md)|
 |Kubernetes v1.33.0-rc.0|20250409|[Kubernetes v1.33.0-rc.0](./Kubernetes v1.33.0-rc.0-20250409.md)|
 |Kubernetes v1.31.9|20250515|[Kubernetes v1.31.9](./Kubernetes v1.31.9-20250515.md)|
+|v1.35.4|20260415|[v1.35.4](./v1.35.4-20260415.md)|
 |Kubernetes v1.34.1|20250910|[Kubernetes v1.34.1](./Kubernetes v1.34.1-20250910.md)|
 |Kubernetes v1.33.1|20250515|[Kubernetes v1.33.1](./Kubernetes v1.33.1-20250515.md)|
+|v1.33.11|20260415|[v1.33.11](./v1.33.11-20260415.md)|
 |Kubernetes v1.33.0-alpha.2|20250218|[Kubernetes v1.33.0-alpha.2](./Kubernetes v1.33.0-alpha.2-20250218.md)|
 |Kubernetes v1.33.0-beta.0|20250311|[Kubernetes v1.33.0-beta.0](./Kubernetes v1.33.0-beta.0-20250311.md)|
 |Kubernetes v1.29.15|20250312|[Kubernetes v1.29.15](./Kubernetes v1.29.15-20250312.md)|

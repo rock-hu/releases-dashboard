@@ -18,6 +18,7 @@
 |Swagger-parser 2.1.20 released!|20240118|[Swagger-parser 2.1.20 released!](./Swagger-parser 2.1.20 released!-20240118.md)|
 |Swagger-parser 2.1.34 released!|20250916|[Swagger-parser 2.1.34 released!](./Swagger-parser 2.1.34 released!-20250916.md)|
 |Swagger-parser 2.1.18 released!|20231017|[Swagger-parser 2.1.18 released!](./Swagger-parser 2.1.18 released!-20231017.md)|
+|Swagger-parser 2.1.40 released!|20260414|[Swagger-parser 2.1.40 released!](./Swagger-parser 2.1.40 released!-20260414.md)|
 |Errored release (compiler release = 11) - use v2.1.18|20231017|[Errored release (compiler release = 11) - use v2.1.18](./Errored release (compiler release = 11) - use v2.1.18-20231017.md)|
 |Swagger-parser 2.1.19 released!|20231121|[Swagger-parser 2.1.19 released!](./Swagger-parser 2.1.19 released!-20231121.md)|
 |Swagger-parser 1.0.70 released!|20240327|[Swagger-parser 1.0.70 released!](./Swagger-parser 1.0.70 released!-20240327.md)|
@@ -27,6 +28,7 @@
 |Swagger-parser 2.1.37 released!|20251218|[Swagger-parser 2.1.37 released!](./Swagger-parser 2.1.37 released!-20251218.md)|
 |Swagger-parser 2.1.23 released!|20241023|[Swagger-parser 2.1.23 released!](./Swagger-parser 2.1.23 released!-20241023.md)|
 |Swagger-parser 2.1.28 released!|20250517|[Swagger-parser 2.1.28 released!](./Swagger-parser 2.1.28 released!-20250517.md)|
+|Swagger-parser 1.0.76 released!|20260414|[Swagger-parser 1.0.76 released!](./Swagger-parser 1.0.76 released!-20260414.md)|
 |Swagger-parser 2.1.24 released!|20241118|[Swagger-parser 2.1.24 released!](./Swagger-parser 2.1.24 released!-20241118.md)|
 |Swagger-parser 2.1.36 released!|20251124|[Swagger-parser 2.1.36 released!](./Swagger-parser 2.1.36 released!-20251124.md)|
 |Swagger-parser 1.0.75 released!|20250517|[Swagger-parser 1.0.75 released!](./Swagger-parser 1.0.75 released!-20250517.md)|

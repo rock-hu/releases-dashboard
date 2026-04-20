@@ -4,6 +4,7 @@
 |version|release date|changes|
 |---|---|---|
 |17.0.2 (March 22, 2021)|20210322|[17.0.2 (March 22, 2021)](./17.0.2 (March 22, 2021)-20210322.md)|
+|eslint-plugin-react-hooks@7.1.0 (April 16, 2026)|20260417|[eslint-plugin-react-hooks@7.1.0 (April 16, 2026)](./eslint-plugin-react-hooks@7.1.0 (April 16, 2026)-20260417.md)|
 |19.1.3 (December 11th, 2025)|20251211|[19.1.3 (December 11th, 2025)](./19.1.3 (December 11th, 2025)-20251211.md)|
 |19.0.5 (April 8th, 2026)|20260408|[19.0.5 (April 8th, 2026)](./19.0.5 (April 8th, 2026)-20260408.md)|
 |17.0.0 (October 20, 2020)|20201022|[17.0.0 (October 20, 2020)](./17.0.0 (October 20, 2020)-20201022.md)|
@@ -24,6 +25,7 @@
 |18.3.1 (April 26, 2024)|20240427|[18.3.1 (April 26, 2024)](./18.3.1 (April 26, 2024)-20240427.md)|
 |19.0.4 (January 26th, 2026)|20260126|[19.0.4 (January 26th, 2026)](./19.0.4 (January 26th, 2026)-20260126.md)|
 |18.3.0 (April 25, 2024)|20240427|[18.3.0 (April 25, 2024)](./18.3.0 (April 25, 2024)-20240427.md)|
+|eslint-plugin-react-hooks@7.1.1 (April 17, 2026)|20260417|[eslint-plugin-react-hooks@7.1.1 (April 17, 2026)](./eslint-plugin-react-hooks@7.1.1 (April 17, 2026)-20260417.md)|
 |19.1.6 (April 8th, 2026)|20260408|[19.1.6 (April 8th, 2026)](./19.1.6 (April 8th, 2026)-20260408.md)|
 |18.3.1 (April 26, 2024)|20240426|[18.3.1 (April 26, 2024)](./18.3.1 (April 26, 2024)-20240426.md)|
 |18.1.0 (April 26, 2022)|20220615|[18.1.0 (April 26, 2022)](./18.1.0 (April 26, 2022)-20220615.md)|

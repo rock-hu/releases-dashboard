@@ -12,6 +12,7 @@
 |Swagger-inflector 2.0.12 released!|20240408|[Swagger-inflector 2.0.12 released!](./Swagger-inflector 2.0.12 released!-20240408.md)|
 |Swagger-inflector 2.0.15 released!|20260217|[Swagger-inflector 2.0.15 released!](./Swagger-inflector 2.0.15 released!-20260217.md)|
 |Swagger-Inflector v1.0.25 Released!|20231017|[Swagger-Inflector v1.0.25 Released!](./Swagger-Inflector v1.0.25 Released!-20231017.md)|
+|Swagger-inflector 2.0.17 released!|20260414|[Swagger-inflector 2.0.17 released!](./Swagger-inflector 2.0.17 released!-20260414.md)|
 |Swagger-Inflector v1.0.22 Released!|20221017|[Swagger-Inflector v1.0.22 Released!](./Swagger-Inflector v1.0.22 Released!-20221017.md)|
 |Swagger-inflector 2.0.16 released!|20260331|[Swagger-inflector 2.0.16 released!](./Swagger-inflector 2.0.16 released!-20260331.md)|
 |Swagger-Inflector v1.0.24 Released!|20230928|[Swagger-Inflector v1.0.24 Released!](./Swagger-Inflector v1.0.24 Released!-20230928.md)|

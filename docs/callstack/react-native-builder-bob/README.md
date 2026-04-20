@@ -34,6 +34,7 @@
 |react-native-builder-bob@0.40.4|20250408|[react-native-builder-bob@0.40.4](./react-native-builder-bob@0.40.4-20250408.md)|
 |create-react-native-library@0.56.1|20260109|[create-react-native-library@0.56.1](./create-react-native-library@0.56.1-20260109.md)|
 |create-react-native-library@0.45.2|20241207|[create-react-native-library@0.45.2](./create-react-native-library@0.45.2-20241207.md)|
+|create-react-native-library@0.62.0|20260413|[create-react-native-library@0.62.0](./create-react-native-library@0.62.0-20260413.md)|
 |create-react-native-library@0.51.1|20250621|[create-react-native-library@0.51.1](./create-react-native-library@0.51.1-20250621.md)|
 |docs@0.7.0|20260401|[docs@0.7.0](./docs@0.7.0-20260401.md)|
 |docs@0.6.12|20260109|[docs@0.6.12](./docs@0.6.12-20260109.md)|
