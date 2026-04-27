@@ -37,6 +37,7 @@
 |jackson-modules-java8-3.0.0-rc1|20250308|[jackson-modules-java8-3.0.0-rc1](./jackson-modules-java8-3.0.0-rc1-20250308.md)|
 |jackson-modules-java8-2.17.0-rc1|20240227|[jackson-modules-java8-2.17.0-rc1](./jackson-modules-java8-2.17.0-rc1-20240227.md)|
 |jackson-modules-java8-2.15.2|20230531|[jackson-modules-java8-2.15.2](./jackson-modules-java8-2.15.2-20230531.md)|
+|jackson-modules-java8-2.18.7|20260424|[jackson-modules-java8-2.18.7](./jackson-modules-java8-2.18.7-20260424.md)|
 |jackson-modules-java8-2.21.1|20260223|[jackson-modules-java8-2.21.1](./jackson-modules-java8-2.21.1-20260223.md)|
 |jackson-modules-java8-2.19.0|20250425|[jackson-modules-java8-2.19.0](./jackson-modules-java8-2.19.0-20250425.md)|
 |jackson-modules-java8-2.18.0-rc1|20240830|[jackson-modules-java8-2.18.0-rc1](./jackson-modules-java8-2.18.0-rc1-20240830.md)|

@@ -25,6 +25,7 @@
 |jackson-datatypes-misc-parent-3.1.1|20260327|[jackson-datatypes-misc-parent-3.1.1](./jackson-datatypes-misc-parent-3.1.1-20260327.md)|
 |jackson-datatypes-misc-parent-3.0.0-rc3|20250414|[jackson-datatypes-misc-parent-3.0.0-rc3](./jackson-datatypes-misc-parent-3.0.0-rc3-20250414.md)|
 |jackson-datatypes-misc-parent-3.0.0-rc1|20250308|[jackson-datatypes-misc-parent-3.0.0-rc1](./jackson-datatypes-misc-parent-3.0.0-rc1-20250308.md)|
+|jackson-datatypes-misc-parent-2.18.7|20260424|[jackson-datatypes-misc-parent-2.18.7](./jackson-datatypes-misc-parent-2.18.7-20260424.md)|
 |jackson-datatypes-misc-parent-3.1.0|20260223|[jackson-datatypes-misc-parent-3.1.0](./jackson-datatypes-misc-parent-3.1.0-20260223.md)|
 |jackson-datatypes-misc-parent-2.17.3|20241101|[jackson-datatypes-misc-parent-2.17.3](./jackson-datatypes-misc-parent-2.17.3-20241101.md)|
 |jackson-datatypes-misc-parent-2.17.0|20240313|[jackson-datatypes-misc-parent-2.17.0](./jackson-datatypes-misc-parent-2.17.0-20240313.md)|

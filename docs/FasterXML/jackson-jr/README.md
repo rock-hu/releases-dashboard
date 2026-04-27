@@ -3,6 +3,7 @@
 
 |version|release date|changes|
 |---|---|---|
+|jackson-jr-parent-2.18.7|20260424|[jackson-jr-parent-2.18.7](./jackson-jr-parent-2.18.7-20260424.md)|
 |jackson-jr-parent-3.0.0-rc6|20250719|[jackson-jr-parent-3.0.0-rc6](./jackson-jr-parent-3.0.0-rc6-20250719.md)|
 |jackson-jr-parent-2.17.2|20240706|[jackson-jr-parent-2.17.2](./jackson-jr-parent-2.17.2-20240706.md)|
 |jackson-jr-parent-2.15.4|20240216|[jackson-jr-parent-2.15.4](./jackson-jr-parent-2.15.4-20240216.md)|

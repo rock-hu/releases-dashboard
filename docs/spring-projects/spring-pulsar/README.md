@@ -36,7 +36,9 @@
 |Spring Pulsar 1.0.10|20240917|[Spring Pulsar 1.0.10](./Spring Pulsar 1.0.10-20240917.md)|
 |v2.0.2|20260120|[v2.0.2](./v2.0.2-20260120.md)|
 |Spring Pulsar 1.0.3|20240220|[Spring Pulsar 1.0.3](./Spring Pulsar 1.0.3-20240220.md)|
+|v1.2.17|20260420|[v1.2.17](./v1.2.17-20260420.md)|
 |v2.0.0-M1|20250722|[v2.0.0-M1](./v2.0.0-M1-20250722.md)|
+|v2.0.5|20260420|[v2.0.5](./v2.0.5-20260420.md)|
 |Spring Pulsar 1.1.5|20241022|[Spring Pulsar 1.1.5](./Spring Pulsar 1.1.5-20241022.md)|
 |v2.0.0-M3|20251021|[v2.0.0-M3](./v2.0.0-M3-20251021.md)|
 |Spring Pulsar 1.2.3|20250217|[Spring Pulsar 1.2.3](./Spring Pulsar 1.2.3-20250217.md)|

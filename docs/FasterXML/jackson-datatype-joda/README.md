@@ -40,6 +40,7 @@
 |jackson-datatype-joda-3.0.0-rc8|20250813|[jackson-datatype-joda-3.0.0-rc8](./jackson-datatype-joda-3.0.0-rc8-20250813.md)|
 |jackson-datatype-joda-2.21.0|20260119|[jackson-datatype-joda-2.21.0](./jackson-datatype-joda-2.21.0-20260119.md)|
 |jackson-datatype-joda-2.17.3|20241101|[jackson-datatype-joda-2.17.3](./jackson-datatype-joda-2.17.3-20241101.md)|
+|jackson-datatype-joda-2.18.7|20260424|[jackson-datatype-joda-2.18.7](./jackson-datatype-joda-2.18.7-20260424.md)|
 |jackson-datatype-joda-2.16.1|20231224|[jackson-datatype-joda-2.16.1](./jackson-datatype-joda-2.16.1-20231224.md)|
 |jackson-datatype-joda-2.18.0|20240927|[jackson-datatype-joda-2.18.0](./jackson-datatype-joda-2.18.0-20240927.md)|
 |jackson-datatype-joda-2.20.1|20251031|[jackson-datatype-joda-2.20.1](./jackson-datatype-joda-2.20.1-20251031.md)|

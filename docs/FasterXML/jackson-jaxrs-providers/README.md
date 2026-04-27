@@ -44,6 +44,7 @@
 |jackson-jaxrs-providers-2.19.0|20250425|[jackson-jaxrs-providers-2.19.0](./jackson-jaxrs-providers-2.19.0-20250425.md)|
 |jackson-jaxrs-providers-2.20.1|20251031|[jackson-jaxrs-providers-2.20.1](./jackson-jaxrs-providers-2.20.1-20251031.md)|
 |jackson-jaxrs-providers-2.18.5|20251028|[jackson-jaxrs-providers-2.18.5](./jackson-jaxrs-providers-2.18.5-20251028.md)|
+|jackson-jaxrs-providers-2.18.7|20260424|[jackson-jaxrs-providers-2.18.7](./jackson-jaxrs-providers-2.18.7-20260424.md)|
 |jackson-jaxrs-providers-3.0.0|20251004|[jackson-jaxrs-providers-3.0.0](./jackson-jaxrs-providers-3.0.0-20251004.md)|
 |jackson-jaxrs-providers-3.0.0-rc8|20250813|[jackson-jaxrs-providers-3.0.0-rc8](./jackson-jaxrs-providers-3.0.0-rc8-20250813.md)|
 |jackson-jaxrs-providers-2.20.2|20260119|[jackson-jaxrs-providers-2.20.2](./jackson-jaxrs-providers-2.20.2-20260119.md)|
