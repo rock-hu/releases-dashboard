@@ -23,6 +23,7 @@
 |jackson-jaxrs-providers-3.0.4|20260122|[jackson-jaxrs-providers-3.0.4](./jackson-jaxrs-providers-3.0.4-20260122.md)|
 |jackson-jaxrs-providers-3.1.1|20260327|[jackson-jaxrs-providers-3.1.1](./jackson-jaxrs-providers-3.1.1-20260327.md)|
 |jackson-jaxrs-providers-3.1.0|20260223|[jackson-jaxrs-providers-3.1.0](./jackson-jaxrs-providers-3.1.0-20260223.md)|
+|jackson-jaxrs-providers-2.21.3|20260428|[jackson-jaxrs-providers-2.21.3](./jackson-jaxrs-providers-2.21.3-20260428.md)|
 |jackson-jaxrs-providers-2.19.3|20251029|[jackson-jaxrs-providers-2.19.3](./jackson-jaxrs-providers-2.19.3-20251029.md)|
 |jackson-jaxrs-providers-2.16.0-rc1|20231021|[jackson-jaxrs-providers-2.16.0-rc1](./jackson-jaxrs-providers-2.16.0-rc1-20231021.md)|
 |jackson-jaxrs-providers-2.18.0|20240927|[jackson-jaxrs-providers-2.18.0](./jackson-jaxrs-providers-2.18.0-20240927.md)|
@@ -51,6 +52,7 @@
 |jackson-jaxrs-providers-2.18.6|20260223|[jackson-jaxrs-providers-2.18.6](./jackson-jaxrs-providers-2.18.6-20260223.md)|
 |jackson-jaxrs-providers-2.21.0|20260119|[jackson-jaxrs-providers-2.21.0](./jackson-jaxrs-providers-2.21.0-20260119.md)|
 |jackson-jaxrs-providers-2.16.1|20231224|[jackson-jaxrs-providers-2.16.1](./jackson-jaxrs-providers-2.16.1-20231224.md)|
+|jackson-jaxrs-providers-3.1.3|20260501|[jackson-jaxrs-providers-3.1.3](./jackson-jaxrs-providers-3.1.3-20260501.md)|
 |jackson-jaxrs-providers-2.18.0-rc1|20240830|[jackson-jaxrs-providers-2.18.0-rc1](./jackson-jaxrs-providers-2.18.0-rc1-20240830.md)|
 |jackson-jaxrs-providers-3.0.0-rc7|20250808|[jackson-jaxrs-providers-3.0.0-rc7](./jackson-jaxrs-providers-3.0.0-rc7-20250808.md)|
 |jackson-jaxrs-providers-2.18.1|20241029|[jackson-jaxrs-providers-2.18.1](./jackson-jaxrs-providers-2.18.1-20241029.md)|

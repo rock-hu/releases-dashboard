@@ -37,6 +37,7 @@
 |jackson-datatypes-misc-parent-2.16.2|20240310|[jackson-datatypes-misc-parent-2.16.2](./jackson-datatypes-misc-parent-2.16.2-20240310.md)|
 |jackson-datatypes-misc-parent-3.0.2|20251107|[jackson-datatypes-misc-parent-3.0.2](./jackson-datatypes-misc-parent-3.0.2-20251107.md)|
 |jackson-datatypes-misc-parent-2.20.0-rc1|20250805|[jackson-datatypes-misc-parent-2.20.0-rc1](./jackson-datatypes-misc-parent-2.20.0-rc1-20250805.md)|
+|jackson-datatypes-misc-parent-3.1.3|20260501|[jackson-datatypes-misc-parent-3.1.3](./jackson-datatypes-misc-parent-3.1.3-20260501.md)|
 |jackson-datatypes-misc-parent-2.20.2|20260119|[jackson-datatypes-misc-parent-2.20.2](./jackson-datatypes-misc-parent-2.20.2-20260119.md)|
 |jackson-datatypes-misc-parent-2.17.1|20240505|[jackson-datatypes-misc-parent-2.17.1](./jackson-datatypes-misc-parent-2.17.1-20240505.md)|
 |jackson-datatypes-misc-parent-2.15.4|20240216|[jackson-datatypes-misc-parent-2.15.4](./jackson-datatypes-misc-parent-2.15.4-20240216.md)|
@@ -56,6 +57,7 @@
 |jackson-datatypes-misc-parent-2.19.0-rc2|20250408|[jackson-datatypes-misc-parent-2.19.0-rc2](./jackson-datatypes-misc-parent-2.19.0-rc2-20250408.md)|
 |jackson-datatypes-misc-parent-3.0.1|20251022|[jackson-datatypes-misc-parent-3.0.1](./jackson-datatypes-misc-parent-3.0.1-20251022.md)|
 |jackson-datatypes-misc-parent-2.17.2|20240706|[jackson-datatypes-misc-parent-2.17.2](./jackson-datatypes-misc-parent-2.17.2-20240706.md)|
+|jackson-datatypes-misc-parent-2.21.3|20260428|[jackson-datatypes-misc-parent-2.21.3](./jackson-datatypes-misc-parent-2.21.3-20260428.md)|
 |jackson-datatypes-misc-parent-2.21.0|20260119|[jackson-datatypes-misc-parent-2.21.0](./jackson-datatypes-misc-parent-2.21.0-20260119.md)|
 |jackson-datatypes-misc-parent-2.18.2|20241128|[jackson-datatypes-misc-parent-2.18.2](./jackson-datatypes-misc-parent-2.18.2-20241128.md)|
 |jackson-datatypes-misc-parent-2.15.2|20230531|[jackson-datatypes-misc-parent-2.15.2](./jackson-datatypes-misc-parent-2.15.2-20230531.md)|

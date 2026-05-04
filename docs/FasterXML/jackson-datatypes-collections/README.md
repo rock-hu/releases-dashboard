@@ -12,6 +12,7 @@
 |jackson-datatypes-collections-3.0.0-rc6|20250719|[jackson-datatypes-collections-3.0.0-rc6](./jackson-datatypes-collections-3.0.0-rc6-20250719.md)|
 |jackson-datatypes-collections-2.17.0-rc1|20240227|[jackson-datatypes-collections-2.17.0-rc1](./jackson-datatypes-collections-2.17.0-rc1-20240227.md)|
 |jackson-datatypes-collections-3.0.0-rc8|20250813|[jackson-datatypes-collections-3.0.0-rc8](./jackson-datatypes-collections-3.0.0-rc8-20250813.md)|
+|jackson-datatypes-collections-3.1.3|20260501|[jackson-datatypes-collections-3.1.3](./jackson-datatypes-collections-3.1.3-20260501.md)|
 |jackson-datatypes-collections-3.0.0-rc5|20250522|[jackson-datatypes-collections-3.0.0-rc5](./jackson-datatypes-collections-3.0.0-rc5-20250522.md)|
 |jackson-datatypes-collections-2.15.4|20240216|[jackson-datatypes-collections-2.15.4](./jackson-datatypes-collections-2.15.4-20240216.md)|
 |jackson-datatypes-collections-3.0.0-rc1|20250308|[jackson-datatypes-collections-3.0.0-rc1](./jackson-datatypes-collections-3.0.0-rc1-20250308.md)|
@@ -50,6 +51,7 @@
 |jackson-datatypes-collections-2.18.2|20241128|[jackson-datatypes-collections-2.18.2](./jackson-datatypes-collections-2.18.2-20241128.md)|
 |jackson-datatypes-collections-3.0.4|20260122|[jackson-datatypes-collections-3.0.4](./jackson-datatypes-collections-3.0.4-20260122.md)|
 |jackson-datatypes-collections-2.21.2|20260320|[jackson-datatypes-collections-2.21.2](./jackson-datatypes-collections-2.21.2-20260320.md)|
+|jackson-datatypes-collections-2.21.3|20260428|[jackson-datatypes-collections-2.21.3](./jackson-datatypes-collections-2.21.3-20260428.md)|
 |jackson-datatypes-collections-3.1.1|20260327|[jackson-datatypes-collections-3.1.1](./jackson-datatypes-collections-3.1.1-20260327.md)|
 |jackson-datatypes-collections-3.0.0-rc10|20250920|[jackson-datatypes-collections-3.0.0-rc10](./jackson-datatypes-collections-3.0.0-rc10-20250920.md)|
 |jackson-datatypes-collections-3.0.3|20251128|[jackson-datatypes-collections-3.0.3](./jackson-datatypes-collections-3.0.3-20251128.md)|

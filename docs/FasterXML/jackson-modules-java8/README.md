@@ -15,6 +15,7 @@
 |jackson-modules-java8-2.19.3|20251029|[jackson-modules-java8-2.19.3](./jackson-modules-java8-2.19.3-20251029.md)|
 |jackson-modules-java8-2.17.1|20240505|[jackson-modules-java8-2.17.1](./jackson-modules-java8-2.17.1-20240505.md)|
 |jackson-modules-java8-2.19.4|20251030|[jackson-modules-java8-2.19.4](./jackson-modules-java8-2.19.4-20251030.md)|
+|jackson-modules-java8-2.21.3|20260428|[jackson-modules-java8-2.21.3](./jackson-modules-java8-2.21.3-20260428.md)|
 |jackson-modules-java8-2.18.6|20260222|[jackson-modules-java8-2.18.6](./jackson-modules-java8-2.18.6-20260222.md)|
 |jackson-modules-java8-2.20.2|20260119|[jackson-modules-java8-2.20.2](./jackson-modules-java8-2.20.2-20260119.md)|
 |jackson-modules-java8-2.18.1|20241029|[jackson-modules-java8-2.18.1](./jackson-modules-java8-2.18.1-20241029.md)|

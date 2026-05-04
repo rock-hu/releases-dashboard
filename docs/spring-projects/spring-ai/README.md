@@ -30,6 +30,7 @@
 |v1.0.0|20250519|[v1.0.0](./v1.0.0-20250519.md)|
 |v1.0.0-M1|20240528|[v1.0.0-M1](./v1.0.0-M1-20240528.md)|
 |Spring AI 1.1.3 Release|20260317|[Spring AI 1.1.3 Release](./Spring AI 1.1.3 Release-20260317.md)|
+|Spring AI 2.0.0-M5|20260427|[Spring AI 2.0.0-M5](./Spring AI 2.0.0-M5-20260427.md)|
 |v0.8.1|20240312|[v0.8.1](./v0.8.1-20240312.md)|
 |v0.8.0|20240227|[v0.8.0](./v0.8.0-20240227.md)|
 |v1.0.0-M6|20250214|[v1.0.0-M6](./v1.0.0-M6-20250214.md)|
@@ -39,6 +40,7 @@
 |Spring AI 2.0.0-M1|20251212|[Spring AI 2.0.0-M1](./Spring AI 2.0.0-M1-20251212.md)|
 |Spring AI 2.0.0-M2|20260123|[Spring AI 2.0.0-M2](./Spring AI 2.0.0-M2-20260123.md)|
 |v1.0.0-RC1: Update Spring AI BOM to RC1|20250513|[v1.0.0-RC1: Update Spring AI BOM to RC1](./v1.0.0-RC1: Update Spring AI BOM to RC1-20250513.md)|
+|Spring AI 1.1.5|20260427|[Spring AI 1.1.5](./Spring AI 1.1.5-20260427.md)|
 |Spring AI 1.0.5|20260326|[Spring AI 1.0.5](./Spring AI 1.0.5-20260326.md)|
 |Spring AI 2.0.0-M4|20260326|[Spring AI 2.0.0-M4](./Spring AI 2.0.0-M4-20260326.md)|
 |v1.0.0-M3|20241020|[v1.0.0-M3](./v1.0.0-M3-20241020.md)|
@@ -46,3 +48,4 @@
 |Spring AI 1.1.0-M1|20250909|[Spring AI 1.1.0-M1](./Spring AI 1.1.0-M1-20250909.md)|
 |Spring AI 2.0.0-M3|20260317|[Spring AI 2.0.0-M3](./Spring AI 2.0.0-M3-20260317.md)|
 |Spring AI 1.1.0-M2|20250922|[Spring AI 1.1.0-M2](./Spring AI 1.1.0-M2-20250922.md)|
+|Spring AI 1.0.6 - Bug fixes|20260427|[Spring AI 1.0.6 - Bug fixes](./Spring AI 1.0.6 - Bug fixes-20260427.md)|

@@ -1,0 +1,11 @@
+# Swagger-parser 2.1.41 released!
+
+## release on 20260428
+## description
+## changes
+* Bump org.jacoco:jacoco-maven-plugin from 0.8.11 to 0.8.14 (<a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="4265088391" data-permission-text="Title is private" data-url="https://github.com/swagger-api/swagger-parser/issues/2317" data-hovercard-type="pull_request" data-hovercard-url="/swagger-api/swagger-parser/pull/2317/hovercard" href="https://github.com/swagger-api/swagger-parser/pull/2317">#2317</a>)
+* chore: update v2 parser to 1.0.76 (<a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="4262091636" data-permission-text="Title is private" data-url="https://github.com/swagger-api/swagger-parser/issues/2314" data-hovercard-type="pull_request" data-hovercard-url="/swagger-api/swagger-parser/pull/2314/hovercard" href="https://github.com/swagger-api/swagger-parser/pull/2314">#2314</a>)
+* Prevent <code>StackOverflowError</code> in <code>ResolverFully</code> (<a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="4128793731" data-permission-text="Title is private" data-url="https://github.com/swagger-api/swagger-parser/issues/2297" data-hovercard-type="pull_request" data-hovercard-url="/swagger-api/swagger-parser/pull/2297/hovercard" href="https://github.com/swagger-api/swagger-parser/pull/2297">#2297</a>)
+* Fix thread-safety bug in OpenAPIDereferencer31 (<a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="4118422858" data-permission-text="Title is private" data-url="https://github.com/swagger-api/swagger-parser/issues/2294" data-hovercard-type="pull_request" data-hovercard-url="/swagger-api/swagger-parser/pull/2294/hovercard" href="https://github.com/swagger-api/swagger-parser/pull/2294">#2294</a>)
+* fix(converter): keep x-nullable in shared $ref responses (<a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3968909446" data-permission-text="Title is private" data-url="https://github.com/swagger-api/swagger-parser/issues/2276" data-hovercard-type="pull_request" data-hovercard-url="/swagger-api/swagger-parser/pull/2276/hovercard" href="https://github.com/swagger-api/swagger-parser/pull/2276">#2276</a>)
+

@@ -12,6 +12,7 @@
 |zalando-cloud-aws-3.2.1|20251127|[zalando-cloud-aws-3.2.1](./zalando-cloud-aws-3.2.1-20251127.md)|
 |Release 3.3|20191127|[Release 3.3](./Release 3.3-20191127.md)|
 |Release 5.0|20191127|[Release 5.0](./Release 5.0-20191127.md)|
+|zalando-cloud-aws-4.0.0|20260427|[zalando-cloud-aws-4.0.0](./zalando-cloud-aws-4.0.0-20260427.md)|
 |zalando-cloud-aws-3.2.1|20250107|[zalando-cloud-aws-3.2.1](./zalando-cloud-aws-3.2.1-20250107.md)|
 |Release 4.3|20191127|[Release 4.3](./Release 4.3-20191127.md)|
 |zalando-cloud-aws-3.3.2|20251127|[zalando-cloud-aws-3.3.2](./zalando-cloud-aws-3.3.2-20251127.md)|
