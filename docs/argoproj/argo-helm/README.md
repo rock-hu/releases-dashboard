@@ -158,7 +158,9 @@
 |argo-cd-9.1.2|20251113|[argo-cd-9.1.2](./argo-cd-9.1.2-20251113.md)|
 |argo-cd-8.1.1|20250618|[argo-cd-8.1.1](./argo-cd-8.1.1-20250618.md)|
 |argo-cd-8.3.0|20250814|[argo-cd-8.3.0](./argo-cd-8.3.0-20250814.md)|
+|argo-cd-9.5.13|20260508|[argo-cd-9.5.13](./argo-cd-9.5.13-20260508.md)|
 |argo-cd-9.2.4|20260102|[argo-cd-9.2.4](./argo-cd-9.2.4-20260102.md)|
+|argo-cd-9.5.12|20260506|[argo-cd-9.5.12](./argo-cd-9.5.12-20260506.md)|
 |argo-cd-8.5.3|20250920|[argo-cd-8.5.3](./argo-cd-8.5.3-20250920.md)|
 |argo-cd-8.0.14|20250530|[argo-cd-8.0.14](./argo-cd-8.0.14-20250530.md)|
 |argocd-image-updater-1.1.5|20260408|[argocd-image-updater-1.1.5](./argocd-image-updater-1.1.5-20260408.md)|

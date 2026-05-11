@@ -11,6 +11,7 @@
 |Release 5.13.3|20250417|[Release 5.13.3](./Release 5.13.3-20250417.md)|
 |Release 5.14.2|20250513|[Release 5.14.2](./Release 5.14.2-20250513.md)|
 |Release 5.14.3|20250513|[Release 5.14.3](./Release 5.14.3-20250513.md)|
+|Release 5.15.2|20260508|[Release 5.15.2](./Release 5.15.2-20260508.md)|
 |Release 5.14.5|20250520|[Release 5.14.5](./Release 5.14.5-20250520.md)|
 |Release 5.13.2|20250416|[Release 5.13.2](./Release 5.13.2-20250416.md)|
 |Release 5.13.5|20250425|[Release 5.13.5](./Release 5.13.5-20250425.md)|
