@@ -7,6 +7,8 @@
 |Spring AI 2.0.0-M5|20260427|[Spring AI 2.0.0-M5](./Spring AI 2.0.0-M5-20260427.md)|
 |v1.0.0-M2|20240824|[v1.0.0-M2](./v1.0.0-M2-20240824.md)|
 |v1.0.0-SNAPSHOT-before-chatclient-changes|20240523|[v1.0.0-SNAPSHOT-before-chatclient-changes](./v1.0.0-SNAPSHOT-before-chatclient-changes-20240523.md)|
+|Spring AI 2.0.0-M7|20260522|[Spring AI 2.0.0-M7](./Spring AI 2.0.0-M7-20260522.md)|
+|Spring AI 1.1.7|20260522|[Spring AI 1.1.7](./Spring AI 1.1.7-20260522.md)|
 |v1.0.1|20250728|[v1.0.1](./v1.0.1-20250728.md)|
 |v1.1.0-M4|20251101|[v1.1.0-M4](./v1.1.0-M4-20251101.md)|
 |Spring AI 1.1.0-M1|20250909|[Spring AI 1.1.0-M1](./Spring AI 1.1.0-M1-20250909.md)|
@@ -30,6 +32,7 @@
 |v1.0.0-M3|20241020|[v1.0.0-M3](./v1.0.0-M3-20241020.md)|
 |v1.1.0-M3|20251003|[v1.1.0-M3](./v1.1.0-M3-20251003.md)|
 |Spring AI 1.1.1|20251205|[Spring AI 1.1.1](./Spring AI 1.1.1-20251205.md)|
+|Spring AI 1.0.8|20260522|[Spring AI 1.0.8](./Spring AI 1.0.8-20260522.md)|
 |Spring AI 1.1.0|20251112|[Spring AI 1.1.0](./Spring AI 1.1.0-20251112.md)|
 |Spring AI 1.1.0-M4|20251103|[Spring AI 1.1.0-M4](./Spring AI 1.1.0-M4-20251103.md)|
 |v1.0.0-M3|20241021|[v1.0.0-M3](./v1.0.0-M3-20241021.md)|

@@ -3,6 +3,7 @@
 
 |version|release date|changes|
 |---|---|---|
+|Version 2.28.1|20260520|[Version 2.28.1](./Version 2.28.1-20260520.md)|
 |Version 2.20.1|20250922|[Version 2.20.1](./Version 2.20.1-20250922.md)|
 |Version 2.17.1|20250709|[Version 2.17.1](./Version 2.17.1-20250709.md)|
 |Version 2.19.0|20250817|[Version 2.19.0](./Version 2.19.0-20250817.md)|
@@ -15,6 +16,7 @@
 |Version 2.6.0|20240717|[Version 2.6.0](./Version 2.6.0-20240717.md)|
 |Version 2.5.0|20240618|[Version 2.5.0](./Version 2.5.0-20240618.md)|
 |Version 2.23.0|20251213|[Version 2.23.0](./Version 2.23.0-20251213.md)|
+|Version 2.28.0|20260519|[Version 2.28.0](./Version 2.28.0-20260519.md)|
 |Version 2.21.0|20251018|[Version 2.21.0](./Version 2.21.0-20251018.md)|
 |Version 2.11.0|20250204|[Version 2.11.0](./Version 2.11.0-20250204.md)|
 |Version 1.33.0|20240229|[Version 1.33.0](./Version 1.33.0-20240229.md)|
