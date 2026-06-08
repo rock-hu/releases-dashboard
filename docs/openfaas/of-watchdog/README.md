@@ -30,6 +30,7 @@
 |Copy upstream response into http writer|20240716|[Copy upstream response into http writer](./Copy upstream response into http writer-20240716.md)|
 |Log to stderr in forking mode|20230531|[Log to stderr in forking mode](./Log to stderr in forking mode-20230531.md)|
 |Add log_callid option for HTTP server responses|20240426|[Add log_callid option for HTTP server responses](./Add log_callid option for HTTP server responses-20240426.md)|
+|Bump dependencies in go.mod for maintenance|20260604|[Bump dependencies in go.mod for maintenance](./Bump dependencies in go.mod for maintenance-20260604.md)|
 |Bump dependencies in go.mod|20260301|[Bump dependencies in go.mod](./Bump dependencies in go.mod-20260301.md)|
 |Bump CI to Go 1.25|20251112|[Bump CI to Go 1.25](./Bump CI to Go 1.25-20251112.md)|
 | Only log about JWT Auth when it is enabled|20240903|[ Only log about JWT Auth when it is enabled](./ Only log about JWT Auth when it is enabled-20240903.md)|

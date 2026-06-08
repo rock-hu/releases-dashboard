@@ -114,6 +114,7 @@
 |argo-workflows-0.45.27|20251014|[argo-workflows-0.45.27](./argo-workflows-0.45.27-20251014.md)|
 |argo-cd-8.0.10|20250525|[argo-cd-8.0.10](./argo-cd-8.0.10-20250525.md)|
 |argo-cd-8.5.7|20250927|[argo-cd-8.5.7](./argo-cd-8.5.7-20250927.md)|
+|argo-rollouts-2.41.0|20260605|[argo-rollouts-2.41.0](./argo-rollouts-2.41.0-20260605.md)|
 |argo-cd-8.5.0|20250916|[argo-cd-8.5.0](./argo-cd-8.5.0-20250916.md)|
 |argo-cd-8.0.3|20250515|[argo-cd-8.0.3](./argo-cd-8.0.3-20250515.md)|
 |argo-cd-8.0.13|20250530|[argo-cd-8.0.13](./argo-cd-8.0.13-20250530.md)|
@@ -173,11 +174,13 @@
 |argo-cd-8.0.5|20250519|[argo-cd-8.0.5](./argo-cd-8.0.5-20250519.md)|
 |argo-events-2.4.20|20260122|[argo-events-2.4.20](./argo-events-2.4.20-20260122.md)|
 |argo-rollouts-2.40.8|20260321|[argo-rollouts-2.40.8](./argo-rollouts-2.40.8-20260321.md)|
+|argo-cd-9.5.19|20260604|[argo-cd-9.5.19](./argo-cd-9.5.19-20260604.md)|
 |argo-cd-8.0.9|20250522|[argo-cd-8.0.9](./argo-cd-8.0.9-20250522.md)|
 |argo-workflows-0.46.2|20251209|[argo-workflows-0.46.2](./argo-workflows-0.46.2-20251209.md)|
 |argo-cd-8.2.3|20250728|[argo-cd-8.2.3](./argo-cd-8.2.3-20250728.md)|
 |argo-workflows-0.45.21|20250723|[argo-workflows-0.45.21](./argo-workflows-0.45.21-20250723.md)|
 |argo-cd-8.2.4|20250730|[argo-cd-8.2.4](./argo-cd-8.2.4-20250730.md)|
+|argo-cd-9.5.18|20260604|[argo-cd-9.5.18](./argo-cd-9.5.18-20260604.md)|
 |argo-events-2.4.6|20240614|[argo-events-2.4.6](./argo-events-2.4.6-20240614.md)|
 |argo-cd-9.1.0|20251104|[argo-cd-9.1.0](./argo-cd-9.1.0-20251104.md)|
 |argo-workflows-1.0.4|20260319|[argo-workflows-1.0.4](./argo-workflows-1.0.4-20260319.md)|
@@ -231,6 +234,7 @@
 |argo-cd-9.4.4|20260222|[argo-cd-9.4.4](./argo-cd-9.4.4-20260222.md)|
 |argo-workflows-0.47.2|20260130|[argo-workflows-0.47.2](./argo-workflows-0.47.2-20260130.md)|
 |argo-cd-7.8.22|20250403|[argo-cd-7.8.22](./argo-cd-7.8.22-20250403.md)|
+|argo-cd-9.5.20|20260607|[argo-cd-9.5.20](./argo-cd-9.5.20-20260607.md)|
 |argo-workflows-0.45.13|20250430|[argo-workflows-0.45.13](./argo-workflows-0.45.13-20250430.md)|
 |argo-workflows-0.45.19|20250620|[argo-workflows-0.45.19](./argo-workflows-0.45.19-20250620.md)|
 |argo-cd-9.5.4|20260422|[argo-cd-9.5.4](./argo-cd-9.5.4-20260422.md)|

@@ -3,6 +3,7 @@
 
 |version|release date|changes|
 |---|---|---|
+|Version 1.63.0|20260605|[Version 1.63.0](./Version 1.63.0-20260605.md)|
 |Version 1.32.0|20231114|[Version 1.32.0](./Version 1.32.0-20231114.md)|
 |Version 1.60.0|20260306|[Version 1.60.0](./Version 1.60.0-20260306.md)|
 |Version 1.56.0|20251107|[Version 1.56.0](./Version 1.56.0-20251107.md)|
