@@ -8,6 +8,7 @@
 |Version 2.18.0|20250718|[Version 2.18.0](./Version 2.18.0-20250718.md)|
 |Version 2.24.0|20260117|[Version 2.24.0](./Version 2.24.0-20260117.md)|
 |Version 2.14.0|20250314|[Version 2.14.0](./Version 2.14.0-20250314.md)|
+|Version 2.29.0|20260619|[Version 2.29.0](./Version 2.29.0-20260619.md)|
 |Version 2.22.0|20251120|[Version 2.22.0](./Version 2.22.0-20251120.md)|
 |Version 2.5.0|20240618|[Version 2.5.0](./Version 2.5.0-20240618.md)|
 |Version 2.13.0|20250217|[Version 2.13.0](./Version 2.13.0-20250217.md)|

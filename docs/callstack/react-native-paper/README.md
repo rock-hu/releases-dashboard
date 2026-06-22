@@ -3,6 +3,7 @@
 
 |version|release date|changes|
 |---|---|---|
+|Release 6.0.0-alpha.0|20260615|[Release 6.0.0-alpha.0](./Release 6.0.0-alpha.0-20260615.md)|
 |Release 5.14.0|20250430|[Release 5.14.0](./Release 5.14.0-20250430.md)|
 |Release 5.14.3|20250513|[Release 5.14.3](./Release 5.14.3-20250513.md)|
 |Release 5.15.2|20260508|[Release 5.15.2](./Release 5.15.2-20260508.md)|

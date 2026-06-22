@@ -63,6 +63,7 @@
 |v3.2.0-rc4|20251021|[v3.2.0-rc4](./v3.2.0-rc4-20251021.md)|
 |stable: Bump version to 3.0.6 on release-3.0 branch (#23336)|20250609|[stable: Bump version to 3.0.6 on release-3.0 branch (#23336)](./stable: Bump version to 3.0.6 on release-3.0 branch (#23336)-20250609.md)|
 |v3.0.16|20250905|[v3.0.16](./v3.0.16-20250905.md)|
+|v3.5.0-rc1|20260616|[v3.5.0-rc1](./v3.5.0-rc1-20260616.md)|
 |v3.0.8: Bump version to 3.0.8 on release-3.0 branch (#23451)|20250617|[v3.0.8: Bump version to 3.0.8 on release-3.0 branch (#23451)](./v3.0.8: Bump version to 3.0.8 on release-3.0 branch (#23451)-20250617.md)|
 |v3.1.0-rc4: Bump version to 3.1.0-rc4 on release-3.1 branch (#23935)|20250725|[v3.1.0-rc4: Bump version to 3.1.0-rc4 on release-3.1 branch (#23935)](./v3.1.0-rc4: Bump version to 3.1.0-rc4 on release-3.1 branch (#23935)-20250725.md)|
 |v3.0.17|20250918|[v3.0.17](./v3.0.17-20250918.md)|
@@ -96,6 +97,7 @@
 |v2.12.12|20250415|[v2.12.12](./v2.12.12-20250415.md)|
 |stable: Bump version to 3.0.3 on release-3.0 branch (#23087)|20250521|[stable: Bump version to 3.0.3 on release-3.0 branch (#23087)](./stable: Bump version to 3.0.3 on release-3.0 branch (#23087)-20250521.md)|
 |v3.1.13|20260325|[v3.1.13](./v3.1.13-20260325.md)|
+|stable|20260618|[stable](./stable-20260618.md)|
 |v3.3.3|20260316|[v3.3.3](./v3.3.3-20260316.md)|
 |v2.14.0-rc3|20241219|[v2.14.0-rc3](./v2.14.0-rc3-20241219.md)|
 |v3.4.0-rc2|20260319|[v3.4.0-rc2](./v3.4.0-rc2-20260319.md)|
@@ -130,6 +132,7 @@
 |v2.12.13|20250908|[v2.12.13](./v2.12.13-20250908.md)|
 |v2.14.17|20250904|[v2.14.17](./v2.14.17-20250904.md)|
 |v2.14.8|20250324|[v2.14.8](./v2.14.8-20250324.md)|
+|v3.3.12|20260618|[v3.3.12](./v3.3.12-20260618.md)|
 |stable: Bump version to 3.1.4 on release-3.1 branch (#24424)|20250905|[stable: Bump version to 3.1.4 on release-3.1 branch (#24424)](./stable: Bump version to 3.1.4 on release-3.1 branch (#24424)-20250905.md)|
 |v3.2.8|20260326|[v3.2.8](./v3.2.8-20260326.md)|
 |stable: Bump version to 3.2.2 on release-3.2 branch (#25729)|20251218|[stable: Bump version to 3.2.2 on release-3.2 branch (#25729)](./stable: Bump version to 3.2.2 on release-3.2 branch (#25729)-20251218.md)|
@@ -165,6 +168,7 @@
 |v3.0.23|20260122|[v3.0.23](./v3.0.23-20260122.md)|
 |v3.0.21|20260101|[v3.0.21](./v3.0.21-20260101.md)|
 |v2.14.14|20250609|[v2.14.14](./v2.14.14-20250609.md)|
+|v3.4.4|20260618|[v3.4.4](./v3.4.4-20260618.md)|
 |stable: Bump version to 3.3.6 on release-3.3 branch (#27045)|20260327|[stable: Bump version to 3.3.6 on release-3.3 branch (#27045)](./stable: Bump version to 3.3.6 on release-3.3 branch (#27045)-20260327.md)|
 |stable: Bump version to 3.0.1 on release-3.0 branch (#22968)|20250514|[stable: Bump version to 3.0.1 on release-3.0 branch (#22968)](./stable: Bump version to 3.0.1 on release-3.0 branch (#22968)-20250514.md)|
 |v3.1.0-rc1|20250623|[v3.1.0-rc1](./v3.1.0-rc1-20250623.md)|
