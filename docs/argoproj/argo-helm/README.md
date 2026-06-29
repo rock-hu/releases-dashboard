@@ -10,6 +10,7 @@
 |argo-cd-9.3.7|20260127|[argo-cd-9.3.7](./argo-cd-9.3.7-20260127.md)|
 |argo-cd-7.9.1|20250506|[argo-cd-7.9.1](./argo-cd-7.9.1-20250506.md)|
 |argo-cd-9.2.0|20251223|[argo-cd-9.2.0](./argo-cd-9.2.0-20251223.md)|
+|argocd-image-updater-1.2.3|20260626|[argocd-image-updater-1.2.3](./argocd-image-updater-1.2.3-20260626.md)|
 |argo-cd-9.5.21|20260611|[argo-cd-9.5.21](./argo-cd-9.5.21-20260611.md)|
 |argocd-image-updater-1.0.2|20251210|[argocd-image-updater-1.0.2](./argocd-image-updater-1.0.2-20251210.md)|
 |argo-workflows-0.46.1|20251202|[argo-workflows-0.46.1](./argo-workflows-0.46.1-20251202.md)|
@@ -127,6 +128,7 @@
 |argo-workflows-1.0.10|20260416|[argo-workflows-1.0.10](./argo-workflows-1.0.10-20260416.md)|
 |argo-cd-8.0.2|20250514|[argo-cd-8.0.2](./argo-cd-8.0.2-20250514.md)|
 |argo-cd-8.0.9|20250522|[argo-cd-8.0.9](./argo-cd-8.0.9-20250522.md)|
+|argo-workflows-1.0.17|20260623|[argo-workflows-1.0.17](./argo-workflows-1.0.17-20260623.md)|
 |argo-workflows-1.0.3|20260318|[argo-workflows-1.0.3](./argo-workflows-1.0.3-20260318.md)|
 |argo-cd-9.5.15|20260521|[argo-cd-9.5.15](./argo-cd-9.5.15-20260521.md)|
 |argo-cd-9.1.2|20251113|[argo-cd-9.1.2](./argo-cd-9.1.2-20251113.md)|
@@ -139,6 +141,7 @@
 |argo-workflows-1.0.11|20260422|[argo-workflows-1.0.11](./argo-workflows-1.0.11-20260422.md)|
 |argo-cd-8.2.2|20250725|[argo-cd-8.2.2](./argo-cd-8.2.2-20250725.md)|
 |argo-cd-7.7.9|20241211|[argo-cd-7.7.9](./argo-cd-7.7.9-20241211.md)|
+|argo-cd-9.7.0|20260622|[argo-cd-9.7.0](./argo-cd-9.7.0-20260622.md)|
 |argo-rollouts-2.40.4|20250911|[argo-rollouts-2.40.4](./argo-rollouts-2.40.4-20250911.md)|
 |argo-cd-9.3.5|20260123|[argo-cd-9.3.5](./argo-cd-9.3.5-20260123.md)|
 |argo-cd-8.5.10|20251008|[argo-cd-8.5.10](./argo-cd-8.5.10-20251008.md)|
@@ -146,6 +149,7 @@
 |argocd-image-updater-1.1.5|20260408|[argocd-image-updater-1.1.5](./argocd-image-updater-1.1.5-20260408.md)|
 |argo-workflows-0.46.3|20260106|[argo-workflows-0.46.3](./argo-workflows-0.46.3-20260106.md)|
 |argo-cd-9.4.5|20260226|[argo-cd-9.4.5](./argo-cd-9.4.5-20260226.md)|
+|argocd-image-updater-1.2.4|20260626|[argocd-image-updater-1.2.4](./argocd-image-updater-1.2.4-20260626.md)|
 |argo-cd-7.1.1|20240602|[argo-cd-7.1.1](./argo-cd-7.1.1-20240602.md)|
 |argo-cd-8.0.17|20250610|[argo-cd-8.0.17](./argo-cd-8.0.17-20250610.md)|
 |argo-cd-9.5.16|20260528|[argo-cd-9.5.16](./argo-cd-9.5.16-20260528.md)|
@@ -155,6 +159,7 @@
 |argo-cd-8.0.12|20250529|[argo-cd-8.0.12](./argo-cd-8.0.12-20250529.md)|
 |argo-cd-9.6.0|20260620|[argo-cd-9.6.0](./argo-cd-9.6.0-20260620.md)|
 |argo-cd-7.8.21|20250402|[argo-cd-7.8.21](./argo-cd-7.8.21-20250402.md)|
+|argo-workflows-1.0.18|20260626|[argo-workflows-1.0.18](./argo-workflows-1.0.18-20260626.md)|
 |argo-cd-9.3.4|20260114|[argo-cd-9.3.4](./argo-cd-9.3.4-20260114.md)|
 |argo-events-2.4.6|20240614|[argo-events-2.4.6](./argo-events-2.4.6-20240614.md)|
 |argo-workflows-0.45.1|20241203|[argo-workflows-0.45.1](./argo-workflows-0.45.1-20241203.md)|
@@ -232,9 +237,11 @@
 |argo-workflows-0.45.28|20251113|[argo-workflows-0.45.28](./argo-workflows-0.45.28-20251113.md)|
 |argo-cd-9.5.19|20260604|[argo-cd-9.5.19](./argo-cd-9.5.19-20260604.md)|
 |argocd-image-updater-0.11.3|20241213|[argocd-image-updater-0.11.3](./argocd-image-updater-0.11.3-20241213.md)|
+|argo-cd-9.7.1|20260626|[argo-cd-9.7.1](./argo-cd-9.7.1-20260626.md)|
 |argo-cd-8.2.4|20250730|[argo-cd-8.2.4](./argo-cd-8.2.4-20250730.md)|
 |argo-cd-9.4.13|20260318|[argo-cd-9.4.13](./argo-cd-9.4.13-20260318.md)|
 |argo-cd-8.3.0|20250814|[argo-cd-8.3.0](./argo-cd-8.3.0-20250814.md)|
+|argo-cd-10.0.0|20260626|[argo-cd-10.0.0](./argo-cd-10.0.0-20260626.md)|
 |argo-workflows-0.45.12|20250403|[argo-workflows-0.45.12](./argo-workflows-0.45.12-20250403.md)|
 |argo-cd-9.5.1|20260416|[argo-cd-9.5.1](./argo-cd-9.5.1-20260416.md)|
 |argo-workflows-1.0.15|20260610|[argo-workflows-1.0.15](./argo-workflows-1.0.15-20260610.md)|
