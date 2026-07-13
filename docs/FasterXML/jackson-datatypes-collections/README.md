@@ -16,11 +16,13 @@
 |jackson-datatypes-collections-2.21.0|20260119|[jackson-datatypes-collections-2.21.0](./jackson-datatypes-collections-2.21.0-20260119.md)|
 |jackson-datatypes-collections-2.22.0|20260601|[jackson-datatypes-collections-2.22.0](./jackson-datatypes-collections-2.22.0-20260601.md)|
 |jackson-datatypes-collections-3.0.0-rc5|20250522|[jackson-datatypes-collections-3.0.0-rc5](./jackson-datatypes-collections-3.0.0-rc5-20250522.md)|
+|jackson-datatypes-collections-2.21.5|20260707|[jackson-datatypes-collections-2.21.5](./jackson-datatypes-collections-2.21.5-20260707.md)|
 |jackson-datatypes-collections-3.0.0-rc2|20250328|[jackson-datatypes-collections-3.0.0-rc2](./jackson-datatypes-collections-3.0.0-rc2-20250328.md)|
 |jackson-datatypes-collections-2.20.2|20260119|[jackson-datatypes-collections-2.20.2](./jackson-datatypes-collections-2.20.2-20260119.md)|
 |jackson-datatypes-collections-2.15.4|20240216|[jackson-datatypes-collections-2.15.4](./jackson-datatypes-collections-2.15.4-20240216.md)|
 |jackson-datatypes-collections-3.1.0-rc1|20260128|[jackson-datatypes-collections-3.1.0-rc1](./jackson-datatypes-collections-3.1.0-rc1-20260128.md)|
 |jackson-datatypes-collections-3.2.0|20260609|[jackson-datatypes-collections-3.2.0](./jackson-datatypes-collections-3.2.0-20260609.md)|
+|jackson-datatypes-collections-2.18.9|20260708|[jackson-datatypes-collections-2.18.9](./jackson-datatypes-collections-2.18.9-20260708.md)|
 |jackson-datatypes-collections-2.21.1|20260223|[jackson-datatypes-collections-2.21.1](./jackson-datatypes-collections-2.21.1-20260223.md)|
 |jackson-datatypes-collections-2.16.1|20231224|[jackson-datatypes-collections-2.16.1](./jackson-datatypes-collections-2.16.1-20231224.md)|
 |jackson-datatypes-collections-2.20.0|20250828|[jackson-datatypes-collections-2.20.0](./jackson-datatypes-collections-2.20.0-20250828.md)|
@@ -35,6 +37,7 @@
 |jackson-datatypes-collections-2.19.1|20250614|[jackson-datatypes-collections-2.19.1](./jackson-datatypes-collections-2.19.1-20250614.md)|
 |jackson-datatypes-collections-3.0.0|20251004|[jackson-datatypes-collections-3.0.0](./jackson-datatypes-collections-3.0.0-20251004.md)|
 |jackson-datatypes-collections-2.18.3|20250301|[jackson-datatypes-collections-2.18.3](./jackson-datatypes-collections-2.18.3-20250301.md)|
+|jackson-datatypes-collections-2.22.1|20260707|[jackson-datatypes-collections-2.22.1](./jackson-datatypes-collections-2.22.1-20260707.md)|
 |jackson-datatypes-collections-2.19.0-rc2|20250408|[jackson-datatypes-collections-2.19.0-rc2](./jackson-datatypes-collections-2.19.0-rc2-20250408.md)|
 |jackson-datatypes-collections-2.21.2|20260320|[jackson-datatypes-collections-2.21.2](./jackson-datatypes-collections-2.21.2-20260320.md)|
 |jackson-datatypes-collections-2.18.0-rc1|20240830|[jackson-datatypes-collections-2.18.0-rc1](./jackson-datatypes-collections-2.18.0-rc1-20240830.md)|
@@ -52,6 +55,7 @@
 |jackson-datatypes-collections-3.0.0-rc1|20250308|[jackson-datatypes-collections-3.0.0-rc1](./jackson-datatypes-collections-3.0.0-rc1-20250308.md)|
 |jackson-datatypes-collections-2.15.3|20231013|[jackson-datatypes-collections-2.15.3](./jackson-datatypes-collections-2.15.3-20231013.md)|
 |jackson-datatypes-collections-3.0.0-rc8|20250813|[jackson-datatypes-collections-3.0.0-rc8](./jackson-datatypes-collections-3.0.0-rc8-20250813.md)|
+|jackson-datatypes-collections-3.1.5|20260708|[jackson-datatypes-collections-3.1.5](./jackson-datatypes-collections-3.1.5-20260708.md)|
 |jackson-datatypes-collections-2.19.0|20250425|[jackson-datatypes-collections-2.19.0](./jackson-datatypes-collections-2.19.0-20250425.md)|
 |jackson-datatypes-collections-3.0.0-rc10|20250920|[jackson-datatypes-collections-3.0.0-rc10](./jackson-datatypes-collections-3.0.0-rc10-20250920.md)|
 |jackson-datatypes-collections-3.1.1|20260327|[jackson-datatypes-collections-3.1.1](./jackson-datatypes-collections-3.1.1-20260327.md)|
@@ -59,6 +63,7 @@
 |jackson-datatypes-collections-3.1.0|20260223|[jackson-datatypes-collections-3.1.0](./jackson-datatypes-collections-3.1.0-20260223.md)|
 |jackson-datatypes-collections-2.19.2|20250718|[jackson-datatypes-collections-2.19.2](./jackson-datatypes-collections-2.19.2-20250718.md)|
 |jackson-datatypes-collections-3.0.0-rc9|20250906|[jackson-datatypes-collections-3.0.0-rc9](./jackson-datatypes-collections-3.0.0-rc9-20250906.md)|
+|jackson-datatypes-collections-3.2.1|20260710|[jackson-datatypes-collections-3.2.1](./jackson-datatypes-collections-3.2.1-20260710.md)|
 |jackson-datatypes-collections-2.16.0|20231116|[jackson-datatypes-collections-2.16.0](./jackson-datatypes-collections-2.16.0-20231116.md)|
 |jackson-datatypes-collections-2.18.6|20260222|[jackson-datatypes-collections-2.18.6](./jackson-datatypes-collections-2.18.6-20260222.md)|
 |jackson-datatypes-collections-2.18.4|20250507|[jackson-datatypes-collections-2.18.4](./jackson-datatypes-collections-2.18.4-20250507.md)|

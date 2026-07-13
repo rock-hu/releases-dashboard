@@ -22,12 +22,15 @@
 |jackson-modules-java8-2.18.6|20260222|[jackson-modules-java8-2.18.6](./jackson-modules-java8-2.18.6-20260222.md)|
 |jackson-modules-java8-2.20.0-rc1|20250805|[jackson-modules-java8-2.20.0-rc1](./jackson-modules-java8-2.20.0-rc1-20250805.md)|
 |jackson-modules-java8-3.0.0-rc2|20250328|[jackson-modules-java8-3.0.0-rc2](./jackson-modules-java8-3.0.0-rc2-20250328.md)|
+|jackson-modules-java8-2.22.1|20260707|[jackson-modules-java8-2.22.1](./jackson-modules-java8-2.22.1-20260707.md)|
 |jackson-modules-java8-2.19.3|20251029|[jackson-modules-java8-2.19.3](./jackson-modules-java8-2.19.3-20251029.md)|
 |jackson-modules-java8-2.21.2|20260320|[jackson-modules-java8-2.21.2](./jackson-modules-java8-2.21.2-20260320.md)|
 |jackson-modules-java8-2.18.0-rc1|20240830|[jackson-modules-java8-2.18.0-rc1](./jackson-modules-java8-2.18.0-rc1-20240830.md)|
 |jackson-modules-java8-2.15.3|20231013|[jackson-modules-java8-2.15.3](./jackson-modules-java8-2.15.3-20231013.md)|
+|jackson-modules-java8-2.21.5|20260707|[jackson-modules-java8-2.21.5](./jackson-modules-java8-2.21.5-20260707.md)|
 |jackson-modules-java8-2.17.0-rc1|20240227|[jackson-modules-java8-2.17.0-rc1](./jackson-modules-java8-2.17.0-rc1-20240227.md)|
 |jackson-modules-java8-2.17.3|20241102|[jackson-modules-java8-2.17.3](./jackson-modules-java8-2.17.3-20241102.md)|
+|jackson-modules-java8-2.18.9|20260708|[jackson-modules-java8-2.18.9](./jackson-modules-java8-2.18.9-20260708.md)|
 |jackson-modules-java8-2.18.1|20241029|[jackson-modules-java8-2.18.1](./jackson-modules-java8-2.18.1-20241029.md)|
 |jackson-modules-java8-2.20.0|20250828|[jackson-modules-java8-2.20.0](./jackson-modules-java8-2.20.0-20250828.md)|
 |jackson-modules-java8-2.20.2|20260119|[jackson-modules-java8-2.20.2](./jackson-modules-java8-2.20.2-20260119.md)|

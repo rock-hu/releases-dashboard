@@ -36,6 +36,7 @@
 |v1.35.2|20260227|[v1.35.2](./v1.35.2-20260227.md)|
 |Kubernetes v1.33.0-beta.0|20250311|[Kubernetes v1.33.0-beta.0](./Kubernetes v1.33.0-beta.0-20250311.md)|
 |v1.36.0-beta.0|20260320|[v1.36.0-beta.0](./v1.36.0-beta.0-20260320.md)|
+|v1.37.0-alpha.3|20260708|[v1.37.0-alpha.3](./v1.37.0-alpha.3-20260708.md)|
 |Kubernetes v1.34.0-rc.0|20250806|[Kubernetes v1.34.0-rc.0](./Kubernetes v1.34.0-rc.0-20250806.md)|
 |Kubernetes v1.34.0-alpha.1|20250616|[Kubernetes v1.34.0-alpha.1](./Kubernetes v1.34.0-alpha.1-20250616.md)|
 |v1.33.0-alpha.0|20241126|[v1.33.0-alpha.0](./v1.33.0-alpha.0-20241126.md)|

@@ -3,12 +3,14 @@
 
 |version|release date|changes|
 |---|---|---|
+|netty-4.1.136.Final|20260708|[netty-4.1.136.Final](./netty-4.1.136.Final-20260708.md)|
 |netty-4.2.7.Final|20251014|[netty-4.2.7.Final](./netty-4.2.7.Final-20251014.md)|
 |netty-4.1.116.Final|20241217|[netty-4.1.116.Final](./netty-4.1.116.Final-20241217.md)|
 |netty-4.2.0.Alpha5|20241009|[netty-4.2.0.Alpha5](./netty-4.2.0.Alpha5-20241009.md)|
 |netty-4.1.135.Final|20260605|[netty-4.1.135.Final](./netty-4.1.135.Final-20260605.md)|
 |netty-4.1.121.Final|20250424|[netty-4.1.121.Final](./netty-4.1.121.Final-20250424.md)|
 |netty-4.1.110.Final|20240522|[netty-4.1.110.Final](./netty-4.1.110.Final-20240522.md)|
+|netty-4.2.16.Final|20260707|[netty-4.2.16.Final](./netty-4.2.16.Final-20260707.md)|
 |netty-4.2.0.RC2|20250120|[netty-4.2.0.RC2](./netty-4.2.0.RC2-20250120.md)|
 |netty-4.1.123.Final|20250715|[netty-4.1.123.Final](./netty-4.1.123.Final-20250715.md)|
 |netty-4.2.12.Final|20260325|[netty-4.2.12.Final](./netty-4.2.12.Final-20260325.md)|

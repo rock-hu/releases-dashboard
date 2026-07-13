@@ -44,3 +44,4 @@
 |Version 1.60.0|20260306|[Version 1.60.0](./Version 1.60.0-20260306.md)|
 |Version 1.37.0|20240406|[Version 1.37.0](./Version 1.37.0-20240406.md)|
 |Version 1.60.1|20260308|[Version 1.60.1](./Version 1.60.1-20260308.md)|
+|Version 1.64.0|20260710|[Version 1.64.0](./Version 1.64.0-20260710.md)|

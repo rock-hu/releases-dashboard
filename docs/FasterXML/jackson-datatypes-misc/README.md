@@ -27,6 +27,7 @@
 |jackson-datatypes-misc-parent-2.17.0-rc1: [maven-release-plugin] copy for tag jackson-datatypes-misc-parent-2.1…|20240227|[jackson-datatypes-misc-parent-2.17.0-rc1: [maven-release-plugin] copy for tag jackson-datatypes-misc-parent-2.1…](./jackson-datatypes-misc-parent-2.17.0-rc1: [maven-release-plugin] copy for tag jackson-datatypes-misc-parent-2.1…-20240227.md)|
 |jackson-datatypes-misc-parent-3.0.0-rc1|20250308|[jackson-datatypes-misc-parent-3.0.0-rc1](./jackson-datatypes-misc-parent-3.0.0-rc1-20250308.md)|
 |jackson-datatypes-misc-parent-3.0.0-rc6|20250719|[jackson-datatypes-misc-parent-3.0.0-rc6](./jackson-datatypes-misc-parent-3.0.0-rc6-20250719.md)|
+|jackson-datatypes-misc-parent-2.18.9|20260708|[jackson-datatypes-misc-parent-2.18.9](./jackson-datatypes-misc-parent-2.18.9-20260708.md)|
 |jackson-datatypes-misc-parent-2.21.2|20260320|[jackson-datatypes-misc-parent-2.21.2](./jackson-datatypes-misc-parent-2.21.2-20260320.md)|
 |jackson-datatypes-misc-parent-3.0.0-rc3|20250414|[jackson-datatypes-misc-parent-3.0.0-rc3](./jackson-datatypes-misc-parent-3.0.0-rc3-20250414.md)|
 |jackson-datatypes-misc-parent-2.21.4|20260529|[jackson-datatypes-misc-parent-2.21.4](./jackson-datatypes-misc-parent-2.21.4-20260529.md)|
@@ -58,11 +59,15 @@
 |jackson-datatypes-misc-parent-2.18.0|20240927|[jackson-datatypes-misc-parent-2.18.0](./jackson-datatypes-misc-parent-2.18.0-20240927.md)|
 |jackson-datatypes-misc-parent-2.16.0-rc1: [maven-release-plugin] copy for tag jackson-datatypes-misc-parent-2.1…|20231021|[jackson-datatypes-misc-parent-2.16.0-rc1: [maven-release-plugin] copy for tag jackson-datatypes-misc-parent-2.1…](./jackson-datatypes-misc-parent-2.16.0-rc1: [maven-release-plugin] copy for tag jackson-datatypes-misc-parent-2.1…-20231021.md)|
 |jackson-datatypes-misc-parent-3.1.3|20260501|[jackson-datatypes-misc-parent-3.1.3](./jackson-datatypes-misc-parent-3.1.3-20260501.md)|
+|jackson-datatypes-misc-parent-2.22.1|20260707|[jackson-datatypes-misc-parent-2.22.1](./jackson-datatypes-misc-parent-2.22.1-20260707.md)|
 |jackson-datatypes-misc-parent-2.16.1|20231224|[jackson-datatypes-misc-parent-2.16.1](./jackson-datatypes-misc-parent-2.16.1-20231224.md)|
+|jackson-datatypes-misc-parent-3.1.5|20260708|[jackson-datatypes-misc-parent-3.1.5](./jackson-datatypes-misc-parent-3.1.5-20260708.md)|
 |jackson-datatypes-misc-parent-2.17.1|20240505|[jackson-datatypes-misc-parent-2.17.1](./jackson-datatypes-misc-parent-2.17.1-20240505.md)|
 |jackson-datatypes-misc-parent-2.18.8|20260529|[jackson-datatypes-misc-parent-2.18.8](./jackson-datatypes-misc-parent-2.18.8-20260529.md)|
 |jackson-datatypes-misc-parent-2.18.0-rc1|20240831|[jackson-datatypes-misc-parent-2.18.0-rc1](./jackson-datatypes-misc-parent-2.18.0-rc1-20240831.md)|
 |jackson-datatypes-misc-parent-2.17.3|20241102|[jackson-datatypes-misc-parent-2.17.3](./jackson-datatypes-misc-parent-2.17.3-20241102.md)|
 |jackson-datatypes-misc-parent-2.18.5|20251028|[jackson-datatypes-misc-parent-2.18.5](./jackson-datatypes-misc-parent-2.18.5-20251028.md)|
+|jackson-datatypes-misc-parent-3.2.1|20260710|[jackson-datatypes-misc-parent-3.2.1](./jackson-datatypes-misc-parent-3.2.1-20260710.md)|
+|jackson-datatypes-misc-parent-2.21.5|20260707|[jackson-datatypes-misc-parent-2.21.5](./jackson-datatypes-misc-parent-2.21.5-20260707.md)|
 |jackson-datatypes-misc-parent-2.20.1|20251031|[jackson-datatypes-misc-parent-2.20.1](./jackson-datatypes-misc-parent-2.20.1-20251031.md)|
 |jackson-datatypes-misc-parent-2.17.0|20240313|[jackson-datatypes-misc-parent-2.17.0](./jackson-datatypes-misc-parent-2.17.0-20240313.md)|
