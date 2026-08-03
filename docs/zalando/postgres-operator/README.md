@@ -7,6 +7,7 @@
 |Blissful Ant|20240531|[Blissful Ant](./Blissful Ant-20240531.md)|
 |Tactful Gerbil|20230421|[Tactful Gerbil](./Tactful Gerbil-20230421.md)|
 |Hopeful Amoeba|20241223|[Hopeful Amoeba](./Hopeful Amoeba-20241223.md)|
+|Postgres Operator v2|20260729|[Postgres Operator v2](./Postgres Operator v2-20260729.md)|
 |Boggling Mole|20251218|[Boggling Mole](./Boggling Mole-20251218.md)|
 |Gracious Iguanas|20220520|[Gracious Iguanas](./Gracious Iguanas-20220520.md)|
 |Armless ants|20240614|[Armless ants](./Armless ants-20240614.md)|
@@ -21,3 +22,4 @@
 |Gracious Iguana|20220520|[Gracious Iguana](./Gracious Iguana-20220520.md)|
 |Boggling Moles|20251218|[Boggling Moles](./Boggling Moles-20251218.md)|
 |Tactful Hamster|20230908|[Tactful Hamster](./Tactful Hamster-20230908.md)|
+|Postgres Operator v2.0.1|20260729|[Postgres Operator v2.0.1](./Postgres Operator v2.0.1-20260729.md)|
