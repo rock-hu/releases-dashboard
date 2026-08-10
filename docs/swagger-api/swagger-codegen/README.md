@@ -49,3 +49,4 @@
 |Swagger Codegen 2.4.43 has been released!|20240809|[Swagger Codegen 2.4.43 has been released!](./Swagger Codegen 2.4.43 has been released!-20240809.md)|
 |v3.0.75|20251014|[v3.0.75](./v3.0.75-20251014.md)|
 |Swagger Codegen 2.4.45 released!|20250606|[Swagger Codegen 2.4.45 released!](./Swagger Codegen 2.4.45 released!-20250606.md)|
+|v3.0.82|20260804|[v3.0.82](./v3.0.82-20260804.md)|

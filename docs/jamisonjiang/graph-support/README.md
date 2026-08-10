@@ -3,6 +3,7 @@
 
 |version|release date|changes|
 |---|---|---|
+|Release 1.5.3|20260806|[Release 1.5.3](./Release 1.5.3-20260806.md)|
 |Release 1.5.2|20250902|[Release 1.5.2](./Release 1.5.2-20250902.md)|
 | graph-support-1.0.1|20230405|[ graph-support-1.0.1](./ graph-support-1.0.1-20230405.md)|
 |Release 1.2.2|20231211|[Release 1.2.2](./Release 1.2.2-20231211.md)|

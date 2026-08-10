@@ -30,6 +30,7 @@
 |Version 1.43.0|20241011|[Version 1.43.0](./Version 1.43.0-20241011.md)|
 |Version 1.42.0|20240906|[Version 1.42.0](./Version 1.42.0-20240906.md)|
 |Version 1.62.0|20260508|[Version 1.62.0](./Version 1.62.0-20260508.md)|
+|Version 1.65.0|20260807|[Version 1.65.0](./Version 1.65.0-20260807.md)|
 |Version 1.64.0|20260710|[Version 1.64.0](./Version 1.64.0-20260710.md)|
 |Version 1.31.0|20231007|[Version 1.31.0](./Version 1.31.0-20231007.md)|
 |Version 1.34.0|20240106|[Version 1.34.0](./Version 1.34.0-20240106.md)|

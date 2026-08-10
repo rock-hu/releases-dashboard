@@ -17,6 +17,7 @@
 |netty-4.1.124.Final|20250813|[netty-4.1.124.Final](./netty-4.1.124.Final-20250813.md)|
 |netty-4.1.120.Final|20250423|[netty-4.1.120.Final](./netty-4.1.120.Final-20250423.md)|
 |netty-4.1.127.Final|20250908|[netty-4.1.127.Final](./netty-4.1.127.Final-20250908.md)|
+|netty-4.2.17.Final|20260804|[netty-4.2.17.Final](./netty-4.2.17.Final-20260804.md)|
 |netty-4.1.128.Final|20251014|[netty-4.1.128.Final](./netty-4.1.128.Final-20251014.md)|
 |netty-4.1.103.Final|20231213|[netty-4.1.103.Final](./netty-4.1.103.Final-20231213.md)|
 |netty-4.1.133.Final|20260505|[netty-4.1.133.Final](./netty-4.1.133.Final-20260505.md)|
@@ -71,3 +72,4 @@
 |netty-4.1.119.Final|20250226|[netty-4.1.119.Final](./netty-4.1.119.Final-20250226.md)|
 |netty-4.2.11.Final|20260324|[netty-4.2.11.Final](./netty-4.2.11.Final-20260324.md)|
 |netty-4.2.13.Final|20260519|[netty-4.2.13.Final](./netty-4.2.13.Final-20260519.md)|
+|netty-4.1.137.Final|20260806|[netty-4.1.137.Final](./netty-4.1.137.Final-20260806.md)|

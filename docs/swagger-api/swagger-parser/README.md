@@ -33,6 +33,7 @@
 |Swagger-parser 1.0.76 released!|20260414|[Swagger-parser 1.0.76 released!](./Swagger-parser 1.0.76 released!-20260414.md)|
 |Swagger-parser 1.0.72 released!|20241118|[Swagger-parser 1.0.72 released!](./Swagger-parser 1.0.72 released!-20241118.md)|
 |Swagger-parser 2.1.20 released!|20240118|[Swagger-parser 2.1.20 released!](./Swagger-parser 2.1.20 released!-20240118.md)|
+|Swagger-parser 2.1.46 released!|20260803|[Swagger-parser 2.1.46 released!](./Swagger-parser 2.1.46 released!-20260803.md)|
 |Errored release (compiler release = 11) - use v2.1.18|20231017|[Errored release (compiler release = 11) - use v2.1.18](./Errored release (compiler release = 11) - use v2.1.18-20231017.md)|
 |Swagger-parser 1.0.72 released!|20241119|[Swagger-parser 1.0.72 released!](./Swagger-parser 1.0.72 released!-20241119.md)|
 |Swagger-parser 1.0.75 released!|20250517|[Swagger-parser 1.0.75 released!](./Swagger-parser 1.0.75 released!-20250517.md)|
