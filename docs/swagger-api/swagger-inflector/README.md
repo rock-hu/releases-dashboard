@@ -3,6 +3,7 @@
 
 |version|release date|changes|
 |---|---|---|
+|Swagger-inflector 3.0.2 released!|20260819|[Swagger-inflector 3.0.2 released!](./Swagger-inflector 3.0.2 released!-20260819.md)|
 |Swagger-inflector 2.0.9 released!|20230311|[Swagger-inflector 2.0.9 released!](./Swagger-inflector 2.0.9 released!-20230311.md)|
 |Swagger-inflector 2.0.10 released!|20231017|[Swagger-inflector 2.0.10 released!](./Swagger-inflector 2.0.10 released!-20231017.md)|
 |Swagger-inflector 2.0.17 released!|20260414|[Swagger-inflector 2.0.17 released!](./Swagger-inflector 2.0.17 released!-20260414.md)|

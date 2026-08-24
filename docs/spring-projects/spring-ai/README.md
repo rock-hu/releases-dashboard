@@ -43,6 +43,7 @@
 |v1.0.0|20250519|[v1.0.0](./v1.0.0-20250519.md)|
 |Spring AI 2.0.0-RC1|20260606|[Spring AI 2.0.0-RC1](./Spring AI 2.0.0-RC1-20260606.md)|
 |Spring AI 1.1.0-RC1|20251108|[Spring AI 1.1.0-RC1](./Spring AI 1.1.0-RC1-20251108.md)|
+|Spring AI 2.0.1|20260821|[Spring AI 2.0.1](./Spring AI 2.0.1-20260821.md)|
 |Spring AI 1.0.8|20260522|[Spring AI 1.0.8](./Spring AI 1.0.8-20260522.md)|
 |v1.0.0-M3|20241021|[v1.0.0-M3](./v1.0.0-M3-20241021.md)|
 |Spring AI 2.0.0-M1|20251212|[Spring AI 2.0.0-M1](./Spring AI 2.0.0-M1-20251212.md)|

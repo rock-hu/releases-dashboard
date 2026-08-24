@@ -24,3 +24,4 @@
 |Panoramic Lapwing|20241213|[Panoramic Lapwing](./Panoramic Lapwing-20241213.md)|
 |Tactful Hamster|20230908|[Tactful Hamster](./Tactful Hamster-20230908.md)|
 |Blissful Ant|20240531|[Blissful Ant](./Blissful Ant-20240531.md)|
+|Postgres Operator v2.0.2|20260820|[Postgres Operator v2.0.2](./Postgres Operator v2.0.2-20260820.md)|
