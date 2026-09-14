@@ -31,6 +31,7 @@
 |create-react-native-library@0.58.2|20260402|[create-react-native-library@0.58.2](./create-react-native-library@0.58.2-20260402.md)|
 |create-react-native-library@0.59.1|20260407|[create-react-native-library@0.59.1](./create-react-native-library@0.59.1-20260407.md)|
 |create-react-native-library@0.54.5|20251004|[create-react-native-library@0.54.5](./create-react-native-library@0.54.5-20251004.md)|
+|create-react-native-library@0.63.1|20260908|[create-react-native-library@0.63.1](./create-react-native-library@0.63.1-20260908.md)|
 |create-react-native-library@0.50.0|20250503|[create-react-native-library@0.50.0](./create-react-native-library@0.50.0-20250503.md)|
 |create-react-native-library@0.51.0|20250614|[create-react-native-library@0.51.0](./create-react-native-library@0.51.0-20250614.md)|
 |docs@0.6.8|20251027|[docs@0.6.8](./docs@0.6.8-20251027.md)|
@@ -78,6 +79,7 @@
 |react-native-builder-bob@0.40.3|20250407|[react-native-builder-bob@0.40.3](./react-native-builder-bob@0.40.3-20250407.md)|
 |create-react-native-library@0.53.0|20250825|[create-react-native-library@0.53.0](./create-react-native-library@0.53.0-20250825.md)|
 |create-react-native-library@0.54.1|20250905|[create-react-native-library@0.54.1](./create-react-native-library@0.54.1-20250905.md)|
+|react-native-builder-bob@0.43.1|20260908|[react-native-builder-bob@0.43.1](./react-native-builder-bob@0.43.1-20260908.md)|
 |create-react-native-library@0.62.2|20260611|[create-react-native-library@0.62.2](./create-react-native-library@0.62.2-20260611.md)|
 |create-react-native-library@0.45.5|20241209|[create-react-native-library@0.45.5](./create-react-native-library@0.45.5-20241209.md)|
 |create-react-native-library@0.49.6|20250408|[create-react-native-library@0.49.6](./create-react-native-library@0.49.6-20250408.md)|

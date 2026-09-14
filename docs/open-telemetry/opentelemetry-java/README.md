@@ -23,6 +23,7 @@
 |Version 1.45.0|20241206|[Version 1.45.0](./Version 1.45.0-20241206.md)|
 |Version 1.43.0|20241012|[Version 1.43.0](./Version 1.43.0-20241012.md)|
 |Version 1.38.0|20240524|[Version 1.38.0](./Version 1.38.0-20240524.md)|
+|Version 1.66.0|20260911|[Version 1.66.0](./Version 1.66.0-20260911.md)|
 |Version 1.49.0|20250404|[Version 1.49.0](./Version 1.49.0-20250404.md)|
 |Version 1.60.1|20260308|[Version 1.60.1](./Version 1.60.1-20260308.md)|
 |Version 1.44.1|20241110|[Version 1.44.1](./Version 1.44.1-20241110.md)|
