@@ -40,6 +40,7 @@
 |jackson-modules-java8-2.18.10|20260816|[jackson-modules-java8-2.18.10](./jackson-modules-java8-2.18.10-20260816.md)|
 |jackson-modules-java8-2.20.2|20260119|[jackson-modules-java8-2.20.2](./jackson-modules-java8-2.20.2-20260119.md)|
 |jackson-modules-java8-2.21.1|20260223|[jackson-modules-java8-2.21.1](./jackson-modules-java8-2.21.1-20260223.md)|
+|jackson-modules-java8-2.18.11|20260921|[jackson-modules-java8-2.18.11](./jackson-modules-java8-2.18.11-20260921.md)|
 |jackson-modules-java8-2.17.1|20240505|[jackson-modules-java8-2.17.1](./jackson-modules-java8-2.17.1-20240505.md)|
 |jackson-modules-java8-2.20.1|20251031|[jackson-modules-java8-2.20.1](./jackson-modules-java8-2.20.1-20251031.md)|
 |jackson-modules-java8-2.19.3|20251029|[jackson-modules-java8-2.19.3](./jackson-modules-java8-2.19.3-20251029.md)|

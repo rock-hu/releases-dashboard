@@ -51,6 +51,7 @@
 |jackson-datatypes-collections-2.16.0-rc1: [maven-release-plugin] copy for tag jackson-datatypes-collections-2.1…|20231021|[jackson-datatypes-collections-2.16.0-rc1: [maven-release-plugin] copy for tag jackson-datatypes-collections-2.1…](./jackson-datatypes-collections-2.16.0-rc1: [maven-release-plugin] copy for tag jackson-datatypes-collections-2.1…-20231021.md)|
 |jackson-datatypes-collections-2.18.8|20260529|[jackson-datatypes-collections-2.18.8](./jackson-datatypes-collections-2.18.8-20260529.md)|
 |jackson-datatypes-collections-3.0.0-rc7|20250808|[jackson-datatypes-collections-3.0.0-rc7](./jackson-datatypes-collections-3.0.0-rc7-20250808.md)|
+|jackson-datatypes-collections-2.18.11|20260921|[jackson-datatypes-collections-2.18.11](./jackson-datatypes-collections-2.18.11-20260921.md)|
 |jackson-datatypes-collections-2.21.5|20260707|[jackson-datatypes-collections-2.21.5](./jackson-datatypes-collections-2.21.5-20260707.md)|
 |jackson-datatypes-collections-3.1.5|20260708|[jackson-datatypes-collections-3.1.5](./jackson-datatypes-collections-3.1.5-20260708.md)|
 |jackson-datatypes-collections-2.17.3|20241101|[jackson-datatypes-collections-2.17.3](./jackson-datatypes-collections-2.17.3-20241101.md)|

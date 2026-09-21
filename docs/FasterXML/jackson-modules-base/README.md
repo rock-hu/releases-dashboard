@@ -52,6 +52,7 @@
 |jackson-modules-base-2.18.1|20241028|[jackson-modules-base-2.18.1](./jackson-modules-base-2.18.1-20241028.md)|
 |jackson-modules-base-3.0.0-rc2|20250328|[jackson-modules-base-3.0.0-rc2](./jackson-modules-base-3.0.0-rc2-20250328.md)|
 |jackson-modules-base-2.22.2|20260816|[jackson-modules-base-2.22.2](./jackson-modules-base-2.22.2-20260816.md)|
+|jackson-modules-base-2.18.11|20260920|[jackson-modules-base-2.18.11](./jackson-modules-base-2.18.11-20260920.md)|
 |jackson-modules-base-3.0.0-rc6|20250719|[jackson-modules-base-3.0.0-rc6](./jackson-modules-base-3.0.0-rc6-20250719.md)|
 |jackson-modules-base-2.16.2|20240310|[jackson-modules-base-2.16.2](./jackson-modules-base-2.16.2-20240310.md)|
 |jackson-modules-base-2.21.4|20260529|[jackson-modules-base-2.21.4](./jackson-modules-base-2.21.4-20260529.md)|
