@@ -50,6 +50,7 @@
 |Version 2.21.0|20251018|[Version 2.21.0](./Version 2.21.0-20251018.md)|
 |Version 1.33.1|20240320|[Version 1.33.1](./Version 1.33.1-20240320.md)|
 |Version 2.22.0|20251120|[Version 2.22.0](./Version 2.22.0-20251120.md)|
+|Version 2.32.0|20261003|[Version 2.32.0](./Version 2.32.0-20261003.md)|
 |Version 2.26.1|20260323|[Version 2.26.1](./Version 2.26.1-20260323.md)|
 |Version 2.29.0|20260619|[Version 2.29.0](./Version 2.29.0-20260619.md)|
 |Version 2.6.0|20240717|[Version 2.6.0](./Version 2.6.0-20240717.md)|

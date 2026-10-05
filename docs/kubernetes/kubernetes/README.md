@@ -25,6 +25,7 @@
 |v1.35.5|20260512|[v1.35.5](./v1.35.5-20260512.md)|
 |v1.32.13|20260226|[v1.32.13](./v1.32.13-20260226.md)|
 |Kubernetes v1.32.4|20250423|[Kubernetes v1.32.4](./Kubernetes v1.32.4-20250423.md)|
+|v1.38.0-alpha.1|20260929|[v1.38.0-alpha.1](./v1.38.0-alpha.1-20260929.md)|
 |Kubernetes v1.32.10|20251112|[Kubernetes v1.32.10](./Kubernetes v1.32.10-20251112.md)|
 |Kubernetes v1.30.11|20250312|[Kubernetes v1.30.11](./Kubernetes v1.30.11-20250312.md)|
 |Kubernetes v1.33.0-alpha.3|20250304|[Kubernetes v1.33.0-alpha.3](./Kubernetes v1.33.0-alpha.3-20250304.md)|

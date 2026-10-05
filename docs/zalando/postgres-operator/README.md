@@ -5,12 +5,14 @@
 |---|---|---|
 |Gracious Iguanas|20220520|[Gracious Iguanas](./Gracious Iguanas-20220520.md)|
 |Boggling Mole|20251021|[Boggling Mole](./Boggling Mole-20251021.md)|
+|Postgres Operator v2.0.2|20261002|[Postgres Operator v2.0.2](./Postgres Operator v2.0.2-20261002.md)|
 |Armless ants|20240614|[Armless ants](./Armless ants-20240614.md)|
 |Panoramic Lapwing|20241213|[Panoramic Lapwing](./Panoramic Lapwing-20241213.md)|
 |Blissful Ant|20240531|[Blissful Ant](./Blissful Ant-20240531.md)|
 |Postgres Operator v2.0.2|20260820|[Postgres Operator v2.0.2](./Postgres Operator v2.0.2-20260820.md)|
 |Postgres Operator v2.0.2|20260924|[Postgres Operator v2.0.2](./Postgres Operator v2.0.2-20260924.md)|
 |Blissful Ant|20240601|[Blissful Ant](./Blissful Ant-20240601.md)|
+|Postgres Operator v2.0.3|20261002|[Postgres Operator v2.0.3](./Postgres Operator v2.0.3-20261002.md)|
 |Gracious Iguana|20220520|[Gracious Iguana](./Gracious Iguana-20220520.md)|
 |Tactful Hamster|20230908|[Tactful Hamster](./Tactful Hamster-20230908.md)|
 |Deliberate Dog|20240329|[Deliberate Dog](./Deliberate Dog-20240329.md)|
